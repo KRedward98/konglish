@@ -1,0 +1,2258 @@
+[
+  {
+    "pair": ["Abstain", "Abstain from"],
+    "entries": [
+      {
+        "word": "Abstain",
+        "meaning_ko": "자제하다, 삼가다",
+        "example": "He decided to abstain from voting in the election."
+      },
+      {
+        "word": "Abstain from",
+        "meaning_ko": "~을 삼가다",
+        "example": "Doctors advise patients to abstain from alcohol after surgery."
+      }
+    ]
+  },
+  {
+    "pair": ["Accept", "Except"],
+    "entries": [
+      {
+        "word": "Accept",
+        "meaning_ko": "받아들이다",
+        "example": "She accepted the job offer without hesitation."
+      },
+      {
+        "word": "Except",
+        "meaning_ko": "~을 제외하고",
+        "example": "Everyone was invited except Tom."
+      }
+    ]
+  },
+  {
+    "pair": ["Access", "Excess"],
+    "entries": [
+      {
+        "word": "Access",
+        "meaning_ko": "접근(하다)",
+        "example": "Only employees have access to the secure area."
+      },
+      {
+        "word": "Excess",
+        "meaning_ko": "과잉, 초과",
+        "example": "Excess sugar can lead to health problems."
+      }
+    ]
+  },
+  {
+    "pair": ["Acknowledge", "Recognize"],
+    "entries": [
+      {
+        "word": "Acknowledge",
+        "meaning_ko": "인정하다",
+        "example": "He finally acknowledged his mistake."
+      },
+      {
+        "word": "Recognize",
+        "meaning_ko": "알아보다",
+        "example": "I didn’t recognize her with the new hairstyle."
+      }
+    ]
+  },
+  {
+    "pair": ["Administer", "Administrate"],
+    "entries": [
+      {
+        "word": "Administer",
+        "meaning_ko": "관리하다, 집행하다",
+        "example": "The nurse administered the medication at 8 a.m."
+      },
+      {
+        "word": "Administrate",
+        "meaning_ko": "관리하다 (비표준에 가까움)",
+        "example": "He helps administrate the company website. (보통은 “administer” 사용)"
+      }
+    ]
+  },
+  {
+    "pair": ["Adopt", "Adapt"],
+    "entries": [
+      {
+        "word": "Adopt",
+        "meaning_ko": "입양하다, 채택하다",
+        "example": "They decided to adopt a child from overseas."
+      },
+      {
+        "word": "Adapt",
+        "meaning_ko": "적응하다",
+        "example": "She quickly adapted to her new environment."
+      }
+    ]
+  },
+  {
+    "pair": ["Adverse", "Averse"],
+    "entries": [
+      {
+        "word": "Adverse",
+        "meaning_ko": "부정적인",
+        "example": "The medication may cause adverse side effects."
+      },
+      {
+        "word": "Averse",
+        "meaning_ko": "반대하는",
+        "example": "He is averse to taking unnecessary risks."
+      }
+    ]
+  },
+  {
+    "pair": ["Advise", "Advice"],
+    "entries": [
+      {
+        "word": "Advise",
+        "meaning_ko": "조언하다",
+        "example": "I strongly advise you to take the train."
+      },
+      {
+        "word": "Advice",
+        "meaning_ko": "조언",
+        "example": "Thanks for your helpful advice."
+      }
+    ]
+  },
+  {
+    "pair": ["Affect", "Effect"],
+    "entries": [
+      {
+        "word": "Affect",
+        "meaning_ko": "영향을 미치다",
+        "example": "The weather can affect your mood."
+      },
+      {
+        "word": "Effect",
+        "meaning_ko": "영향, 결과",
+        "example": "The new law had a positive effect on pollution levels."
+      }
+    ]
+  },
+  {
+    "pair": ["Aisle", "Isle"],
+    "entries": [
+      {
+        "word": "Aisle",
+        "meaning_ko": "통로",
+        "example": "She walked down the aisle slowly during the wedding."
+      },
+      {
+        "word": "Isle",
+        "meaning_ko": "섬",
+        "example": "They spent their vacation on a remote isle."
+      }
+    ]
+  },
+  {
+    "pair": ["All ready", "Already"],
+    "entries": [
+      {
+        "word": "All ready",
+        "meaning_ko": "모두 준비된",
+        "example": "We’re all ready to leave."
+      },
+      {
+        "word": "Already",
+        "meaning_ko": "이미",
+        "example": "I’ve already eaten lunch."
+      }
+    ]
+  },
+  {
+    "pair": ["All together", "Altogether"],
+    "entries": [
+      {
+        "word": "All together",
+        "meaning_ko": "모두 함께",
+        "example": "They arrived all together in a big group."
+      },
+      {
+        "word": "Altogether",
+        "meaning_ko": "완전히, 전부 합쳐",
+        "example": "Altogether, it cost over $100."
+      }
+    ]
+  },
+  {
+    "pair": ["Allude", "Elude"],
+    "entries": [
+      {
+        "word": "Allude",
+        "meaning_ko": "암시하다",
+        "example": "He alluded to his past without going into detail."
+      },
+      {
+        "word": "Elude",
+        "meaning_ko": "피하다",
+        "example": "The thief managed to elude capture."
+      }
+    ]
+  },
+  {
+    "pair": ["Allusion", "Illusion"],
+    "entries": [
+      {
+        "word": "Allusion",
+        "meaning_ko": "암시",
+        "example": "The book contains many allusions to classical mythology."
+      },
+      {
+        "word": "Illusion",
+        "meaning_ko": "환상, 착각",
+        "example": "The magician created the illusion of levitation."
+      }
+    ]
+  },
+  {
+    "pair": ["Alternate", "Alternative"],
+    "entries": [
+      {
+        "word": "Alternate",
+        "meaning_ko": "번갈아 일어나는",
+        "example": "We meet on alternate Fridays."
+      },
+      {
+        "word": "Alternative",
+        "meaning_ko": "대안",
+        "example": "We need to find an alternative solution."
+      }
+    ]
+  },
+  {
+    "pair": ["Amend", "Emend"],
+    "entries": [
+      {
+        "word": "Amend",
+        "meaning_ko": "수정하다 (법, 문서)",
+        "example": "Congress voted to amend the constitution."
+      },
+      {
+        "word": "Emend",
+        "meaning_ko": "교정하다 (글 등)",
+        "example": "The editor emended the manuscript before publishing."
+      }
+    ]
+  },
+  {
+    "pair": ["Appraise", "Apprise"],
+    "entries": [
+      {
+        "word": "Appraise",
+        "meaning_ko": "감정하다, 평가하다",
+        "example": "They appraised the value of the painting."
+      },
+      {
+        "word": "Apprise",
+        "meaning_ko": "알리다",
+        "example": "Please apprise me of any changes in the schedule."
+      }
+    ]
+  },
+  {
+    "pair": ["Arouse", "Rouse"],
+    "entries": [
+      {
+        "word": "Arouse",
+        "meaning_ko": "자극하다, (감정 등을) 불러일으키다",
+        "example": "The speech aroused strong emotions among the audience."
+      },
+      {
+        "word": "Rouse",
+        "meaning_ko": "깨우다, 자극하다",
+        "example": "He was roused from sleep by the alarm clock."
+      }
+    ]
+  },
+  {
+    "pair": ["Assume", "Presume"],
+    "entries": [
+      {
+        "word": "Assume",
+        "meaning_ko": "가정하다, 추정하다",
+        "example": "I assumed you had already left."
+      },
+      {
+        "word": "Presume",
+        "meaning_ko": "추정하다",
+        "example": "I presume he knows what he’s doing."
+      }
+    ]
+  },
+  {
+    "pair": ["Assure", "Ensure", "Insure"],
+    "entries": [
+      {
+        "word": "Assure",
+        "meaning_ko": "확신시키다",
+        "example": "She assured me everything would be fine."
+      },
+      {
+        "word": "Ensure",
+        "meaning_ko": "보장하다",
+        "example": "Please ensure that the door is locked."
+      },
+      {
+        "word": "Insure",
+        "meaning_ko": "보험을 들다",
+        "example": "We insured our house against fire and theft."
+      }
+    ]
+  },
+  {
+    "pair": ["Attain", "Obtain"],
+    "entries": [
+      {
+        "word": "Attain",
+        "meaning_ko": "(노력 끝에) 달성하다",
+        "example": "He attained his goal of becoming a doctor."
+      },
+      {
+        "word": "Obtain",
+        "meaning_ko": "얻다, 획득하다",
+        "example": "You need a permit to obtain this material."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Back", "Backward"],
+    "entries": [
+      {
+        "word": "Back",
+        "meaning_ko": "뒤, 뒤쪽 / 돌아가다",
+        "example": "He looked back before leaving the room."
+      },
+      {
+        "word": "Backward",
+        "meaning_ko": "뒤쪽의, 퇴보한",
+        "example": "The country has a backward education system."
+      }
+    ]
+  },
+  {
+    "pair": ["Backward", "Backwards"],
+    "entries": [
+      {
+        "word": "Backward",
+        "meaning_ko": "뒤로 향한, 후진적인",
+        "example": "She took a backward step."
+      },
+      {
+        "word": "Backwards",
+        "meaning_ko": "뒤로, 거꾸로 (부사형)",
+        "example": "He fell backwards off the chair."
+      }
+    ]
+  },
+  {
+    "pair": ["Bad", "Badly"],
+    "entries": [
+      {
+        "word": "Bad",
+        "meaning_ko": "나쁜",
+        "example": "That’s a bad idea."
+      },
+      {
+        "word": "Badly",
+        "meaning_ko": "나쁘게, 형편없이",
+        "example": "She sings badly but tries hard."
+      }
+    ]
+  },
+  {
+    "pair": ["Bare", "Bear"],
+    "entries": [
+      {
+        "word": "Bare",
+        "meaning_ko": "벌거벗은, 드러난",
+        "example": "He walked on the bare floor."
+      },
+      {
+        "word": "Bear",
+        "meaning_ko": "곰 / 참다",
+        "example": "I can’t bear the pain any longer."
+      }
+    ]
+  },
+  {
+    "pair": ["Barely", "Barley"],
+    "entries": [
+      {
+        "word": "Barely",
+        "meaning_ko": "거의 ~않다",
+        "example": "I could barely hear him."
+      },
+      {
+        "word": "Barley",
+        "meaning_ko": "보리 (곡물)",
+        "example": "Barley is often used in soups."
+      }
+    ]
+  },
+  {
+    "pair": ["Base", "Bass"],
+    "entries": [
+      {
+        "word": "Base",
+        "meaning_ko": "기초, 근거 / 기반하다",
+        "example": "The theory has no scientific base."
+      },
+      {
+        "word": "Bass",
+        "meaning_ko": "베이스(음, 악기), 농어(물고기)",
+        "example": "He plays bass guitar."
+      }
+    ]
+  },
+  {
+    "pair": ["Beat", "Beet"],
+    "entries": [
+      {
+        "word": "Beat",
+        "meaning_ko": "치다 / 박자",
+        "example": "The drums beat loudly."
+      },
+      {
+        "word": "Beet",
+        "meaning_ko": "비트(채소)",
+        "example": "She added beet to the salad."
+      }
+    ]
+  },
+  {
+    "pair": ["Beside", "Besides"],
+    "entries": [
+      {
+        "word": "Beside",
+        "meaning_ko": "~옆에",
+        "example": "She sat beside me."
+      },
+      {
+        "word": "Besides",
+        "meaning_ko": "게다가, ~외에도",
+        "example": "Besides English, he speaks Spanish."
+      }
+    ]
+  },
+  {
+    "pair": ["Bore", "Boar"],
+    "entries": [
+      {
+        "word": "Bore",
+        "meaning_ko": "지루하게 하다 / 뚫다",
+        "example": "The lecture bored everyone."
+      },
+      {
+        "word": "Boar",
+        "meaning_ko": "멧돼지",
+        "example": "A wild boar ran through the forest."
+      }
+    ]
+  },
+  {
+    "pair": ["Born", "Borne"],
+    "entries": [
+      {
+        "word": "Born",
+        "meaning_ko": "태어난",
+        "example": "She was born in 1995."
+      },
+      {
+        "word": "Borne",
+        "meaning_ko": "운반된, 참아낸 (bear의 과거분사)",
+        "example": "The weight was borne by the bridge."
+      }
+    ]
+  },
+  {
+    "pair": ["Breach", "Breech"],
+    "entries": [
+      {
+        "word": "Breach",
+        "meaning_ko": "위반, 침해",
+        "example": "He was fined for breach of contract."
+      },
+      {
+        "word": "Breech",
+        "meaning_ko": "(총기나 바지의) 뒤쪽 부분",
+        "example": "The rifle jammed in the breech."
+      }
+    ]
+  },
+  {
+    "pair": ["Breath", "Breathe"],
+    "entries": [
+      {
+        "word": "Breath",
+        "meaning_ko": "숨 (명사)",
+        "example": "Take a deep breath."
+      },
+      {
+        "word": "Breathe",
+        "meaning_ko": "숨 쉬다 (동사)",
+        "example": "Just relax and breathe slowly."
+      }
+    ]
+  },
+  {
+    "pair": ["Buy", "By", "Bye"],
+    "entries": [
+      {
+        "word": "Buy",
+        "meaning_ko": "사다",
+        "example": "I’ll buy some groceries."
+      },
+      {
+        "word": "By",
+        "meaning_ko": "~옆에 / ~에 의해",
+        "example": "The book was written by her."
+      },
+      {
+        "word": "Bye",
+        "meaning_ko": "잘 가",
+        "example": "Bye! See you tomorrow!"
+      }
+    ]
+  },
+  {
+    "pair": ["Capital", "Capitol"],
+    "entries": [
+      {
+        "word": "Capital",
+        "meaning_ko": "수도 / 자본 / 대문자",
+        "example": "Tokyo is the capital of Japan."
+      },
+      {
+        "word": "Capitol",
+        "meaning_ko": "(미국의) 국회의사당",
+        "example": "They toured the U.S. Capitol building."
+      }
+    ]
+  },
+  {
+    "pair": ["Canvas", "Canvass"],
+    "entries": [
+      {
+        "word": "Canvas",
+        "meaning_ko": "캔버스 천 / 화폭",
+        "example": "She painted on a large canvas."
+      },
+      {
+        "word": "Canvass",
+        "meaning_ko": "홍보/조사하다",
+        "example": "They canvassed the neighborhood for votes."
+      }
+    ]
+  },
+  {
+    "pair": ["Censure", "Censor"],
+    "entries": [
+      {
+        "word": "Censure",
+        "meaning_ko": "비난하다",
+        "example": "The senator was formally censured."
+      },
+      {
+        "word": "Censor",
+        "meaning_ko": "검열하다",
+        "example": "The film was censored for violence."
+      }
+    ]
+  },
+  {
+    "pair": ["Cereal", "Serial"],
+    "entries": [
+      {
+        "word": "Cereal",
+        "meaning_ko": "시리얼, 곡물",
+        "example": "She eats cereal every morning."
+      },
+      {
+        "word": "Serial",
+        "meaning_ko": "연속물, 연속적인",
+        "example": "The show is a crime serial."
+      }
+    ]
+  },
+  {
+    "pair": ["Chord", "Cord"],
+    "entries": [
+      {
+        "word": "Chord",
+        "meaning_ko": "화음, 코드 (음악)",
+        "example": "He played a G chord on the guitar."
+      },
+      {
+        "word": "Cord",
+        "meaning_ko": "끈, 줄, 전선",
+        "example": "Unplug the cord from the wall."
+      }
+    ]
+  },
+  {
+    "pair": ["Cite", "Site", "Sight"],
+    "entries": [
+      {
+        "word": "Cite",
+        "meaning_ko": "인용하다",
+        "example": "He cited a famous study."
+      },
+      {
+        "word": "Site",
+        "meaning_ko": "장소, 부지",
+        "example": "This is a construction site."
+      },
+      {
+        "word": "Sight",
+        "meaning_ko": "시력, 시야 / 보기",
+        "example": "The sunset was a beautiful sight."
+      }
+    ]
+  },
+  {
+    "pair": ["Climactic", "Climatic"],
+    "entries": [
+      {
+        "word": "Climactic",
+        "meaning_ko": "절정의, 클라이맥스의",
+        "example": "The movie had a climactic ending."
+      },
+      {
+        "word": "Climatic",
+        "meaning_ko": "기후의",
+        "example": "Climatic conditions vary by region."
+      }
+    ]
+  },
+  {
+    "pair": ["Clothes", "Cloths"],
+    "entries": [
+      {
+        "word": "Clothes",
+        "meaning_ko": "옷",
+        "example": "She packed her clothes in a suitcase."
+      },
+      {
+        "word": "Cloths",
+        "meaning_ko": "천 조각",
+        "example": "Wipe the table with a clean cloth."
+      }
+    ]
+  },
+  {
+    "pair": ["Coarse", "Course"],
+    "entries": [
+      {
+        "word": "Coarse",
+        "meaning_ko": "거친, 조악한",
+        "example": "The fabric was coarse and itchy."
+      },
+      {
+        "word": "Course",
+        "meaning_ko": "과정 / 강좌 / 항로",
+        "example": "He took a course in chemistry."
+      }
+    ]
+  },
+  {
+    "pair": ["Collage", "College"],
+    "entries": [
+      {
+        "word": "Collage",
+        "meaning_ko": "콜라주 (붙여 만든 예술작품)",
+        "example": "She made a photo collage."
+      },
+      {
+        "word": "College",
+        "meaning_ko": "대학",
+        "example": "He studied biology at college."
+      }
+    ]
+  },
+  {
+    "pair": ["Complement", "Compliment"],
+    "entries": [
+      {
+        "word": "Complement",
+        "meaning_ko": "보완하다, 보완물",
+        "example": "The wine complements the meal."
+      },
+      {
+        "word": "Compliment",
+        "meaning_ko": "칭찬(하다)",
+        "example": "She gave me a nice compliment."
+      }
+    ]
+  },
+  {
+    "pair": ["Complimentary", "Complementary"],
+    "entries": [
+      {
+        "word": "Complimentary",
+        "meaning_ko": "무료의 / 칭찬하는",
+        "example": "The hotel offers complimentary breakfast."
+      },
+      {
+        "word": "Complementary",
+        "meaning_ko": "보완적인, 서로 보충하는",
+        "example": "Their skills are complementary."
+      }
+    ]
+  },
+  {
+    "pair": ["Conscience", "Conscious"],
+    "entries": [
+      {
+        "word": "Conscience",
+        "meaning_ko": "양심",
+        "example": "His conscience wouldn’t let him lie."
+      },
+      {
+        "word": "Conscious",
+        "meaning_ko": "의식적인, 깨어있는",
+        "example": "She was conscious after the accident."
+      }
+    ]
+  },
+  {
+    "pair": ["Confident", "Confidant"],
+    "entries": [
+      {
+        "word": "Confident",
+        "meaning_ko": "자신 있는",
+        "example": "He’s confident about the exam."
+      },
+      {
+        "word": "Confidant",
+        "meaning_ko": "(비밀을 털어놓는) 절친한 친구",
+        "example": "She’s my closest confidant."
+      }
+    ]
+  },
+  {
+    "pair": ["Contagious", "Infectious"],
+    "entries": [
+      {
+        "word": "Contagious",
+        "meaning_ko": "전염성 있는 (쉽게 옮기는)",
+        "example": "The flu is highly contagious."
+      },
+      {
+        "word": "Infectious",
+        "meaning_ko": "감염되는 / 전염성 있는 (감정을 포함)",
+        "example": "His laughter was infectious."
+      }
+    ]
+  },
+  {
+    "pair": ["Continual", "Continuous"],
+    "entries": [
+      {
+        "word": "Continual",
+        "meaning_ko": "빈번한, 되풀이되는 (중간 쉬는 간격 있음)",
+        "example": "She complained about the continual noise."
+      },
+      {
+        "word": "Continuous",
+        "meaning_ko": "끊임없는, 연속적인",
+        "example": "The machine ran continuously for 10 hours."
+      }
+    ]
+  },
+  {
+    "pair": ["Council", "Counsel"],
+    "entries": [
+      {
+        "word": "Council",
+        "meaning_ko": "위원회, 협의회",
+        "example": "The city council met yesterday."
+      },
+      {
+        "word": "Counsel",
+        "meaning_ko": "조언 / 변호사",
+        "example": "She sought legal counsel."
+      }
+    ]
+  },
+  {
+    "pair": ["Credible", "Creditable"],
+    "entries": [
+      {
+        "word": "Credible",
+        "meaning_ko": "믿을 수 있는",
+        "example": "He’s a credible witness."
+      },
+      {
+        "word": "Creditable",
+        "meaning_ko": "칭찬할 만한",
+        "example": "It was a creditable performance."
+      }
+    ]
+  },
+  {
+    "pair": ["Criteria", "Criterion"],
+    "entries": [
+      {
+        "word": "Criteria",
+        "meaning_ko": "기준들 (복수형)",
+        "example": "We have several criteria for selection."
+      },
+      {
+        "word": "Criterion",
+        "meaning_ko": "기준 (단수형)",
+        "example": "The main criterion is cost."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Currant", "Current"],
+    "entries": [
+      {
+        "word": "Currant",
+        "meaning_ko": "건포도, 커런트 (작은 열매)",
+        "example": "She added currants to the cake."
+      },
+      {
+        "word": "Current",
+        "meaning_ko": "현재의 / 흐름",
+        "example": "The current situation is difficult."
+      }
+    ]
+  },
+  {
+    "pair": ["Definite", "Definitive"],
+    "entries": [
+      {
+        "word": "Definite",
+        "meaning_ko": "명확한, 확실한",
+        "example": "We need a definite answer by tomorrow."
+      },
+      {
+        "word": "Definitive",
+        "meaning_ko": "결정적인, 최종적인",
+        "example": "This is the definitive guide to Italian cooking."
+      }
+    ]
+  },
+  {
+    "pair": ["Defuse", "Diffuse"],
+    "entries": [
+      {
+        "word": "Defuse",
+        "meaning_ko": "긴장을 완화하다, 폭탄을 해체하다",
+        "example": "She tried to defuse the situation with humor."
+      },
+      {
+        "word": "Diffuse",
+        "meaning_ko": "퍼뜨리다, 확산시키다",
+        "example": "The scent diffused through the room."
+      }
+    ]
+  },
+  {
+    "pair": ["Descent", "Dissent"],
+    "entries": [
+      {
+        "word": "Descent",
+        "meaning_ko": "하강, 혈통",
+        "example": "The plane began its descent."
+      },
+      {
+        "word": "Dissent",
+        "meaning_ko": "반대, 이의",
+        "example": "There was strong dissent among the members."
+      }
+    ]
+  },
+  {
+    "pair": ["Desert", "Dessert"],
+    "entries": [
+      {
+        "word": "Desert",
+        "meaning_ko": "사막 / 버리다",
+        "example": "They crossed the desert on camels."
+      },
+      {
+        "word": "Dessert",
+        "meaning_ko": "후식",
+        "example": "We had ice cream for dessert."
+      }
+    ]
+  },
+  {
+    "pair": ["Device", "Devise"],
+    "entries": [
+      {
+        "word": "Device",
+        "meaning_ko": "장치",
+        "example": "This device charges your phone wirelessly."
+      },
+      {
+        "word": "Devise",
+        "meaning_ko": "고안하다",
+        "example": "She devised a clever plan."
+      }
+    ]
+  },
+  {
+    "pair": ["Discreet", "Discrete"],
+    "entries": [
+      {
+        "word": "Discreet",
+        "meaning_ko": "신중한, 조심스러운",
+        "example": "Be discreet when handling confidential matters."
+      },
+      {
+        "word": "Discrete",
+        "meaning_ko": "별개의, 분리된",
+        "example": "The system consists of discrete modules."
+      }
+    ]
+  },
+  {
+    "pair": ["Disinterested", "Uninterested"],
+    "entries": [
+      {
+        "word": "Disinterested",
+        "meaning_ko": "공평한, 사심 없는",
+        "example": "A judge must remain disinterested."
+      },
+      {
+        "word": "Uninterested",
+        "meaning_ko": "관심 없는",
+        "example": "He was uninterested in the topic."
+      }
+    ]
+  },
+  {
+    "pair": ["Disassemble", "Dissemble"],
+    "entries": [
+      {
+        "word": "Disassemble",
+        "meaning_ko": "분해하다",
+        "example": "We had to disassemble the furniture to move it."
+      },
+      {
+        "word": "Dissemble",
+        "meaning_ko": "숨기다, 속이다",
+        "example": "He tried to dissemble his true feelings."
+      }
+    ]
+  },
+  {
+    "pair": ["Dual", "Duel"],
+    "entries": [
+      {
+        "word": "Dual",
+        "meaning_ko": "이중의, 두 가지의",
+        "example": "He holds dual citizenship."
+      },
+      {
+        "word": "Duel",
+        "meaning_ko": "결투",
+        "example": "They fought a duel over honor."
+      }
+    ]
+  },
+  {
+    "pair": ["Economic", "Economical"],
+    "entries": [
+      {
+        "word": "Economic",
+        "meaning_ko": "경제의",
+        "example": "The country is facing economic challenges."
+      },
+      {
+        "word": "Economical",
+        "meaning_ko": "절약하는",
+        "example": "This car is very economical on fuel."
+      }
+    ]
+  },
+  {
+    "pair": ["Elicit", "Illicit"],
+    "entries": [
+      {
+        "word": "Elicit",
+        "meaning_ko": "끌어내다",
+        "example": "The teacher elicited a response from the class."
+      },
+      {
+        "word": "Illicit",
+        "meaning_ko": "불법의",
+        "example": "He was arrested for illicit drug use."
+      }
+    ]
+  },
+  {
+    "pair": ["Emigrate", "Immigrate"],
+    "entries": [
+      {
+        "word": "Emigrate",
+        "meaning_ko": "이민 가다",
+        "example": "They emigrated from Ireland to Canada."
+      },
+      {
+        "word": "Immigrate",
+        "meaning_ko": "이민 오다",
+        "example": "She immigrated to the U.S. in 2005."
+      }
+    ]
+  },
+  {
+    "pair": ["Eminent", "Imminent"],
+    "entries": [
+      {
+        "word": "Eminent",
+        "meaning_ko": "저명한, 뛰어난",
+        "example": "He’s an eminent scientist."
+      },
+      {
+        "word": "Imminent",
+        "meaning_ko": "임박한",
+        "example": "A storm is imminent."
+      }
+    ]
+  },
+  {
+    "pair": ["Envelop", "Envelope"],
+    "entries": [
+      {
+        "word": "Envelop",
+        "meaning_ko": "감싸다, 덮다",
+        "example": "Fog enveloped the entire valley."
+      },
+      {
+        "word": "Envelope",
+        "meaning_ko": "봉투",
+        "example": "She sealed the letter in an envelope."
+      }
+    ]
+  },
+  {
+    "pair": ["Evoke", "Invoke"],
+    "entries": [
+      {
+        "word": "Evoke",
+        "meaning_ko": "불러일으키다",
+        "example": "The movie evoked memories of her childhood."
+      },
+      {
+        "word": "Invoke",
+        "meaning_ko": "호소하다 / (법·권한을) 발동하다",
+        "example": "He invoked his right to remain silent."
+      }
+    ]
+  },
+  {
+    "pair": ["Exceptionable", "Exceptional"],
+    "entries": [
+      {
+        "word": "Exceptionable",
+        "meaning_ko": "이의가 있을 수 있는, 비난받을 수 있는",
+        "example": "His behavior was morally exceptionable."
+      },
+      {
+        "word": "Exceptional",
+        "meaning_ko": "예외적인, 뛰어난",
+        "example": "She has exceptional talent in music."
+      }
+    ]
+  },
+  {
+    "pair": ["Expand", "Expend"],
+    "entries": [
+      {
+        "word": "Expand",
+        "meaning_ko": "확장하다",
+        "example": "They plan to expand the business."
+      },
+      {
+        "word": "Expend",
+        "meaning_ko": "소비하다, 쓰다",
+        "example": "We expended a lot of effort on this project."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Faint", "Feint"],
+    "entries": [
+      {
+        "word": "Faint",
+        "meaning_ko": "희미한 / 기절하다",
+        "example": "There was a faint smell of smoke."
+      },
+      {
+        "word": "Feint",
+        "meaning_ko": "속임수 동작 (특히 스포츠에서)",
+        "example": "He made a feint to the left before scoring."
+      }
+    ]
+  },
+  {
+    "pair": ["Farther", "Further"],
+    "entries": [
+      {
+        "word": "Farther",
+        "meaning_ko": "더 멀리 (거리)",
+        "example": "How much farther is the next town?"
+      },
+      {
+        "word": "Further",
+        "meaning_ko": "더 나아가 (거리 외 추상적인 개념)",
+        "example": "We need to discuss this further."
+      }
+    ]
+  },
+  {
+    "pair": ["Faze", "Phase"],
+    "entries": [
+      {
+        "word": "Faze",
+        "meaning_ko": "당황하게 하다",
+        "example": "She wasn’t fazed by the criticism."
+      },
+      {
+        "word": "Phase",
+        "meaning_ko": "단계, 국면",
+        "example": "This is just a temporary phase."
+      }
+    ]
+  },
+  {
+    "pair": ["Fewer", "Less"],
+    "entries": [
+      {
+        "word": "Fewer",
+        "meaning_ko": "더 적은 (셀 수 있는 명사)",
+        "example": "There were fewer people at the event this year."
+      },
+      {
+        "word": "Less",
+        "meaning_ko": "더 적은 (셀 수 없는 명사)",
+        "example": "She has less time to study now."
+      }
+    ]
+  },
+  {
+    "pair": ["Flair", "Flare"],
+    "entries": [
+      {
+        "word": "Flair",
+        "meaning_ko": "재능, 센스",
+        "example": "She has a flair for languages."
+      },
+      {
+        "word": "Flare",
+        "meaning_ko": "불길, 확 타오름",
+        "example": "A flare lit up the night sky."
+      }
+    ]
+  },
+  {
+    "pair": ["Flaunt", "Flout"],
+    "entries": [
+      {
+        "word": "Flaunt",
+        "meaning_ko": "과시하다",
+        "example": "He likes to flaunt his wealth."
+      },
+      {
+        "word": "Flout",
+        "meaning_ko": "무시하다, 어기다",
+        "example": "They flouted the safety rules."
+      }
+    ]
+  },
+  {
+    "pair": ["Forbear", "Forebear"],
+    "entries": [
+      {
+        "word": "Forbear",
+        "meaning_ko": "참다, 억제하다",
+        "example": "Please forbear from making loud noises."
+      },
+      {
+        "word": "Forebear",
+        "meaning_ko": "조상",
+        "example": "His forebears came from Scotland."
+      }
+    ]
+  },
+  {
+    "pair": ["Foreword", "Forward"],
+    "entries": [
+      {
+        "word": "Foreword",
+        "meaning_ko": "(책의) 서문",
+        "example": "The book includes a foreword by the author."
+      },
+      {
+        "word": "Forward",
+        "meaning_ko": "앞으로 / 전달하다",
+        "example": "She stepped forward to speak."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Formally", "Formerly"],
+    "entries": [
+      {
+        "word": "Formally",
+        "meaning_ko": "공식적으로",
+        "example": "He was formally introduced as the new CEO."
+      },
+      {
+        "word": "Formerly",
+        "meaning_ko": "이전에",
+        "example": "She was formerly employed at another firm."
+      }
+    ]
+  },
+  {
+    "pair": ["Gamble", "Gambol"],
+    "entries": [
+      {
+        "word": "Gamble",
+        "meaning_ko": "도박하다",
+        "example": "He likes to gamble at the casino."
+      },
+      {
+        "word": "Gambol",
+        "meaning_ko": "뛰놀다, 장난치다",
+        "example": "The lambs gambolled in the field."
+      }
+    ]
+  },
+  {
+    "pair": ["Gorilla", "Guerrilla"],
+    "entries": [
+      {
+        "word": "Gorilla",
+        "meaning_ko": "고릴라 (동물)",
+        "example": "The gorilla at the zoo is very popular."
+      },
+      {
+        "word": "Guerrilla",
+        "meaning_ko": "게릴라 (비정규 전투원)",
+        "example": "The guerrilla fighters attacked at night."
+      }
+    ]
+  },
+  {
+    "pair": ["Grisly", "Grizzly"],
+    "entries": [
+      {
+        "word": "Grisly",
+        "meaning_ko": "섬뜩한, 소름 끼치는",
+        "example": "The movie featured a grisly murder scene."
+      },
+      {
+        "word": "Grizzly",
+        "meaning_ko": "회색의 / 회색곰",
+        "example": "We saw a grizzly bear in the forest."
+      }
+    ]
+  },
+  {
+    "pair": ["Hear", "Here"],
+    "entries": [
+      {
+        "word": "Hear",
+        "meaning_ko": "듣다",
+        "example": "Can you hear the music?"
+      },
+      {
+        "word": "Here",
+        "meaning_ko": "여기",
+        "example": "Come sit here next to me."
+      }
+    ]
+  },
+  {
+    "pair": ["Healthful", "Healthy"],
+    "entries": [
+      {
+        "word": "Healthful",
+        "meaning_ko": "건강에 좋은 (음식, 환경 등)",
+        "example": "A healthful diet includes lots of vegetables."
+      },
+      {
+        "word": "Healthy",
+        "meaning_ko": "건강한 (사람, 동물 등)",
+        "example": "She is a healthy and active child."
+      }
+    ]
+  },
+  {
+    "pair": ["Historic", "Historical"],
+    "entries": [
+      {
+        "word": "Historic",
+        "meaning_ko": "역사적으로 중요한",
+        "example": "This is a historic moment for the country."
+      },
+      {
+        "word": "Historical",
+        "meaning_ko": "역사와 관련된",
+        "example": "He reads a lot of historical novels."
+      }
+    ]
+  },
+  {
+    "pair": ["Hoarse", "Horse"],
+    "entries": [
+      {
+        "word": "Hoarse",
+        "meaning_ko": "목이 쉰",
+        "example": "She sounded hoarse after the concert."
+      },
+      {
+        "word": "Horse",
+        "meaning_ko": "말 (동물)",
+        "example": "He rode a horse through the field."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Hoard", "Horde"],
+    "entries": [
+      {
+        "word": "Hoard",
+        "meaning_ko": "저장하다, 비축하다",
+        "example": "They hoard canned food for emergencies."
+      },
+      {
+        "word": "Horde",
+        "meaning_ko": "(사람의) 무리",
+        "example": "A horde of tourists filled the streets."
+      }
+    ]
+  },
+  {
+    "pair": ["Hole", "Whole"],
+    "entries": [
+      {
+        "word": "Hole",
+        "meaning_ko": "구멍",
+        "example": "There’s a hole in my sock."
+      },
+      {
+        "word": "Whole",
+        "meaning_ko": "전체의, 완전한",
+        "example": "She ate the whole cake."
+      }
+    ]
+  },
+  {
+    "pair": ["Human", "Humane"],
+    "entries": [
+      {
+        "word": "Human",
+        "meaning_ko": "인간의, 인간",
+        "example": "To err is human."
+      },
+      {
+        "word": "Humane",
+        "meaning_ko": "인도적인, 자비로운",
+        "example": "They support humane treatment of animals."
+      }
+    ]
+  },
+  {
+    "pair": ["Imply", "Infer"],
+    "entries": [
+      {
+        "word": "Imply",
+        "meaning_ko": "암시하다",
+        "example": "Are you implying that it’s my fault?"
+      },
+      {
+        "word": "Infer",
+        "meaning_ko": "추론하다",
+        "example": "I inferred from his tone that he was upset."
+      }
+    ]
+  },
+  {
+    "pair": ["Ingenious", "Ingenuous"],
+    "entries": [
+      {
+        "word": "Ingenious",
+        "meaning_ko": "기발한, 창의적인",
+        "example": "She came up with an ingenious solution."
+      },
+      {
+        "word": "Ingenuous",
+        "meaning_ko": "순진한, 솔직한",
+        "example": "He’s an ingenuous young man."
+      }
+    ]
+  },
+  {
+    "pair": ["Instance", "Instant"],
+    "entries": [
+      {
+        "word": "Instance",
+        "meaning_ko": "사례",
+        "example": "This is an instance of poor planning."
+      },
+      {
+        "word": "Instant",
+        "meaning_ko": "즉각적인",
+        "example": "He gave an instant reply."
+      }
+    ]
+  },
+  {
+    "pair": ["Intense", "Intents"],
+    "entries": [
+      {
+        "word": "Intense",
+        "meaning_ko": "강렬한, 격렬한",
+        "example": "She felt intense pain in her leg."
+      },
+      {
+        "word": "Intents",
+        "meaning_ko": "의도들",
+        "example": "His intents were good, but the outcome was bad."
+      }
+    ]
+  },
+  {
+    "pair": ["Its", "It’s"],
+    "entries": [
+      {
+        "word": "Its",
+        "meaning_ko": "(소유격) 그것의",
+        "example": "The dog wagged its tail."
+      },
+      {
+        "word": "It’s",
+        "meaning_ko": "(It is 또는 It has의 축약형)",
+        "example": "It’s going to rain today."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Later", "Latter"],
+    "entries": [
+      {
+        "word": "Later",
+        "meaning_ko": "나중에",
+        "example": "I’ll see you later."
+      },
+      {
+        "word": "Latter",
+        "meaning_ko": "둘 중 후자",
+        "example": "Between tea and coffee, I prefer the latter."
+      }
+    ]
+  },
+  {
+    "pair": ["Lay", "Lie"],
+    "entries": [
+      {
+        "word": "Lay",
+        "meaning_ko": "(타동사) ~을 놓다, 눕히다",
+        "example": "Lay the book on the table."
+      },
+      {
+        "word": "Lie",
+        "meaning_ko": "(자동사) 눕다 / 거짓말하다",
+        "example": "He lies down every afternoon."
+      }
+    ]
+  },
+  {
+    "pair": ["Lead", "Led"],
+    "entries": [
+      {
+        "word": "Lead",
+        "meaning_ko": "이끌다 / 납 (명사)",
+        "example": "She will lead the meeting."
+      },
+      {
+        "word": "Led",
+        "meaning_ko": "lead의 과거형",
+        "example": "He led the team to victory."
+      }
+    ]
+  },
+  {
+    "pair": ["Levee", "Levy"],
+    "entries": [
+      {
+        "word": "Levee",
+        "meaning_ko": "제방",
+        "example": "The levee protected the town from flooding."
+      },
+      {
+        "word": "Levy",
+        "meaning_ko": "징수하다, 세금",
+        "example": "The government plans to levy a new tax."
+      }
+    ]
+  },
+  {
+    "pair": ["Lightening", "Lightning"],
+    "entries": [
+      {
+        "word": "Lightening",
+        "meaning_ko": "밝게 하다, 가볍게 하다",
+        "example": "She’s lightening her hair color."
+      },
+      {
+        "word": "Lightning",
+        "meaning_ko": "번개",
+        "example": "Lightning struck the tree."
+      }
+    ]
+  },
+  {
+    "pair": ["Loose", "Lose"],
+    "entries": [
+      {
+        "word": "Loose",
+        "meaning_ko": "헐거운, 느슨한",
+        "example": "This shirt is too loose on me."
+      },
+      {
+        "word": "Lose",
+        "meaning_ko": "잃다, 지다",
+        "example": "Don’t lose your keys again."
+      }
+    ]
+  },
+  {
+    "pair": ["Marital", "Martial"],
+    "entries": [
+      {
+        "word": "Marital",
+        "meaning_ko": "결혼의",
+        "example": "They’re going through marital problems."
+      },
+      {
+        "word": "Martial",
+        "meaning_ko": "군사의, 전쟁의",
+        "example": "He trained in martial arts."
+      }
+    ]
+  },
+  {
+    "pair": ["Medal", "Meddle", "Metal", "Mettle"],
+    "entries": [
+      {
+        "word": "Medal",
+        "meaning_ko": "메달",
+        "example": "She won a gold medal."
+      },
+      {
+        "word": "Meddle",
+        "meaning_ko": "간섭하다",
+        "example": "Don’t meddle in their affairs."
+      },
+      {
+        "word": "Metal",
+        "meaning_ko": "금속",
+        "example": "This chair is made of metal."
+      },
+      {
+        "word": "Mettle",
+        "meaning_ko": "패기, 기개",
+        "example": "She showed her mettle during the crisis."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Moral", "Morale"],
+    "entries": [
+      {
+        "word": "Moral",
+        "meaning_ko": "도덕적인 / 교훈",
+        "example": "The moral of the story is to be honest."
+      },
+      {
+        "word": "Morale",
+        "meaning_ko": "(집단의) 사기",
+        "example": "The team’s morale is very high."
+      }
+    ]
+  },
+  {
+    "pair": ["Naval", "Navel"],
+    "entries": [
+      {
+        "word": "Naval",
+        "meaning_ko": "해군의",
+        "example": "He serves in the naval forces."
+      },
+      {
+        "word": "Navel",
+        "meaning_ko": "배꼽",
+        "example": "The shirt shows her navel."
+      }
+    ]
+  },
+  {
+    "pair": ["Overdo", "Overdue"],
+    "entries": [
+      {
+        "word": "Overdo",
+        "meaning_ko": "과도하게 하다",
+        "example": "Don’t overdo it at the gym."
+      },
+      {
+        "word": "Overdue",
+        "meaning_ko": "기한이 지난",
+        "example": "The bill is overdue."
+      }
+    ]
+  },
+  {
+    "pair": ["Palate", "Palette", "Pallet"],
+    "entries": [
+      {
+        "word": "Palate",
+        "meaning_ko": "(입천장 / 미각)",
+        "example": "She has a sophisticated palate and enjoys gourmet food."
+      },
+      {
+        "word": "Palette",
+        "meaning_ko": "(색상 팔레트)",
+        "example": "The artist mixed colors on her palette."
+      },
+      {
+        "word": "Pallet",
+        "meaning_ko": "(화물 운반용 나무판)",
+        "example": "The boxes were stacked on a wooden pallet."
+      }
+    ]
+  },
+  {
+    "pair": ["Passed", "Past"],
+    "entries": [
+      {
+        "word": "Passed",
+        "meaning_ko": "(지나갔다, 통과했다)",
+        "example": "She passed the test easily."
+      },
+      {
+        "word": "Past",
+        "meaning_ko": "(과거, ~을 지나서)",
+        "example": "He walked past the store."
+      }
+    ]
+  },
+  {
+    "pair": ["Peak", "Peek", "Pique"],
+    "entries": [
+      {
+        "word": "Peak",
+        "meaning_ko": "(정점, 꼭대기)",
+        "example": "He reached the peak of the mountain."
+      },
+      {
+        "word": "Peek",
+        "meaning_ko": "(훔쳐보다)",
+        "example": "She took a quick peek at the surprise gift."
+      },
+      {
+        "word": "Pique",
+        "meaning_ko": "(불쾌감, 자극하다)",
+        "example": "His comments piqued her curiosity."
+      }
+    ]
+  },
+  {
+    "pair": ["Personal", "Personnel"],
+    "entries": [
+      {
+        "word": "Personal",
+        "meaning_ko": "(개인의)",
+        "example": "That’s a personal question."
+      },
+      {
+        "word": "Personnel",
+        "meaning_ko": "(직원들)",
+        "example": "The personnel department handles hiring."
+      }
+    ]
+  },
+  {
+    "pair": ["Plain", "Plane"],
+    "entries": [
+      {
+        "word": "Plain",
+        "meaning_ko": "(단순한, 평야)",
+        "example": "She wore a plain white dress."
+      },
+      {
+        "word": "Plane",
+        "meaning_ko": "(비행기 / 평면)",
+        "example": "The plane took off on time."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Moral", "Morale"],
+    "entries": [
+      {
+        "word": "Moral",
+        "meaning_ko": "도덕적인 / 교훈",
+        "example": "The moral of the story is to be honest."
+      },
+      {
+        "word": "Morale",
+        "meaning_ko": "(집단의) 사기",
+        "example": "The team’s morale is very high."
+      }
+    ]
+  },
+  {
+    "pair": ["Naval", "Navel"],
+    "entries": [
+      {
+        "word": "Naval",
+        "meaning_ko": "해군의",
+        "example": "He serves in the naval forces."
+      },
+      {
+        "word": "Navel",
+        "meaning_ko": "배꼽",
+        "example": "The shirt shows her navel."
+      }
+    ]
+  },
+  {
+    "pair": ["Overdo", "Overdue"],
+    "entries": [
+      {
+        "word": "Overdo",
+        "meaning_ko": "과도하게 하다",
+        "example": "Don’t overdo it at the gym."
+      },
+      {
+        "word": "Overdue",
+        "meaning_ko": "기한이 지난",
+        "example": "The bill is overdue."
+      }
+    ]
+  },
+  {
+    "pair": ["Palate", "Palette", "Pallet"],
+    "entries": [
+      {
+        "word": "Palate",
+        "meaning_ko": "(입천장 / 미각)",
+        "example": "She has a sophisticated palate and enjoys gourmet food."
+      },
+      {
+        "word": "Palette",
+        "meaning_ko": "(색상 팔레트)",
+        "example": "The artist mixed colors on her palette."
+      },
+      {
+        "word": "Pallet",
+        "meaning_ko": "(화물 운반용 나무판)",
+        "example": "The boxes were stacked on a wooden pallet."
+      }
+    ]
+  },
+  {
+    "pair": ["Passed", "Past"],
+    "entries": [
+      {
+        "word": "Passed",
+        "meaning_ko": "(지나갔다, 통과했다)",
+        "example": "She passed the test easily."
+      },
+      {
+        "word": "Past",
+        "meaning_ko": "(과거, ~을 지나서)",
+        "example": "He walked past the store."
+      }
+    ]
+  },
+  {
+    "pair": ["Peak", "Peek", "Pique"],
+    "entries": [
+      {
+        "word": "Peak",
+        "meaning_ko": "(정점, 꼭대기)",
+        "example": "He reached the peak of the mountain."
+      },
+      {
+        "word": "Peek",
+        "meaning_ko": "(훔쳐보다)",
+        "example": "She took a quick peek at the surprise gift."
+      },
+      {
+        "word": "Pique",
+        "meaning_ko": "(불쾌감, 자극하다)",
+        "example": "His comments piqued her curiosity."
+      }
+    ]
+  },
+  {
+    "pair": ["Personal", "Personnel"],
+    "entries": [
+      {
+        "word": "Personal",
+        "meaning_ko": "(개인의)",
+        "example": "That’s a personal question."
+      },
+      {
+        "word": "Personnel",
+        "meaning_ko": "(직원들)",
+        "example": "The personnel department handles hiring."
+      }
+    ]
+  },
+  {
+    "pair": ["Plain", "Plane"],
+    "entries": [
+      {
+        "word": "Plain",
+        "meaning_ko": "(단순한, 평야)",
+        "example": "She wore a plain white dress."
+      },
+      {
+        "word": "Plane",
+        "meaning_ko": "(비행기 / 평면)",
+        "example": "The plane took off on time."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Pole", "Poll"],
+    "entries": [
+      {
+        "word": "Pole",
+        "meaning_ko": "기둥, 막대",
+        "example": "He used a pole to support the tent."
+      },
+      {
+        "word": "Poll",
+        "meaning_ko": "여론 조사 / 투표",
+        "example": "The latest poll shows a shift in public opinion."
+      }
+    ]
+  },
+  {
+    "pair": ["Pour", "Pore"],
+    "entries": [
+      {
+        "word": "Pour",
+        "meaning_ko": "붓다, 따르다",
+        "example": "He poured the milk into the glass."
+      },
+      {
+        "word": "Pore",
+        "meaning_ko": "모공 / 자세히 보다",
+        "example": "She pored over the documents all night."
+      }
+    ]
+  },
+  {
+    "pair": ["Pray", "Prey"],
+    "entries": [
+      {
+        "word": "Pray",
+        "meaning_ko": "기도하다",
+        "example": "They pray before every meal."
+      },
+      {
+        "word": "Prey",
+        "meaning_ko": "먹이 / 희생자",
+        "example": "The lion stalked its prey."
+      }
+    ]
+  },
+  {
+    "pair": ["Precede", "Proceed"],
+    "entries": [
+      {
+        "word": "Precede",
+        "meaning_ko": "~보다 앞서다",
+        "example": "The movie was preceded by several ads."
+      },
+      {
+        "word": "Proceed",
+        "meaning_ko": "진행하다",
+        "example": "Let’s proceed with the meeting."
+      }
+    ]
+  },
+  {
+    "pair": ["Principal", "Principle"],
+    "entries": [
+      {
+        "word": "Principal",
+        "meaning_ko": "교장 / 주요한",
+        "example": "The principal gave a speech."
+      },
+      {
+        "word": "Principle",
+        "meaning_ko": "원칙",
+        "example": "She stood by her principles."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Quiet", "Quite"],
+    "entries": [
+      {
+        "word": "Quiet",
+        "meaning_ko": "조용한",
+        "example": "Please be quiet during the presentation."
+      },
+      {
+        "word": "Quite",
+        "meaning_ko": "상당히, 꽤",
+        "example": "That was quite an experience."
+      }
+    ]
+  },
+  {
+    "pair": ["Raise", "Raze"],
+    "entries": [
+      {
+        "word": "Raise",
+        "meaning_ko": "올리다 / 인상하다",
+        "example": "They raised the flag."
+      },
+      {
+        "word": "Raze",
+        "meaning_ko": "완전히 파괴하다",
+        "example": "The building was razed to the ground."
+      }
+    ]
+  },
+  {
+    "pair": ["Rational", "Rationale"],
+    "entries": [
+      {
+        "word": "Rational",
+        "meaning_ko": "이성적인",
+        "example": "Let’s be rational about this."
+      },
+      {
+        "word": "Rationale",
+        "meaning_ko": "이유, 논리적 근거",
+        "example": "What is the rationale behind this decision?"
+      }
+    ]
+  },
+  {
+    "pair": ["Respectfully", "Respectively"],
+    "entries": [
+      {
+        "word": "Respectfully",
+        "meaning_ko": "공손하게",
+        "example": "He respectfully declined the offer."
+      },
+      {
+        "word": "Respectively",
+        "meaning_ko": "각각",
+        "example": "John and Mike, aged 10 and 12 respectively, won the medals."
+      }
+    ]
+  },
+  {
+    "pair": ["Right", "Rite", "Write"],
+    "entries": [
+      {
+        "word": "Right",
+        "meaning_ko": "옳은 / 오른쪽",
+        "example": "You were right about the answer."
+      },
+      {
+        "word": "Rite",
+        "meaning_ko": "의식, 의례",
+        "example": "The rite of passage was important in their culture."
+      },
+      {
+        "word": "Write",
+        "meaning_ko": "쓰다",
+        "example": "Please write your name here."
+      }
+    ]
+  },
+  {
+    "pair": ["Seam", "Seem"],
+    "entries": [
+      {
+        "word": "Seam",
+        "meaning_ko": "솔기",
+        "example": "There’s a tear along the seam of the pants."
+      },
+      {
+        "word": "Seem",
+        "meaning_ko": "~처럼 보이다",
+        "example": "It seems like it will rain."
+      }
+    ]
+  },
+  {
+    "pair": ["Set", "Sit"],
+    "entries": [
+      {
+        "word": "Set",
+        "meaning_ko": "놓다 / 설정하다",
+        "example": "Please set the table."
+      },
+      {
+        "word": "Sit",
+        "meaning_ko": "앉다",
+        "example": "Sit down and relax."
+      }
+    ]
+  },
+  {
+    "pair": ["Sew", "Sow", "So"],
+    "entries": [
+      {
+        "word": "Sew",
+        "meaning_ko": "바느질하다",
+        "example": "She sewed a patch onto the jeans."
+      },
+      {
+        "word": "Sow",
+        "meaning_ko": "씨를 뿌리다",
+        "example": "Farmers sow seeds in spring."
+      },
+      {
+        "word": "So",
+        "meaning_ko": "그래서 / 매우",
+        "example": "I was tired, so I went home."
+      }
+    ]
+  },
+
+  {
+    "pair": ["Stationary", "Stationery"],
+    "entries": [
+      {
+        "word": "Stationary",
+        "meaning_ko": "정지된",
+        "example": "The car remained stationary in traffic."
+      },
+      {
+        "word": "Stationery",
+        "meaning_ko": "문구류",
+        "example": "She bought new stationery for school."
+      }
+    ]
+  },
+  {
+    "pair": ["Story", "Storey"],
+    "entries": [
+      {
+        "word": "Story",
+        "meaning_ko": "이야기 / 층",
+        "example": "He told a funny story."
+      },
+      {
+        "word": "Storey",
+        "meaning_ko": "건물의 층, 주로 영국식 영어",
+        "example": "Their apartment is on the fifth storey."
+      }
+    ]
+  },
+  {
+    "pair": ["Strip", "Stripe"],
+    "entries": [
+      {
+        "word": "Strip",
+        "meaning_ko": "벗기다 / 가느다란 조각",
+        "example": "He tore a strip of fabric."
+      },
+      {
+        "word": "Stripe",
+        "meaning_ko": "줄무늬",
+        "example": "The zebra has black and white stripes."
+      }
+    ]
+  },
+  {
+    "pair": ["Sweet", "Suite"],
+    "entries": [
+      {
+        "word": "Sweet",
+        "meaning_ko": "달콤한 / 사탕",
+        "example": "She loves sweet desserts."
+      },
+      {
+        "word": "Suite",
+        "meaning_ko": "스위트룸 / 묶음",
+        "example": "We booked a suite at the hotel."
+      }
+    ]
+  },
+  {
+    "pair": ["Than", "Then"],
+    "entries": [
+      {
+        "word": "Than",
+        "meaning_ko": "~보다",
+        "example": "She is taller than her brother."
+      },
+      {
+        "word": "Then",
+        "meaning_ko": "그때 / 그러면",
+        "example": "I’ll see you then."
+      }
+    ]
+  },
+  {
+    "pair": ["Their", "There", "They’re"],
+    "entries": [
+      {
+        "word": "Their",
+        "meaning_ko": "그들의",
+        "example": "Their house is big."
+      },
+      {
+        "word": "There",
+        "meaning_ko": "거기에",
+        "example": "The book is over there."
+      },
+      {
+        "word": "They’re",
+        "meaning_ko": "They are의 축약형",
+        "example": "They’re coming to dinner."
+      }
+    ]
+  },
+  {
+    "pair": ["To", "Too", "Two"],
+    "entries": [
+      {
+        "word": "To",
+        "meaning_ko": "~에게 / ~로",
+        "example": "I’m going to the store."
+      },
+      {
+        "word": "Too",
+        "meaning_ko": "너무 / 또한",
+        "example": "It’s too hot today."
+      },
+      {
+        "word": "Two",
+        "meaning_ko": "숫자 2",
+        "example": "I have two cats."
+      }
+    ]
+  },
+  {
+    "pair": ["Vain", "Vane", "Vein"],
+    "entries": [
+      {
+        "word": "Vain",
+        "meaning_ko": "허영심 많은 / 헛된",
+        "example": "He’s so vain about his looks."
+      },
+      {
+        "word": "Vane",
+        "meaning_ko": "풍향계",
+        "example": "The weather vane spun in the wind."
+      },
+      {
+        "word": "Vein",
+        "meaning_ko": "혈관",
+        "example": "The nurse found a vein to insert the needle."
+      }
+    ]
+  },
+  {
+    "pair": ["Waist", "Waste"],
+    "entries": [
+      {
+        "word": "Waist",
+        "meaning_ko": "허리",
+        "example": "The skirt fits at the waist."
+      },
+      {
+        "word": "Waste",
+        "meaning_ko": "낭비 / 쓰레기",
+        "example": "Don’t waste your time."
+      }
+    ]
+  },
+  {
+    "pair": ["Weather", "Whether"],
+    "entries": [
+      {
+        "word": "Weather",
+        "meaning_ko": "날씨",
+        "example": "The weather is nice today."
+      },
+      {
+        "word": "Whether",
+        "meaning_ko": "~인지 아닌지",
+        "example": "I don’t know whether he’ll come."
+      }
+    ]
+  },
+  {
+    "pair": ["Weary", "Wary"],
+    "entries": [
+      {
+        "word": "Weary",
+        "meaning_ko": "피곤한",
+        "example": "She was weary after a long day."
+      },
+      {
+        "word": "Wary",
+        "meaning_ko": "조심하는",
+        "example": "Be wary of scams."
+      }
+    ]
+  },
+  {
+    "pair": ["Who’s", "Whose"],
+    "entries": [
+      {
+        "word": "Who’s",
+        "meaning_ko": "Who is / Who has 축약형",
+        "example": "Who’s coming to the party?"
+      },
+      {
+        "word": "Whose",
+        "meaning_ko": "누구의",
+        "example": "Whose bag is this?"
+      }
+    ]
+  },
+  {
+    "pair": ["Your", "You’re"],
+    "entries": [
+      {
+        "word": "Your",
+        "meaning_ko": "너의",
+        "example": "Your coat is on the chair."
+      },
+      {
+        "word": "You’re",
+        "meaning_ko": "You are 축약형",
+        "example": "You’re very kind."
+      }
+    ]
+  }
+]

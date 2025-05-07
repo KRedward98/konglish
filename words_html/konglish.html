@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Konglish Viewer</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        background-color: #f5f5f5;
+      }
+
+      h1 {
+        cursor: pointer;
+        color: #333;
+        background-color: #e0e0e0;
+        padding: 12px;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        transition: background-color 0.3s;
+      }
+
+      h1:hover {
+        background-color: #d0d0d0;
+      }
+
+      h2 {
+        margin-top: 20px;
+        color: #444;
+      }
+
+      .Category-single-boxes {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 20px;
+        color: #2a2a2a;
+        border-bottom: 2px solid #ccc;
+        padding-bottom: 5px;
+        cursor: pointer;
+      }
+
+      .Individual-single-boxes {
+        margin-left: 20px;
+        margin-bottom: 10px;
+        padding: 10px;
+        background-color: #ffffff;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+      }
+
+      #category-page,
+      #individual-page {
+        display: none;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="btn-selection-page">
+      <h1 onclick="showCategoryPage()">카테고리 별로 모아보기</h1>
+      <h1 onclick="showIndividualPage()">개별 단어들 모음으로 보기</h1>
+    </div>
+
+    <div id="category-page">
+      <div id="Category-boxes"></div>
+      <div id="Filtered-words"></div>
+    </div>
+
+    <div id="individual-page"></div>
+
+    <script>
+      const categoryPage = document.getElementById("category-page");
+      const individualPage = document.getElementById("individual-page");
+      const categoryBoxes = document.getElementById("Category-boxes");
+      const filteredWords = document.getElementById("Filtered-words");
+
+      let konglishData = {};
+
+      function showCategoryPage() {
+        categoryPage.style.display = "block";
+        individualPage.style.display = "none";
+        filteredWords.innerHTML = ""; // reset
+      }
+
+      function showIndividualPage() {
+        categoryPage.style.display = "none";
+        individualPage.style.display = "block";
+      }
+
+      function formatEnglishEquivalent(eq) {
+        if (Array.isArray(eq)) {
+          return eq.join(", ");
+        } else if (typeof eq === "object") {
+          return Object.entries(eq)
+            .map(([region, word]) => `${region}: ${word}`)
+            .join(", ");
+        } else {
+          return eq;
+        }
+      }
+
+      function displayCategoryWords(category) {
+        filteredWords.innerHTML = "";
+
+        const title = document.createElement("h2");
+        title.innerText = `📂 ${category}`;
+        filteredWords.appendChild(title);
+
+        konglishData[category].forEach((item) => {
+          const itemDiv = document.createElement("div");
+          itemDiv.classList.add("Individual-single-boxes");
+
+          itemDiv.innerText = `${item.konglish} : ${formatEnglishEquivalent(
+            item.english_equivalent
+          )} | ${item.notes}`;
+          filteredWords.appendChild(itemDiv);
+        });
+      }
+
+      fetch("../words_JSON/konglish.json")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then((data) => {
+          konglishData = data;
+
+          for (let key in data) {
+            // 카테고리 이름 박스
+            const categoryDiv = document.createElement("div");
+            categoryDiv.classList.add("Category-single-boxes");
+            categoryDiv.innerText = key;
+            categoryDiv.onclick = () => displayCategoryWords(key);
+            categoryBoxes.appendChild(categoryDiv);
+
+            // 전체 보기용
+            data[key].forEach((item) => {
+              const itemDiv = document.createElement("div");
+              itemDiv.classList.add("Individual-single-boxes");
+
+              itemDiv.innerText = `${item.konglish} : ${formatEnglishEquivalent(
+                item.english_equivalent
+              )} | ${item.notes}`;
+              individualPage.appendChild(itemDiv);
+            });
+          }
+        })
+        .catch((error) => {
+          console.error("Failed to load konglish.json:", error);
+        });
+    </script>
+  </body>
+</html>

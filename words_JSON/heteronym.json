@@ -1,0 +1,1438 @@
+{
+  "A": {
+    "Abstract": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AB-strakt",
+        "definitions": [
+          "The abstract of the research paper was very informative.",
+          "The artist's abstract was exhibited in the gallery."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ab-STRAKT",
+        "definitions": [
+          "It is often hard to abstract the main idea from a complex argument.",
+          "He tried to abstract the key points from the lengthy discussion."
+        ]
+      }
+    ],
+    "Absent": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "AB-suhnt",
+        "definitions": [
+          "He was absent from the meeting.",
+          "She had an absent look on her face."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ab-SENT",
+        "definitions": [
+          "He decided to absent himself from the discussion.",
+          "She absented herself from the class due to illness."
+        ]
+      }
+    ],
+    "Abuse": [
+      {
+        "pos": "Noun",
+        "pronunciation": "uh-BYOOS",
+        "definitions": [
+          "The documentary highlighted the abuse suffered by the workers.",
+          "Substance abuse is a serious issue in many communities."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-BYOOZ",
+        "definitions": [
+          "He didn't mean to abuse the privileges he was given.",
+          "People often abuse their power in such positions."
+        ]
+      }
+    ],
+    "Address": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AD-res",
+        "definitions": [
+          "Please send the package to my new address.",
+          "The president gave an address to the nation last night."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-DRES",
+        "definitions": [
+          "She will address the concerns raised during the meeting.",
+          "The letter was addressed to the wrong person."
+        ]
+      }
+    ],
+    "Advocate": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AD-voh-kit",
+        "definitions": [
+          "He is a well-known advocate for environmental protection.",
+          "The lawyer acted as an advocate for the accused."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ad-voh-KATE",
+        "definitions": [
+          "She will advocate for better working conditions.",
+          "They advocate a new approach to education."
+        ]
+      }
+    ],
+    "Affect": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AF-ekt",
+        "definitions": [
+          "The patient's affect was flat and unresponsive.",
+          "Her affect changed dramatically after the incident."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-FEKT",
+        "definitions": [
+          "The weather can greatly affect our mood.",
+          "The new policy will affect many employees."
+        ]
+      }
+    ],
+    "Affiliate": [
+      {
+        "pos": "Noun",
+        "pronunciation": "uh-FIL-ee-it",
+        "definitions": [
+          "The company has an affiliate in New York.",
+          "The local station is an affiliate of the national network."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-FIL-ee-ayt",
+        "definitions": [
+          "They decided to affiliate with a larger organization.",
+          "She is affiliated with several professional associations."
+        ]
+      }
+    ],
+    "Aggregate": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AG-ruh-guht",
+        "definitions": []
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "AG-ruh-guht",
+        "definitions": []
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "AG-ruh-gayt",
+        "definitions": []
+      }
+    ],
+    "Alternate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "AL-ter-nit",
+        "definitions": [
+          "The committee meets on alternate Mondays.",
+          "They proposed an alternate plan for the project."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "al-TER-nayt",
+        "definitions": [
+          "They alternate between different tasks to avoid monotony.",
+          "You should alternate your exercises to work different muscle groups."
+        ]
+      }
+    ],
+    "Appropriate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "uh-PROH-pree-it",
+        "definitions": [
+          "It is important to wear appropriate attire to the event.",
+          "The comment was not appropriate for the occasion."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-PROH-pree-ayt",
+        "definitions": [
+          "The government decided to appropriate funds for the new school.",
+          "He tried to appropriate the idea as his own."
+        ]
+      }
+    ],
+    "Approximate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "uh-PROK-suh-mit",
+        "definitions": [
+          "The approximate distance to the nearest town is 50 miles.",
+          "Can you give me an approximate cost of the repairs?"
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-PROK-suh-mayt",
+        "definitions": [
+          "The survey aims to approximate the number of people living in the area.",
+          "We need to approximate the total amount of the project."
+        ]
+      }
+    ],
+    "Articulate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "ahr-TIK-yuh-lit",
+        "definitions": [
+          "She is very articulate and can express her ideas clearly.",
+          "His articulate speech impressed everyone at the conference."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ahr-TIK-yuh-layt",
+        "definitions": [
+          "He struggled to articulate his thoughts during the debate.",
+          "The teacher encouraged the students to articulate their opinions."
+        ]
+      }
+    ],
+    "Attribute": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AT-trib-yoot",
+        "definitions": [
+          "Patience is a valuable attribute in a teacher.",
+          "His most notable attribute is his kindness."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uh-TRIB-yoot",
+        "definitions": [
+          "They attribute their success to hard work and determination.",
+          "The quote is often attributed to Einstein."
+        ]
+      }
+    ],
+    "Axes": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AK-seez",
+        "definitions": [
+          "The graph shows data on both the x and y axes.",
+          "These are the primary axes of the coordinate system."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "AKS-ez",
+        "definitions": [
+          "The lumberjacks used their axes to chop down trees.",
+          "He has a collection of ancient battle axes."
+        ]
+      }
+    ]
+  },
+
+  "B": {
+    "Bases": [
+      {
+        "pos": "Noun",
+        "pronunciation": "BAY-seez",
+        "definitions": ["Help me", "Help me"]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "BAY-sez",
+        "definitions": [
+          "He bases his decisions on thorough research.",
+          "The story bases its plot on historical events."
+        ]
+      }
+    ],
+    "Bass": [
+      {
+        "pos": "Noun",
+        "pronunciation": "base",
+        "definitions": [
+          "The song has a deep bass line that you can feel in your chest.",
+          "He plays the bass guitar in a rock band."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "mass",
+        "definitions": [
+          "The fisherman caught a large bass in the lake.",
+          "Bass fishing is a popular sport in this region."
+        ]
+      }
+    ],
+    "Bow": [
+      {
+        "pos": "Noun",
+        "pronunciation": "boh",
+        "definitions": [
+          "She tied the ribbon into a beautiful bow.",
+          "The archer strung his bow and took aim."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "bau",
+        "definitions": [
+          "The performer took a bow after the show.",
+          "The trees bowed under the weight of the snow."
+        ]
+      }
+    ]
+  },
+  "C": {
+    "Close": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "klohs",
+        "definitions": [
+          "The close friendship between them is evident.",
+          "They have a close connection to the community."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "klohz",
+        "definitions": [
+          "Please close the door behind you.",
+          "The store will close at 9 PM tonight."
+        ]
+      }
+    ],
+    "Compact": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "KOM-pakt",
+        "definitions": [
+          "She carried a compact umbrella in her bag.",
+          "The apartment is small but very compact and functional."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhm-PAKT",
+        "definitions": [
+          "They used a machine to compact the soil.",
+          "He had to compact his clothes into a small suitcase."
+        ]
+      }
+    ],
+    "Complex": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KOM-pleks",
+        "definitions": [
+          "The apartment complex has many amenities.",
+          "The chemical complex produces various products."
+        ]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "kuhm-PLEKS",
+        "definitions": [
+          "The issue is more complex than it seems.",
+          "The novel has a complex plot with many twists."
+        ]
+      }
+    ],
+    "Compound": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KOM-pound",
+        "definitions": [
+          "The military compound is heavily guarded.",
+          "The chemical compound is used in many industrial processes."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhm-POWND",
+        "definitions": [
+          "His problems were compounded by a lack of sleep.",
+          "They decided to compound the ingredients to create the final product."
+        ]
+      }
+    ],
+    "Concert": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-sert",
+        "definitions": [
+          "We attended a classical music concert last night.",
+          "The band is having a concert in the park this weekend."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-SERT",
+        "definitions": [
+          "The community groups will concert their efforts to improve the park.",
+          "They concerted their strategies to address the issue."
+        ]
+      }
+    ],
+    "Conduct": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-duhkt",
+        "definitions": [
+          "His conduct during the meeting was exemplary.",
+          "The code of conduct outlines acceptable behavior."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-DUHKT",
+        "definitions": [
+          "She will conduct the orchestra tonight.",
+          "They are conducting a survey to gather feedback."
+        ]
+      }
+    ],
+    "Confine": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-fyn",
+        "definitions": [
+          "The prisoner was kept within the confine of his cell.",
+          "The story takes place within the confine of a single room."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-FYN",
+        "definitions": [
+          "They had to confine the dog to the backyard.",
+          "He was confined to his bed due to illness."
+        ]
+      }
+    ],
+    "Conflict": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-flikt",
+        "definitions": [
+          "The conflict between the two countries has lasted for years.",
+          "There was a conflict of interest in the case."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-FLIKT",
+        "definitions": [
+          "His statements conflict with the evidence.",
+          "Their schedules conflict, making it hard to meet."
+        ]
+      }
+    ],
+    "Console": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-sohl",
+        "definitions": [
+          "He bought a new gaming console.",
+          "The car's console has many features."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-SOHL",
+        "definitions": [
+          "She tried to console her friend after the loss.",
+          "He consoled the child who had lost his toy."
+        ]
+      }
+    ],
+    "Content": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-tent",
+        "definitions": [
+          "The book's content is very informative.",
+          "She reviewed the content of the proposal carefully."
+        ]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "kuhn-TENT",
+        "definitions": [
+          "He felt content with his current job.",
+          "She was content to stay home and relax."
+        ]
+      }
+    ],
+    "Contest": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-test",
+        "definitions": [
+          "She won first place in the baking contest.",
+          "The debate contest was very competitive."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-TEST",
+        "definitions": [
+          "He decided to contest the election results.",
+          "The player contested the referee's decision."
+        ]
+      }
+    ],
+    "Contract": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-trakt",
+        "definitions": [
+          "They signed a contract to buy the house.",
+          "The contract stipulates the terms of employment."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-TRAKT",
+        "definitions": [
+          "Muscles contract when you exercise.",
+          "They plan to contract the work out to a local company."
+        ]
+      }
+    ],
+    "Convict": [
+      {
+        "pos": "Noun",
+        "pronunciation": "KON-vikt",
+        "definitions": [
+          "The convict was sentenced to ten years in prison.",
+          "The escaped convict was captured by the police."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "kuhn-VIKT",
+        "definitions": [
+          "They had enough evidence to convict him of the crime.",
+          "She was convicted of fraud and sentenced to five years."
+        ]
+      }
+    ],
+    "Coordinate": [
+      {
+        "pos": "Verb",
+        "pronunciation": "",
+        "definitions": ["", ""]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "",
+        "definitions": ["", ""]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "",
+        "definitions": ["", ""]
+      }
+    ]
+  },
+  "D": {
+    "Decrease": [
+      {
+        "pos": "Noun",
+        "pronunciation": "DEE-krees",
+        "definitions": [
+          "There has been a significant decrease in crime rates.",
+          "The company reported a decrease in profits this quarter."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "di-KREES",
+        "definitions": [
+          "They need to decrease the amount of sugar in their diet.",
+          "The temperature will decrease rapidly overnight."
+        ]
+      }
+    ],
+    "Defense": [
+      {
+        "pos": "Noun",
+        "pronunciation": "di-FENS / DEE-fens",
+        "definitions": [
+          "The lawyer prepared a strong defense for her client.",
+          "The football team's defense was impenetrable."
+        ]
+      }
+    ],
+    "Desert": [
+      {
+        "pos": "Noun",
+        "pronunciation": "DEZ-ert",
+        "definitions": [
+          "Camels are well-suited for life in the desert.",
+          "The Sahara is the largest hot desert in the world."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "di-ZURT",
+        "definitions": [
+          "He decided to desert his post and flee.",
+          "Many people desert their resolutions by February."
+        ]
+      }
+    ],
+    "Discard": [
+      {
+        "pos": "Noun",
+        "pronunciation": "DIS-kard",
+        "definitions": [
+          "The discard pile was full of old magazines.",
+          "She placed the card in the discard pile during the game."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "dis-KARD",
+        "definitions": [
+          "You should discard any food that is past its expiration date.",
+          "He decided to discard the old furniture."
+        ]
+      }
+    ],
+    "Dove": [
+      {
+        "pos": "Noun",
+        "pronunciation": "duhv",
+        "definitions": [
+          "The dove is a symbol of peace.",
+          "A white dove flew across the sky."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "dohv",
+        "definitions": [
+          "He dove into the pool with great enthusiasm.",
+          "The bird dove swiftly to catch its prey."
+        ]
+      }
+    ]
+  },
+  "E": {
+    "Entrance": [
+      {
+        "pos": "Noun",
+        "pronunciation": "EN-truhns",
+        "definitions": [
+          "The entrance to the building was beautifully decorated.",
+          "He made a grand entrance at the party."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "en-TRANS",
+        "definitions": [
+          "The magician's performance will entrance the audience.",
+          "The melody seemed to entrance everyone who heard it."
+        ]
+      }
+    ],
+    "Elaborate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "ih-LAB-uh-rit",
+        "definitions": [
+          "The wedding decorations were quite elaborate.",
+          "She wore an elaborate gown to the ball."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ih-LAB-uh-rayt",
+        "definitions": [
+          "Could you elaborate on your plan?",
+          "The teacher asked him to elaborate his answer with more details."
+        ]
+      }
+    ],
+    "Estimate": [
+      {
+        "pos": "Noun",
+        "pronunciation": "ES-ti-mit",
+        "definitions": [
+          "The contractor gave an estimate for the cost of the repairs.",
+          "We need a rough estimate of the total expenses."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ES-ti-mayt",
+        "definitions": [
+          "They estimate that the project will take six months to complete.",
+          "Can you estimate the number of guests for the event?"
+        ]
+      }
+    ],
+    "Excuse": [
+      {
+        "pos": "Noun",
+        "pronunciation": "ex-KYOOS",
+        "definitions": [
+          "He gave a weak excuse for being late.",
+          "There is no excuse for such behavior."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ex-KYOOZ",
+        "definitions": [
+          "Please excuse my lateness.",
+          "She was excused from the meeting due to illness."
+        ]
+      }
+    ],
+    "Exploit": [
+      {
+        "pos": "Noun",
+        "pronunciation": "EK-sploit",
+        "definitions": [
+          "His daring exploits were legendary.",
+          "The book chronicles the exploits of adventurers."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ik-SPLOIT",
+        "definitions": [
+          "They exploit the natural resources of the region.",
+          "The company was accused of exploiting its workers."
+        ]
+      }
+    ],
+    "Extract": [
+      {
+        "pos": "Noun",
+        "pronunciation": "EK-strakt",
+        "definitions": [
+          "The vanilla extract adds flavor to the recipe.",
+          "They used a special extract for the experiment."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ik-STRAKT",
+        "definitions": [
+          "The dentist will extract the tooth next week.",
+          "They tried to extract useful information from the data."
+        ]
+      }
+    ]
+  },
+  "H": {
+    "House": [
+      {
+        "pos": "Noun",
+        "pronunciation": "HOWS",
+        "definitions": [
+          "They bought a new house in the suburbs.",
+          "The house has three bedrooms and two bathrooms."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "HOWZ",
+        "definitions": [
+          "They house the refugees in temporary shelters.",
+          "The museum houses a collection of ancient artifacts."
+        ]
+      }
+    ]
+  },
+  "I": {
+    "Increase": [
+      {
+        "pos": "Noun",
+        "pronunciation": "IN-krees",
+        "definitions": [
+          "There has been an increase in sales this quarter.",
+          "The increase in temperature was noticeable."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "in-KREES",
+        "definitions": [
+          "They plan to increase production next month.",
+          "The population is expected to increase steadily."
+        ]
+      }
+    ],
+    "Intimate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "IN-ti-mit",
+        "definitions": [
+          "They had an intimate dinner for two.",
+          "She shared intimate details of her life."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "IN-ti-mayt",
+        "definitions": [
+          "He intimated that he might retire soon.",
+          "She intimated her disapproval through subtle hints."
+        ]
+      }
+    ],
+    "Invalid": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "in-VAL-id",
+        "definitions": [
+          "The password you entered is invalid.",
+          "The argument was considered invalid due to lack of evidence."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "IN-vuh-lid",
+        "definitions": [
+          "He returned home as an invalid after the accident.",
+          "She has been caring for an invalid family member."
+        ]
+      }
+    ]
+  },
+  "L": {
+    "Laminate": [
+      {
+        "pos": "Noun",
+        "pronunciation": "LAM-i-nit",
+        "definitions": [
+          "The laminate on the table was starting to peel.",
+          "They used a high-quality laminate for the flooring."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "LAM-i-nayt",
+        "definitions": [
+          "They decided to laminate the documents to protect them.",
+          "She laminated the maps to make them waterproof."
+        ]
+      }
+    ],
+    "Lead": [
+      {
+        "pos": "Noun",
+        "pronunciation": "led",
+        "definitions": [
+          "The pipes are made of lead.",
+          "Lead poisoning is a serious health risk."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "leed",
+        "definitions": [
+          "She will lead the team on this project.",
+          "The tour guide will lead the group through the museum."
+        ]
+      }
+    ],
+    "Live": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "liv",
+        "definitions": [
+          "They attended a live concert last night.",
+          "The live broadcast will start at 8 PM."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "lyv",
+        "definitions": [
+          "They live in a small town.",
+          "He hopes to live a long and healthy life."
+        ]
+      }
+    ]
+  },
+  "M": {
+    "Merchandise": [
+      {
+        "pos": "Noun",
+        "pronunciation": "MUR-chuhn-dys",
+        "definitions": [
+          "The store has a wide variety of merchandise.",
+          "They showcased their latest merchandise at the trade fair."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "MUR-chuhn-dyz",
+        "definitions": [
+          "They plan to merchandise the new product line next month.",
+          "The company is looking for ways to better merchandise its products."
+        ]
+      }
+    ],
+    "Minute": [
+      {
+        "pos": "Noun",
+        "pronunciation": "MIN-it",
+        "definitions": [
+          "There are sixty seconds in a minute.",
+          "He was only a minute late to the meeting."
+        ]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "my-NOOT",
+        "definitions": [
+          "The differences between the two proposals are minute.",
+          "She noticed a minute flaw in the painting."
+        ]
+      }
+    ],
+    "Mobile": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "MOH-buhl / MOH-byle",
+        "definitions": [
+          "They have a mobile app for their services.",
+          "The mobile clinic travels to remote areas."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "MOH-byle",
+        "definitions": [
+          "He hung a colorful mobile over the baby’s crib.",
+          "The mobile was gently swaying in the breeze."
+        ]
+      }
+    ],
+    "Moped": [
+      {
+        "pos": "Noun",
+        "pronunciation": "MOH-ped",
+        "definitions": [
+          "He bought a moped to commute to work.",
+          "The moped is a popular mode of transportation in the city."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "MOH-pt",
+        "definitions": [
+          "She moped around the house all day after the argument.",
+          "He moped for hours after receiving the bad news."
+        ]
+      }
+    ]
+  },
+  "O": {
+    "Object": [
+      {
+        "pos": "Noun",
+        "pronunciation": "AHB-jekt",
+        "definitions": [
+          "The strange object was found in the garden.",
+          "She placed the object on the table."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "uhb-JEKT",
+        "definitions": [
+          "I object to the way you’re handling this situation.",
+          "He will likely object to the proposed changes."
+        ]
+      }
+    ]
+  },
+  "P": {
+    "Permit": [
+      {
+        "pos": "Noun",
+        "pronunciation": "PUR-mit",
+        "definitions": [
+          "She received a permit to park in the restricted area.",
+          "The building permit was issued last week."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "per-MIT",
+        "definitions": [
+          "They will not permit smoking in the building.",
+          "He was permitted to enter the restricted area."
+        ]
+      }
+    ],
+    "Polish": [
+      {
+        "pos": "Noun",
+        "pronunciation": "PAH-lish",
+        "definitions": [
+          "She applied polish to her nails.",
+          "The table needs a good polish."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "PAH-lish",
+        "definitions": [
+          "He needs to polish his shoes before the event.",
+          "They polished the car until it shone."
+        ]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "POH-lish",
+        "definitions": [
+          "He speaks fluent Polish, as his grandparents were from Poland.",
+          "They visited the Polish embassy during their trip."
+        ]
+      }
+    ],
+    "Present": [
+      {
+        "pos": "Noun",
+        "pronunciation": "PREZ-uhnt",
+        "definitions": [
+          "She received a lovely present for her birthday.",
+          "The teacher is giving a present to the best student."
+        ]
+      },
+      {
+        "pos": "Adjective",
+        "pronunciation": "PREZ-uhnt",
+        "definitions": [
+          "All members were present at the meeting.",
+          "The doctor is present in the office today."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "pri-ZENT",
+        "definitions": [
+          "She will present her findings at the conference.",
+          "They presented the award to the winner."
+        ]
+      }
+    ],
+    "Proceed": [
+      {
+        "pos": "Verb",
+        "pronunciation": "pruh-SEED",
+        "definitions": [
+          "You may proceed with your presentation.",
+          "They decided to proceed despite the risks."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "PROH-seed",
+        "definitions": [
+          "The proceeds from the sale were donated to charity.",
+          "All proceeds from the event will go to support the local shelter."
+        ]
+      }
+    ],
+    "Produce": [
+      {
+        "pos": "Verb",
+        "pronunciation": "pruh-DOOS / pruh-DYOOS",
+        "definitions": [
+          "The factory will produce 1,000 units per day.",
+          "They aim to produce high-quality goods."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "PROH-doos",
+        "definitions": [
+          "The farmer's market sells fresh produce.",
+          "The grocery store has a wide variety of organic produce."
+        ]
+      }
+    ],
+    "Project": [
+      {
+        "pos": "Noun",
+        "pronunciation": "PRAH-jekt",
+        "definitions": [
+          "She is working on a science project for school.",
+          "The new bridge is a major construction project."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "pruh-JEKT",
+        "definitions": [
+          "They will project the movie onto the big screen.",
+          "She tends to project her fears onto others."
+        ]
+      }
+    ],
+    "Protest": [
+      {
+        "pos": "Noun",
+        "pronunciation": "PROH-test",
+        "definitions": [
+          "The workers held a protest against the new policy.",
+          "There was a protest outside the city hall."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "pruh-TEST",
+        "definitions": [
+          "They will protest the unfair treatment.",
+          "He protested the decision loudly."
+        ]
+      }
+    ]
+  },
+  "R": {
+    "Read": [
+      {
+        "pos": "Verb (Present Tense)",
+        "pronunciation": "reed",
+        "definitions": [
+          "I like to read books in my free time.",
+          "She will read the report tomorrow."
+        ]
+      },
+      {
+        "pos": "Verb (Past Tense)",
+        "pronunciation": "red",
+        "definitions": [
+          "He read the novel in one day.",
+          "They read the instructions carefully before starting."
+        ]
+      }
+    ],
+    "Rebel": [
+      {
+        "pos": "Noun",
+        "pronunciation": "REH-buhl",
+        "definitions": [
+          "The rebel fought against the oppressive regime.",
+          "He was known as a rebel among his peers."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-BELL",
+        "definitions": [
+          "The citizens will rebel against the new laws.",
+          "She decided to rebel against the strict dress code."
+        ]
+      }
+    ],
+    "Record": [
+      {
+        "pos": "Noun",
+        "pronunciation": "REH-kord",
+        "definitions": [
+          "The band released a new record last week.",
+          "He set a new record in the 100-meter dash."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-KORD",
+        "definitions": [
+          "She will record the lecture for later review.",
+          "They decided to record their vacation memories on video."
+        ]
+      }
+    ],
+    "Recreate": [
+      {
+        "pos": "Verb",
+        "pronunciation": "REE-kree-ayt",
+        "definitions": [
+          "They wanted to recreate the famous scene from the movie.",
+          "He tried to recreate the dish he had at the restaurant."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "REHK-ree-ayt",
+        "definitions": [
+          "They went to the park to recreate and enjoy the weather.",
+          "The community center offers many ways to recreate and relax."
+        ]
+      }
+    ],
+    "Refund": [
+      {
+        "pos": "Noun",
+        "pronunciation": "REE-fuhnd",
+        "definitions": [
+          "She requested a refund for the defective product.",
+          "The company issued a refund promptly."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-FUHND",
+        "definitions": [
+          "They will refund the full amount to your account.",
+          "The store policy is to refund any unsatisfactory purchases."
+        ]
+      }
+    ],
+    "Refuse": [
+      {
+        "pos": "Noun",
+        "pronunciation": "REH-fyoos",
+        "definitions": [
+          "The refuse from the construction site was collected.",
+          "The city has a schedule for refuse collection."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-FYOOZ",
+        "definitions": [
+          "She will refuse to participate in the meeting.",
+          "He refused the offer without hesitation."
+        ]
+      }
+    ],
+    "Reject": [
+      {
+        "pos": "Noun",
+        "pronunciation": "REE-jekt",
+        "definitions": [
+          "The factory reject was sold at a lower price.",
+          "He felt like a reject after not making the team."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-JEKT",
+        "definitions": [
+          "They decided to reject the proposal.",
+          "She was rejected from the program due to lack of experience."
+        ]
+      }
+    ],
+    "Resign": [
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-ZYN",
+        "definitions": [
+          "He decided to resign from his position.",
+          "She will resign from the board of directors next month."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "ree-SYN",
+        "definitions": [
+          "She had to resign the contract due to a clerical error."
+        ]
+      }
+    ],
+    "Resume": [
+      {
+        "pos": "Verb",
+        "pronunciation": "ri-ZOOM",
+        "definitions": [
+          "They will resume the meeting after lunch.",
+          "She plans to resume her studies next semester."
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "REH-zoo-may",
+        "definitions": [
+          "He submitted his resume for the job application.",
+          "Her resume includes extensive experience in the field."
+        ]
+      }
+    ]
+  },
+  "S": {
+    "Sake": [
+      {
+        "pos": "Noun",
+        "pronunciation": "SAKE",
+        "definitions": [
+          "He did it for the sake of his family.",
+          "For goodness’ sake, please be quiet!"
+        ]
+      },
+      {
+        "pos": "Noun",
+        "pronunciation": "SAH-keh",
+        "definitions": [
+          "They enjoyed a bottle of sake with their sushi.",
+          "Sake is a traditional Japanese rice wine."
+        ]
+      }
+    ],
+    "Separate": [
+      {
+        "pos": "Adjective",
+        "pronunciation": "SEH-puh-rit",
+        "definitions": [
+          "They live in separate houses.",
+          "The project is divided into separate phases."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "SEH-puh-rayt",
+        "definitions": [
+          "They had to separate the recyclables from the trash.",
+          "She separated the students into groups."
+        ]
+      }
+    ],
+    "Subject": [
+      {
+        "pos": "Noun",
+        "pronunciation": "SUHB-jekt",
+        "definitions": [
+          "The subject of the lecture was quantum physics.",
+          "Math is his favorite subject in school."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "suhb-JEKT",
+        "definitions": [
+          "They will subject the proposal to a vote.",
+          "The prisoners were subjected to harsh conditions."
+        ]
+      }
+    ]
+  },
+  "T": {
+    "Tear": [
+      {
+        "pos": "Noun",
+        "pronunciation": "TEER",
+        "definitions": [
+          "A tear rolled down her cheek.",
+          "The movie brought tears to his eyes."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "TAIR",
+        "definitions": [
+          "He tried not to tear the wrapping paper.",
+          "She accidentally tore her dress on a nail."
+        ]
+      }
+    ],
+    "Transfer": [
+      {
+        "pos": "Noun",
+        "pronunciation": "TRAN-sfer",
+        "definitions": [
+          "The transfer of ownership was completed.",
+          "He received a transfer to a different department."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "trans-FER",
+        "definitions": [
+          "They will transfer the funds to your account.",
+          "She transferred to a new school last year."
+        ]
+      }
+    ]
+  },
+  "U": {
+    "Use": [
+      {
+        "pos": "Noun",
+        "pronunciation": "YOOS",
+        "definitions": [
+          "The use of cell phones is not allowed in the classroom.",
+          "There is no use in arguing about it."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "YOOZ",
+        "definitions": [
+          "He likes to use his computer for work.",
+          "They used the equipment to complete the project."
+        ]
+      }
+    ]
+  },
+  "W": {
+    "Wind": [
+      {
+        "pos": "Noun",
+        "pronunciation": "WIND",
+        "definitions": [
+          "The wind was blowing fiercely.",
+          "The sailboat was powered by the wind."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "WYIND",
+        "definitions": ["He needs to wind the clock.", "He winds the string."]
+      }
+    ],
+    "Wound": [
+      {
+        "pos": "Noun",
+        "pronunciation": "WOOND",
+        "definitions": [
+          "The soldier had a serious wound on his leg.",
+          "She treated the wound with antiseptic."
+        ]
+      },
+      {
+        "pos": "Verb",
+        "pronunciation": "WOWND",
+        "definitions": [
+          "He wound the scarf around his neck.",
+          "The path wound through the forest."
+        ]
+      }
+    ]
+  }
+}

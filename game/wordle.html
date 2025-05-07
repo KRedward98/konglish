@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wordle Game</title>
+    <script src="wordle.js" defer></script>
+    <style>
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        padding: 2rem;
+        background: #f9fafb;
+      }
+
+      #wordle-board {
+        margin: 1rem 0;
+      }
+
+      .wordle-row {
+        display: flex;
+        gap: 6px;
+        margin: 6px 0;
+        justify-content: center;
+      }
+
+      .wordle-box {
+        width: 48px;
+        height: 48px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        text-align: center;
+        line-height: 48px;
+        border: 2px solid #d1d5db;
+        border-radius: 6px;
+        text-transform: uppercase;
+        background-color: #f3f4f6;
+      }
+
+      .keyboard {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        gap: 6px;
+        max-width: 500px;
+        margin: 1rem auto;
+      }
+
+      .key {
+        background-color: #e5e7eb;
+        padding: 0.6rem;
+        border-radius: 6px;
+        text-align: center;
+        font-weight: bold;
+        cursor: pointer;
+        user-select: none;
+        border: 2px solid #d1d5db;
+        text-transform: uppercase;
+      }
+
+      .key:hover {
+        background-color: #d1d5db;
+      }
+
+      #wordle-message {
+        margin-top: 1rem;
+        font-weight: bold;
+        color: #444;
+      }
+
+      button {
+        margin-top: 1rem;
+        padding: 0.6rem 1.5rem;
+        font-weight: bold;
+        background-color: #4ade80;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Wordle Game</h1>
+    <div id="wordle-board"></div>
+    <div id="wordle-keyboard" class="keyboard"></div>
+    <p id="wordle-message"></p>
+    <button onclick="startWordle()">게임 다시 시작</button>
+  </body>
+</html>

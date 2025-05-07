@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
+
+    <style>
+      .profile-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+      }
+
+      .profile-pic {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid var(--primary-color);
+        margin-bottom: 1rem;
+      }
+
+      .info-box {
+        width: 100%;
+        max-width: 500px;
+        background-color: var(--card-bg);
+        border: 1px solid var(--border-color);
+        border-radius: 10px;
+        padding: 1rem;
+        margin: 1rem 0;
+      }
+
+      .info-box h2 {
+        margin-bottom: 0.5rem;
+      }
+
+      .starred-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+
+      .word-tag {
+        background-color: var(--secondary-color);
+        color: white;
+        padding: 0.3rem 0.6rem;
+        border-radius: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="../index.html"
+              ><i class="fa-solid fa-book-open"></i> Words</a
+            >
+          </li>
+          <li>
+            <a href="../game/game.html"
+              ><i class="fa-solid fa-gamepad"></i> Game</a
+            >
+          </li>
+          <li>
+            <a href="../search/search.html"
+              ><i class="fa-solid fa-magnifying-glass"></i> Search</a
+            >
+          </li>
+          <li>
+            <a href="../profile/profile.html"
+              ><i class="fa-solid fa-user"></i> Profile</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="profile-container">
+      <input type="file" id="upload" accept="image/*" style="display: none" />
+      <button onclick="document.getElementById('upload').click()">
+        📷 사진 첨부
+      </button>
+
+      <div style="margin-top: 1rem">
+        <img id="image" style="max-width: 100%; display: none" />
+      </div>
+
+      <button id="saveCrop" style="display: none; margin-top: 1rem">
+        📥 크롭된 이미지 저장
+      </button>
+
+      <h3 style="margin-top: 2rem">저장된 프로필 사진</h3>
+      <img
+        id="preview"
+        src=""
+        style="
+          width: 120px;
+          height: 120px;
+          border-radius: 50%;
+          object-fit: cover;
+        "
+      />
+      <div class="info-box">
+        <h2>📆 Streak</h2>
+        <p id="streak-count">0 days</p>
+      </div>
+
+      <div class="info-box">
+        <h2>⭐ Starred Words</h2>
+        <div class="starred-list" id="starred-words"></div>
+      </div>
+    </main>
+
+    <script>
+      let cropper;
+
+      // 파일 업로드 이벤트
+      document.getElementById("upload").addEventListener("change", (e) => {
+        const file = e.target.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function () {
+          const img = document.getElementById("image");
+          img.src = reader.result;
+          img.style.display = "block";
+          document.getElementById("saveCrop").style.display = "inline-block";
+
+          if (cropper) cropper.destroy();
+
+          cropper = new Cropper(img, {
+            aspectRatio: 1,
+            viewMode: 1,
+          });
+        };
+
+        reader.readAsDataURL(file);
+      });
+
+      // 저장 버튼 이벤트
+      document.getElementById("saveCrop").addEventListener("click", () => {
+        if (!cropper) return;
+
+        const canvas = cropper.getCroppedCanvas({
+          width: 120,
+          height: 120,
+        });
+
+        const croppedImage = canvas.toDataURL("image/png");
+
+        // 저장
+        localStorage.setItem("profilePic", croppedImage);
+        document.getElementById("preview").src = croppedImage;
+
+        // 크롭기능 제거 + 화면 정리
+        cropper.destroy();
+        cropper = null;
+
+        document.getElementById("image").style.display = "none";
+        document.getElementById("saveCrop").style.display = "none";
+      });
+    </script>
+  </body>
+</html>

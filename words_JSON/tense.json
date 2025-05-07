@@ -1,0 +1,1053 @@
+[
+  {
+    "base": "arise",
+    "past": "arose",
+    "past_participle": "arisen",
+    "meaning": "발생하다, 생기다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "awake",
+    "past": "awoke",
+    "past_participle": "awoken",
+    "meaning": "깨어있는, 깨다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "be",
+    "past": "was / were",
+    "past_participle": "been",
+    "meaning": "~이다, 있다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "bear",
+    "past": "bore",
+    "past_participle": "borne / born",
+    "meaning": "견디다, 낳다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "beat",
+    "past": "beat",
+    "past_participle": "beaten",
+    "meaning": "때리다, 이기다",
+    "pattern": "A-A-B"
+  },
+  {
+    "base": "become",
+    "past": "became",
+    "past_participle": "become",
+    "meaning": "~이 되다",
+    "pattern": "A-B-A"
+  },
+  {
+    "base": "begin",
+    "past": "began",
+    "past_participle": "begun",
+    "meaning": "시작하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "bend",
+    "past": "bent",
+    "past_participle": "bent",
+    "meaning": "구부리다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "bet",
+    "past": "bet",
+    "past_participle": "bet",
+    "meaning": "내기하다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "bid",
+    "past": "bid",
+    "past_participle": "bid",
+    "meaning": "값을 부르다",
+    "pattern": "A-A-A"
+  },
+
+  {
+    "base": "bind",
+    "past": "bound",
+    "past_participle": "bound",
+    "meaning": "(꽉) 묶다, 결속시키다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "bite",
+    "past": "bit",
+    "past_participle": "bitten",
+    "meaning": "물다, 한 입",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "bleed",
+    "past": "bled",
+    "past_participle": "bled",
+    "meaning": "피를 흘리다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "blow",
+    "past": "blew",
+    "past_participle": "blown",
+    "meaning": "(바람이) 불다; 타격",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "break",
+    "past": "broke",
+    "past_participle": "broken",
+    "meaning": "깨뜨리다; (작업 중의) 휴식",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "breed",
+    "past": "bred",
+    "past_participle": "bred",
+    "meaning": "번식시키다; 품종",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "bring",
+    "past": "brought",
+    "past_participle": "brought",
+    "meaning": "가져오다, 데려오다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "build",
+    "past": "built",
+    "past_participle": "built",
+    "meaning": "짓다, 쌓아올리다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "burn",
+    "past": "burnt / burned",
+    "past_participle": "burnt / burned",
+    "meaning": "불타다[태우다], 화상",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "burst",
+    "past": "burst",
+    "past_participle": "burst",
+    "meaning": "터뜨리다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "buy",
+    "past": "bought",
+    "past_participle": "bought",
+    "meaning": "사다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "cast",
+    "past": "cast",
+    "past_participle": "cast",
+    "meaning": "던지다; 출연자들",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "catch",
+    "past": "caught",
+    "past_participle": "caught",
+    "meaning": "잡다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "choose",
+    "past": "chose",
+    "past_participle": "chosen",
+    "meaning": "선택하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "cling",
+    "past": "clung",
+    "past_participle": "clung",
+    "meaning": "매달리다 (to)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "come",
+    "past": "came",
+    "past_participle": "come",
+    "meaning": "오다",
+    "pattern": "A-B-A"
+  },
+  {
+    "base": "cost",
+    "past": "cost",
+    "past_participle": "cost",
+    "meaning": "비용이 들다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "creep",
+    "past": "crept",
+    "past_participle": "crept",
+    "meaning": "살금살금 움직이다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "cut",
+    "past": "cut",
+    "past_participle": "cut",
+    "meaning": "자르다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "deal",
+    "past": "dealt",
+    "past_participle": "dealt",
+    "meaning": "거래[협상]; 다루다 (+with)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "dig",
+    "past": "dug",
+    "past_participle": "dug",
+    "meaning": "(땅을) 파다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "dive",
+    "past": "dove / dived",
+    "past_participle": "dived",
+    "meaning": "다이빙하다",
+    "pattern": "A-B-C,A-B-B"
+  },
+  {
+    "base": "do",
+    "past": "did",
+    "past_participle": "done",
+    "meaning": "하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "draw",
+    "past": "drew",
+    "past_participle": "drawn",
+    "meaning": "그리다; 끌어당기다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "dream",
+    "past": "dreamt / dreamed",
+    "past_participle": "dreamt / dreamed",
+    "meaning": "꿈(을 꾸다)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "drink",
+    "past": "drank",
+    "past_participle": "drunk",
+    "meaning": "마시다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "drive",
+    "past": "drove",
+    "past_participle": "driven",
+    "meaning": "운전하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "eat",
+    "past": "ate",
+    "past_participle": "eaten",
+    "meaning": "먹다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "fall",
+    "past": "fell",
+    "past_participle": "fallen",
+    "meaning": "떨어지다; 가을[autumn]",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "feed",
+    "past": "fed",
+    "past_participle": "fed",
+    "meaning": "먹이를 주다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "feel",
+    "past": "felt",
+    "past_participle": "felt",
+    "meaning": "느끼다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "fight",
+    "past": "fought",
+    "past_participle": "fought",
+    "meaning": "싸우다, 싸움",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "find",
+    "past": "found",
+    "past_participle": "found",
+    "meaning": "찾아내다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "flee",
+    "past": "fled",
+    "past_participle": "fled",
+    "meaning": "달아나다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "fly",
+    "past": "flew",
+    "past_participle": "flown",
+    "meaning": "날다; 파리",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "forbid",
+    "past": "forbade",
+    "past_participle": "forbidden",
+    "meaning": "금지하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "forget",
+    "past": "forgot",
+    "past_participle": "forgotten",
+    "meaning": "잊다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "forgive",
+    "past": "forgave",
+    "past_participle": "forgiven",
+    "meaning": "용서하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "found",
+    "past": "founded",
+    "past_participle": "founded",
+    "meaning": "(조직, 기관을) 설립하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "freeze",
+    "past": "froze",
+    "past_participle": "frozen",
+    "meaning": "얼(리)다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "get",
+    "past": "got",
+    "past_participle": "got / gotten",
+    "meaning": "얻다; (어떤 상태가) 되다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "give",
+    "past": "gave",
+    "past_participle": "given",
+    "meaning": "주다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "go",
+    "past": "went",
+    "past_participle": "gone",
+    "meaning": "가다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "grind",
+    "past": "ground",
+    "past_participle": "ground",
+    "meaning": "갈다, 분쇄하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "grow",
+    "past": "grew",
+    "past_participle": "grown",
+    "meaning": "자라다, 기르다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "hang",
+    "past": "hung",
+    "past_participle": "hung",
+    "meaning": "걸다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "hang",
+    "past": "hanged",
+    "past_participle": "hanged",
+    "meaning": "교수형에 처하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "have",
+    "past": "had",
+    "past_participle": "had",
+    "meaning": "가지다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "hear",
+    "past": "heard",
+    "past_participle": "heard",
+    "meaning": "듣다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "hide",
+    "past": "hid",
+    "past_participle": "hidden",
+    "meaning": "숨다[숨기다]",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "hit",
+    "past": "hit",
+    "past_participle": "hit",
+    "meaning": "떄리다, 치다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "hold",
+    "past": "held",
+    "past_participle": "held",
+    "meaning": "잡다, 잡고 있다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "hurt",
+    "past": "hurt",
+    "past_participle": "hurt",
+    "meaning": "다치게 하다, 아프다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "keep",
+    "past": "kept",
+    "past_participle": "kept",
+    "meaning": "유지하다, 간직하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "kneel",
+    "past": "knelt / kneeled",
+    "past_participle": "knelt / kneeled",
+    "meaning": "무릎을 끓다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "know",
+    "past": "knew",
+    "past_participle": "known",
+    "meaning": "알다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "lay",
+    "past": "laid",
+    "past_participle": "laid",
+    "meaning": "(살며시) 놓다; (알을) 낳다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "lead",
+    "past": "led",
+    "past_participle": "led",
+    "meaning": "이끌다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "leap",
+    "past": "leapt / leaped",
+    "past_participle": "leapt / leaped",
+    "meaning": "(껑충) 뛰다, 도약",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "leave",
+    "past": "left",
+    "past_participle": "left",
+    "meaning": "떠나다; 남기다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "lend",
+    "past": "lent",
+    "past_participle": "lent",
+    "meaning": "빌려주다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "let",
+    "past": "let",
+    "past_participle": "let",
+    "meaning": "허락하다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "lie",
+    "past": "lay",
+    "past_participle": "lain",
+    "meaning": "눕다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "lie",
+    "past": "lied",
+    "past_participle": "lied",
+    "meaning": "거짓말(하다)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "light",
+    "past": "lit",
+    "past_participle": "lit",
+    "meaning": "빛[전등]; 가벼운; 불을 붙이다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "lose",
+    "past": "lost",
+    "past_participle": "lost",
+    "meaning": "잃어버리다; (경기를) 지다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "make",
+    "past": "made",
+    "past_participle": "made",
+    "meaning": "만들다; ~하게 하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "mean",
+    "past": "meant",
+    "past_participle": "meant",
+    "meaning": "의미하다[뜻하다]; 야비한",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "meet",
+    "past": "met",
+    "past_participle": "met",
+    "meaning": "만나다; 충족시키다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "mislead",
+    "past": "misled",
+    "past_participle": "misled",
+    "meaning": "오해하게 하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "misunderstand",
+    "past": "misunderstood",
+    "past_participle": "misunderstood",
+    "meaning": "오해하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "pay",
+    "past": "paid",
+    "past_participle": "paid",
+    "meaning": "지급하다, 급료",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "prove",
+    "past": "proved",
+    "past_participle": "proven / proved",
+    "meaning": "증명하다",
+    "pattern": "A-B-C,A-B-B"
+  },
+  {
+    "base": "put",
+    "past": "put",
+    "past_participle": "put",
+    "meaning": "놓다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "quit",
+    "past": "quit",
+    "past_participle": "quit",
+    "meaning": "그만두다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "read",
+    "past": "read [red]",
+    "past_participle": "read [red]",
+    "meaning": "읽다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "ride",
+    "past": "rode",
+    "past_participle": "ridden",
+    "meaning": "타다, 타고 가기",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "ring",
+    "past": "rang",
+    "past_participle": "rung",
+    "meaning": "반지; (종이) 울리다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "rise",
+    "past": "rose",
+    "past_participle": "risen",
+    "meaning": "상승(하다), 떠오르다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "run",
+    "past": "ran",
+    "past_participle": "run",
+    "meaning": "달리다; 운영하다",
+    "pattern": "A-B-A"
+  },
+  {
+    "base": "say",
+    "past": "said",
+    "past_participle": "said",
+    "meaning": "말하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "see",
+    "past": "saw",
+    "past_participle": "seen",
+    "meaning": "보다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "seek",
+    "past": "sought",
+    "past_participle": "sought",
+    "meaning": "구하다[찾다]",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "sell",
+    "past": "sold",
+    "past_participle": "sold",
+    "meaning": "팔다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "send",
+    "past": "sent",
+    "past_participle": "sent",
+    "meaning": "보내다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "set",
+    "past": "set",
+    "past_participle": "set",
+    "meaning": "정하다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "sew",
+    "past": "sewed",
+    "past_participle": "sewn / sewed",
+    "meaning": "바느질하다[꿰매다]",
+    "pattern": "A-B-C,A-B-B"
+  },
+  {
+    "base": "shake",
+    "past": "shook",
+    "past_participle": "shaken",
+    "meaning": "흔들다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "shed",
+    "past": "shed",
+    "past_participle": "shed",
+    "meaning": "흘리다[떨어뜨리다]; 헛간",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "shoot",
+    "past": "shot",
+    "past_participle": "shot",
+    "meaning": "(총을) 쏘다; 촬영하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "show",
+    "past": "showed",
+    "past_participle": "shown",
+    "meaning": "보여주다, 쇼",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "shrink",
+    "past": "shrank",
+    "past_participle": "shrunk",
+    "meaning": "줄어들다, 오그라들다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "shut",
+    "past": "shut",
+    "past_participle": "shut",
+    "meaning": "닫다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "sing",
+    "past": "sang",
+    "past_participle": "sung",
+    "meaning": "노래하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "sink",
+    "past": "sank",
+    "past_participle": "sunk",
+    "meaning": "가라앉다; 싱크대",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "sit",
+    "past": "sat",
+    "past_participle": "sat",
+    "meaning": "앉다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "sleep",
+    "past": "slept",
+    "past_participle": "slept",
+    "meaning": "잠(을 자다)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "slide",
+    "past": "slid",
+    "past_participle": "slid",
+    "meaning": "미끄러지다, 미끄럼틀",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "speak",
+    "past": "spoke",
+    "past_participle": "spoken",
+    "meaning": "말하다, (언어를) 하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "speed",
+    "past": "sped",
+    "past_participle": "sped",
+    "meaning": "속력(을 내다)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "spend",
+    "past": "spent",
+    "past_participle": "spent",
+    "meaning": "(돈, 시간을)쓰다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "spill",
+    "past": "spilt / spilled",
+    "past_participle": "spilt / spilled",
+    "meaning": "엎지르다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "spin",
+    "past": "spun",
+    "past_participle": "spun",
+    "meaning": "회전(시키다)",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "spit",
+    "past": "spat",
+    "past_participle": "spat",
+    "meaning": "(침을) 뱉다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "split",
+    "past": "split",
+    "past_participle": "split",
+    "meaning": "쪼개다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "spread",
+    "past": "spread",
+    "past_participle": "spread",
+    "meaning": "펼치다, 퍼뜨리다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "spring",
+    "past": "sprang",
+    "past_participle": "sprung",
+    "meaning": "봄; 스프링[용수철], 튀어 오르다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "stand",
+    "past": "stood",
+    "past_participle": "stood",
+    "meaning": "서다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "steal",
+    "past": "stole",
+    "past_participle": "stolen",
+    "meaning": "훔치다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "stick",
+    "past": "stuck",
+    "past_participle": "stuck",
+    "meaning": "붙이다; 찌르다; 막대기",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "sting",
+    "past": "stung",
+    "past_participle": "stung",
+    "meaning": "(벌 등이) 쏘다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "stink",
+    "past": "stank",
+    "past_participle": "stunk",
+    "meaning": "악취(를 풍기다)",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "strike",
+    "past": "struck",
+    "past_participle": "struck",
+    "meaning": "치다[때리다]; 파업",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "swear",
+    "past": "swore",
+    "past_participle": "sworn",
+    "meaning": "욕하다 (at); 맹세하다 (to)",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "sweep",
+    "past": "swept",
+    "past_participle": "swept",
+    "meaning": "쓸다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "swell",
+    "past": "swelled",
+    "past_participle": "swollen / swelled",
+    "meaning": "부풀다[붓다]",
+    "pattern": "A-B-C,A-B-B"
+  },
+  {
+    "base": "swim",
+    "past": "swam",
+    "past_participle": "swum",
+    "meaning": "수영하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "swing",
+    "past": "swung",
+    "past_participle": "swung",
+    "meaning": "흔들다, 그네",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "take",
+    "past": "took",
+    "past_participle": "taken",
+    "meaning": "가져가다[데려가자]; 잡다; (시간이) 걸리다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "teach",
+    "past": "taught",
+    "past_participle": "taught",
+    "meaning": "가르치다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "tear",
+    "past": "tore",
+    "past_participle": "torn",
+    "meaning": "눈물(티어); 찢다(테어)",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "tell",
+    "past": "told",
+    "past_participle": "told",
+    "meaning": "말하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "think",
+    "past": "thought",
+    "past_participle": "thought",
+    "meaning": "생각하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "throw",
+    "past": "threw",
+    "past_participle": "thrown",
+    "meaning": "던지다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "thrust",
+    "past": "thrust",
+    "past_participle": "thrust",
+    "meaning": "거칠게 밀다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "undergo",
+    "past": "underwent",
+    "past_participle": "undergone",
+    "meaning": "겪다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "underlie",
+    "past": "underlay",
+    "past_participle": "underlain",
+    "meaning": "기저를 이루다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "understand",
+    "past": "understood",
+    "past_participle": "understood",
+    "meaning": "이해하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "undertake",
+    "past": "undertook",
+    "past_participle": "undertaken",
+    "meaning": "떠맡다, 착수하다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "upset",
+    "past": "upset",
+    "past_participle": "upset",
+    "meaning": "속상한, 속상하게 하다",
+    "pattern": "A-A-A"
+  },
+  {
+    "base": "wake",
+    "past": "woke",
+    "past_participle": "woken",
+    "meaning": "깨(우)다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "wear",
+    "past": "wore",
+    "past_participle": "worn",
+    "meaning": "착용하다[입다, 신다, 쓰다]",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "weave",
+    "past": "wove",
+    "past_participle": "woven",
+    "meaning": "엮어서 짜다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "weep",
+    "past": "wept",
+    "past_participle": "wept",
+    "meaning": "울다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "win",
+    "past": "won",
+    "past_participle": "won",
+    "meaning": "이기다, (상을) 타다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "wind",
+    "past": "wound",
+    "past_participle": "wound",
+    "meaning": "바람; 감다[와인드]",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "withdraw",
+    "past": "withdrew",
+    "past_participle": "withdrawn",
+    "meaning": "인출하다; 철수시키다",
+    "pattern": "A-B-C"
+  },
+  {
+    "base": "withhold",
+    "past": "withheld",
+    "past_participle": "withheld",
+    "meaning": "(주지 않고) 보류하다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "withstand",
+    "past": "withstood",
+    "past_participle": "withstood",
+    "meaning": "견디다",
+    "pattern": "A-B-B"
+  },
+  {
+    "base": "write",
+    "past": "wrote",
+    "past_participle": "written",
+    "meaning": "쓰다",
+    "pattern": "A-B-C"
+  }
+]

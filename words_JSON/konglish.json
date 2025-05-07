@@ -1,0 +1,1513 @@
+{
+  "건축": [
+    {
+      "konglish": "바데풀",
+      "english_equivalent": ["thermal baths"],
+      "notes": "독일어 'Badepool'에서 유래된 표현으로, 온천이나 스파 형태의 수영장을 의미함."
+    },
+    {
+      "konglish": "비닐하우스",
+      "english_equivalent": [
+        "polytunnel",
+        "polyhouse",
+        "plastic tunnel",
+        "hoop greenhouse"
+      ],
+      "notes": "농작물 재배를 위한 플라스틱 구조물. 영어에서는 다양한 용어가 상황에 따라 사용됨."
+    },
+    {
+      "konglish": "빌라",
+      "english_equivalent": ["apartment"],
+      "notes": "한국에서 '빌라'는 저층 아파트를 뜻하지만, 영어권에서는 'villa'는 고급 주택을 의미함."
+    },
+    {
+      "konglish": "맨션",
+      "english_equivalent": ["apartment"],
+      "notes": "영어권에서는 'mansion'은 대저택을 의미하나, 한국에서는 작은 아파트도 '맨션'이라 부름."
+    },
+    {
+      "konglish": "아파트",
+      "english_equivalent": {
+        "UK": "flat",
+        "US": "apartment"
+      },
+      "notes": "영국식 영어에서는 'flat', 미국식 영어에서는 'apartment' 사용."
+    },
+    {
+      "konglish": "오피스텔",
+      "english_equivalent": ["studio apartment"],
+      "notes": "업무와 주거가 결합된 형태의 원룸형 건물. 영어로는 'studio apartment'가 가장 가까운 표현."
+    },
+    {
+      "konglish": "원룸",
+      "english_equivalent": ["studio", "bachelor apartment"],
+      "notes": "침실, 부엌, 거실이 분리되지 않은 단일 공간."
+    },
+    {
+      "konglish": "웨딩홀",
+      "english_equivalent": ["wedding venue"],
+      "notes": "결혼식장. 영어에서는 단순히 'wedding venue'로 표현."
+    },
+    {
+      "konglish": "콘도",
+      "english_equivalent": ["vacation rental"],
+      "notes": "휴양지의 콘도미니엄 형태 숙소. 영어에서는 'condo' 또는 'vacation rental'로 표현."
+    },
+    {
+      "konglish": "콘도미니엄",
+      "english_equivalent": ["vacation rental"],
+      "notes": "영어에서도 'condominium'이 존재하지만, 일반적으로 'vacation rental'의 의미로 사용됨."
+    },
+    {
+      "konglish": "모델하우스",
+      "english_equivalent": ["showroom", "show home"],
+      "notes": " 영어권에서는 한국처럼 모델하우스가 흔하지 않음. 'showroom' 을 대신해서 사용가능."
+    },
+    {
+      "konglish": "리모델링",
+      "english_equivalent": ["renovation", "remodeling"],
+      "notes": "비슷한 영어 단어가 있지만 한국에서는 주거 공간 개조를 뜻함. 'renovation'과 통함."
+    }
+  ],
+  "경제": [
+    {
+      "konglish": "더치페이",
+      "english_equivalent": ["splitting the bill"],
+      "notes": "'Dutch pay'라는 표현은 실제 영어권에서는 사용되지 않으며, 'split the bill'이 자연스러운 표현."
+    },
+    {
+      "konglish": "메이커",
+      "english_equivalent": ["name-brand"],
+      "notes": "한국에서는 브랜드를 통칭하는 말로 쓰이지만, 영어에서는 'brand' 혹은 'name-brand' 사용."
+    },
+    {
+      "konglish": "멜팅 포인트",
+      "english_equivalent": ["melt value"],
+      "notes": "'melting point'는 원래 물리학 용어이고, 금속 등의 가치로 쓰일 때는 'melt value'가 정확한 표현."
+    },
+    {
+      "konglish": "서비스",
+      "english_equivalent": [
+        "freebie",
+        "on the house",
+        "complimentary",
+        "free of charge"
+      ],
+      "notes": "한국에서는 '공짜로 주는 것'의 의미로 사용됨. 영어권에서는 상황에 따라 다양한 표현이 있음."
+    },
+    {
+      "konglish": "샐러리맨",
+      "english_equivalent": [
+        "salaried employee",
+        "white-collar worker",
+        "silicon-collar worker"
+      ],
+      "notes": "정규직 직장인을 뜻함. 영어에서는 직종, 산업에 따라 다양하게 표현됨."
+    },
+    {
+      "konglish": "스펙",
+      "english_equivalent": ["qualification"],
+      "notes": "원래는 'specification'에서 왔으나, 한국에서는 학력, 자격증 등 개인 역량을 뜻함."
+    },
+    {
+      "konglish": "아이 쇼핑",
+      "english_equivalent": ["window shopping"],
+      "notes": "'eye shopping'은 영어권에서는 사용되지 않으며, 'window shopping'이 자연스러운 표현."
+    },
+    {
+      "konglish": "애프터 서비스",
+      "english_equivalent": [
+        "after-sales service",
+        "warranty",
+        "customer service"
+      ],
+      "notes": "'A/S'라는 약어도 흔히 사용되며, 영어권에서는 제품 구매 후 지원을 뜻함."
+    },
+    {
+      "konglish": "이벤트",
+      "english_equivalent": ["promotion", "sale"],
+      "notes": "행사 또는 할인 이벤트 의미. 영어에서는 'event'는 행사 자체를 가리키며, 마케팅 용어는 별도로 사용됨."
+    },
+    {
+      "konglish": "인프라",
+      "english_equivalent": ["infrastructure"],
+      "notes": "'infra'는 축약형으로 사용되지만, 영어권에서는 일반적으로 'infrastructure' 사용."
+    },
+    {
+      "konglish": "클레임",
+      "english_equivalent": ["complaint", "claims (in insurance context)"],
+      "notes": "고객 불만을 의미하는 경우 영어로는 'complaint'. 보험 등에서는 'claim'도 사용."
+    },
+    {
+      "konglish": "체크카드",
+      "english_equivalent": ["debit card"],
+      "notes": "'check card'는 영어권에서 의미가 통하지 않으며, 'debit card'가 올바른 표현."
+    },
+    {
+      "konglish": "커리어 우먼",
+      "english_equivalent": ["(female) office worker"],
+      "notes": "일하는 여성을 지칭하는 표현. 영어권에서는 'career woman'보다 중립적인 표현을 선호함."
+    },
+    {
+      "konglish": "오피스 레이디",
+      "english_equivalent": ["(female) office worker"],
+      "notes": "일본에서 온 표현이며 영어에서는 자연스럽지 않음."
+    },
+    {
+      "konglish": "PT",
+      "english_equivalent": ["presentation"],
+      "notes": "'PT'는 영어에서 'personal trainer'로 오해될 수 있음. 발표를 의미할 때는 'presentation' 사용."
+    },
+    {
+      "konglish": "아르바이트",
+      "english_equivalent": ["part-time job"],
+      "notes": "독일어 'Arbeit'에서 유래. 영어에서는 'part-time job'."
+    }
+  ],
+  "교통/자동차": [
+    {
+      "konglish": "미숀/미션",
+      "english_equivalent": ["transmission"],
+      "notes": "자동차의 기어 장치를 의미. 영어권에서는 'transmission' 사용."
+    },
+    {
+      "konglish": "백미러",
+      "english_equivalent": ["rear-view mirror"],
+      "notes": "'back mirror'는 영어권에서 사용되지 않으며, 올바른 표현은 'rear-view mirror'."
+    },
+    {
+      "konglish": "사이드 미러",
+      "english_equivalent": ["wing mirror", "side-view mirror"],
+      "notes": "영국식으로는 'wing mirror', 미국식으로는 'side-view mirror' 사용."
+    },
+    {
+      "konglish": "사이드 브레이크",
+      "english_equivalent": [
+        "emergency brake",
+        "parking brake",
+        "manual brake",
+        "hand brake"
+      ],
+      "notes": "용도나 지역에 따라 다양한 명칭이 있음."
+    },
+    {
+      "konglish": "쇼바",
+      "english_equivalent": ["shock absorber", "suspension"],
+      "notes": "'쇼바'는 'shock absorber'의 일본식 표현에서 유래. 차량 서스펜션 시스템 일부."
+    },
+    {
+      "konglish": "선팅",
+      "english_equivalent": ["tinting"],
+      "notes": "자동차 유리에 필름을 붙이는 작업. 영어에서도 'tinting' 사용."
+    },
+    {
+      "konglish": "엑셀",
+      "english_equivalent": ["gas pedal"],
+      "notes": "'엑셀'은 'accelerator'의 줄임말로 쓰이나, 영어권에서는 'gas pedal'이 더 일반적."
+    },
+    {
+      "konglish": "오토바이",
+      "english_equivalent": ["motorcycle", "motorbike", "scooter"],
+      "notes": "'오토바이'는 일본어 'オートバイ'에서 유래. 크기와 종류에 따라 다른 영어 표현 사용."
+    },
+    {
+      "konglish": "오픈카",
+      "english_equivalent": ["convertible"],
+      "notes": "'오픈카'는 영어로 'convertible'이 올바른 표현."
+    },
+    {
+      "konglish": "원박스카",
+      "english_equivalent": ["cab-over van"],
+      "notes": "운전석이 엔진 위에 있는 박스형 차량. 영어로는 'cab-over van'이라 함."
+    },
+    {
+      "konglish": "윈도 브러시",
+      "english_equivalent": ["windshield wiper"],
+      "notes": "'window brush'는 콩글리시. 올바른 영어 표현은 'windshield wiper'."
+    },
+    {
+      "konglish": "잭나이프 현상 (이륜차)",
+      "english_equivalent": ["stoppie", "front wheelie", "end-over-end"],
+      "notes": "급제동 시 뒷바퀴가 들리는 현상. 'stoppie' 등이 영어권에서 사용됨."
+    },
+    {
+      "konglish": "카센터",
+      "english_equivalent": [
+        "body shop",
+        "car repair shop",
+        "auto repair shop"
+      ],
+      "notes": "'카센터'는 영어권에서는 다양한 이름으로 불리며, 상황에 따라 구분됨."
+    },
+    {
+      "konglish": "킥보드",
+      "english_equivalent": ["scooter", "skate scooter"],
+      "notes": "아이들이 타는 '킥보드'는 영어로 'scooter' 또는 'kick scooter'."
+    },
+    {
+      "konglish": "클락션",
+      "english_equivalent": ["horn"],
+      "notes": "'클락션'은 불어에서 유래된 표현으로, 영어에서는 단순히 'horn'."
+    },
+    {
+      "konglish": "펑크",
+      "english_equivalent": ["flat tire", "puncture"],
+      "notes": "'펑크'는 영어 'puncture'에서 유래, 미국식으로는 'flat tire'."
+    },
+    {
+      "konglish": "핸들",
+      "english_equivalent": ["steering wheel", "handlebar"],
+      "notes": "'핸들'은 차량에서는 'steering wheel', 자전거나 오토바이에서는 'handlebar' 사용."
+    }
+  ],
+  "대중문화": [
+    {
+      "konglish": "가글",
+      "english_equivalent": ["mouthwash"],
+      "notes": "'가글'은 동작보다는 제품을 의미하며, 영어로는 'mouthwash' 사용."
+    },
+    {
+      "konglish": "개그맨, 개그우먼",
+      "english_equivalent": ["(stand-up) comedian"],
+      "notes": "'comedian'으로 충분하며, 성별을 구분할 필요 없음."
+    },
+    {
+      "konglish": "골든 타임",
+      "english_equivalent": ["golden hour"],
+      "notes": "의료, 구조, 방송에서 긴급한 시간대를 지칭."
+    },
+    {
+      "konglish": "네티즌",
+      "english_equivalent": ["internet user"],
+      "notes": "'netizen'은 영어권에서도 쓰이지만 다소 제한적."
+    },
+    {
+      "konglish": "대시",
+      "english_equivalent": ["make a move on", "hit on"],
+      "notes": "'대시하다'는 이성에게 적극적으로 다가가는 행동을 의미."
+    },
+    {
+      "konglish": "드라마",
+      "english_equivalent": ["TV drama", "TV series"],
+      "notes": "'Drama'는 연극도 포함되므로, 구체적 표현 필요."
+    },
+    {
+      "konglish": "러버",
+      "english_equivalent": ["fan", "addict", "enthusiast"],
+      "notes": "'lover'는 연인이라는 의미가 강하므로 주의 필요."
+    },
+    {
+      "konglish": "립서비스",
+      "english_equivalent": ["flattery"],
+      "notes": "진심 없는 칭찬이나 형식적 표현 의미."
+    },
+    {
+      "konglish": "마인드 컨트롤",
+      "english_equivalent": ["self-control"],
+      "notes": "'mind control'은 외부 조종 의미, 한국에서는 자기절제 의미로 사용."
+    },
+    {
+      "konglish": "모자이크",
+      "english_equivalent": ["censorship"],
+      "notes": "모자이크 처리는 검열의 한 방식으로 표현됨."
+    },
+    {
+      "konglish": "북 콘서트",
+      "english_equivalent": ["book talk"],
+      "notes": "작가와의 만남 형식 이벤트를 의미."
+    },
+    {
+      "konglish": "블라인드",
+      "english_equivalent": ["hide", "mask", "redact", "obscure"],
+      "notes": "정보를 가리는 행위를 의미. 컨텍스트에 따라 표현 달라짐."
+    },
+    {
+      "konglish": "센스",
+      "english_equivalent": ["social awareness"],
+      "notes": "타인에 대한 배려나 분위기 파악 능력을 의미."
+    },
+    {
+      "konglish": "셀카",
+      "english_equivalent": ["selfie"],
+      "notes": "'selfie'는 전 세계적으로 통용되는 표현."
+    },
+    {
+      "konglish": "셀카봉",
+      "english_equivalent": ["selfie stick"],
+      "notes": "'selfie' + 한국어 '봉'. 영어권에서도 selfie stick으로 통용됨."
+    },
+    {
+      "konglish": "스킨십",
+      "english_equivalent": [
+        "touch",
+        "skin contact",
+        "physical intimacy",
+        "physical affection"
+      ],
+      "notes": "'skinship'은 일본식 영어. 친밀한 접촉을 의미함."
+    },
+    {
+      "konglish": "애니메이션",
+      "english_equivalent": ["animated movie", "animated film"],
+      "notes": "'animation'은 장르이므로 구체적 표현이 필요."
+    },
+    {
+      "konglish": "엔딩 크레딧",
+      "english_equivalent": ["closing credits", "end credits"],
+      "notes": "영화나 드라마 끝에 나오는 제작진 정보."
+    },
+    {
+      "konglish": "엠티",
+      "english_equivalent": ["retreat", "college trip", "school trip"],
+      "notes": "단체 워크숍 또는 MT 문화 설명 필요."
+    },
+    {
+      "konglish": "오버",
+      "english_equivalent": ["overdo", "overreact", "exaggerate"],
+      "notes": "과장된 행동을 지칭할 때 사용."
+    },
+    {
+      "konglish": "오픈런",
+      "english_equivalent": ["opening rush"],
+      "notes": "특정 상품이나 공연 등을 빠르게 확보하려는 초기 인파 현상."
+    },
+    {
+      "konglish": "워너비",
+      "english_equivalent": ["wannabe", "role model"],
+      "notes": "'wannabe'는 부정적 의미일 수 있어 문맥에 따라 'role model' 사용."
+    },
+    {
+      "konglish": "웹툰",
+      "english_equivalent": ["web comic", "webtoon"],
+      "notes": "'webtoon'도 영어권에서 통용되기 시작함."
+    },
+    {
+      "konglish": "이미지",
+      "english_equivalent": ["branding", "brand identity", "vibe", "feeling"],
+      "notes": "사람이나 브랜드의 대중 인식을 의미."
+    },
+    {
+      "konglish": "컴백",
+      "english_equivalent": ["release", "return"],
+      "notes": "가수나 아이돌 그룹의 활동 재개를 의미."
+    },
+    {
+      "konglish": "콘셉트",
+      "english_equivalent": ["gimmick", "pretense"],
+      "notes": "특정 이미지나 테마 설정을 의미."
+    },
+    {
+      "konglish": "콘티",
+      "english_equivalent": ["storyboard", "mock-up"],
+      "notes": "'콘티'는 시각적 기획 자료."
+    },
+    {
+      "konglish": "크랭크인",
+      "english_equivalent": ["begin shooting", "start filming"],
+      "notes": "촬영 시작 의미. '크랭크업'은 촬영 종료."
+    },
+    {
+      "konglish": "크랭크업",
+      "english_equivalent": ["wrap", "finish shooting"],
+      "notes": "촬영 종료 의미."
+    },
+    {
+      "konglish": "탈렌트, 탤런트",
+      "english_equivalent": ["TV actor", "TV actress"],
+      "notes": "연기자 전체를 지칭할 때는 'TV actor'로 통일 가능."
+    },
+    {
+      "konglish": "토크 콘서트",
+      "english_equivalent": ["talk show"],
+      "notes": "무대에서의 토크 중심 프로그램. 영어권에서는 'talk show'."
+    },
+    {
+      "konglish": "트럼프 카드",
+      "english_equivalent": ["playing card"],
+      "notes": "'trump card'는 전략적 비장의 수단 의미. 카드 자체는 'playing card'."
+    },
+    {
+      "konglish": "팝송",
+      "english_equivalent": ["(popular) English-language song"],
+      "notes": "'팝송'은 한국에서 영어 노래를 지칭할 때 자주 사용됨."
+    },
+    {
+      "konglish": "하이틴",
+      "english_equivalent": ["high school aesthetic"],
+      "notes": "90년대 미국 고등학생 문화 또는 스타일 지칭."
+    },
+    {
+      "konglish": "핫플레이스",
+      "english_equivalent": ["popular spot", "trendy place", "hotspot"],
+      "notes": "'hot place'는 콩글리시. 자연스러운 영어는 'hotspot'."
+    },
+    {
+      "konglish": "호캉스",
+      "english_equivalent": ["staycation at a hotel", "hotel getaway"],
+      "notes": "호텔에서 여유롭게 보내는 휴가를 의미."
+    },
+    {
+      "konglish": "CF, CM",
+      "english_equivalent": ["commercials"],
+      "notes": "'Commercial Film', 'Commercial Message'는 일본식 표현."
+    },
+    {
+      "konglish": "MR",
+      "english_equivalent": ["instrumental", "backing track"],
+      "notes": "'Music Recorded'의 약자. 반주를 의미."
+    },
+    {
+      "konglish": "NG",
+      "english_equivalent": ["outtakes", "bloopers"],
+      "notes": "'No Good'에서 유래. NG 장면을 뜻함."
+    },
+    {
+      "konglish": "PD",
+      "english_equivalent": ["producer"],
+      "notes": "'Program Director'의 약자. 방송 제작자 의미."
+    },
+    {
+      "konglish": "PPL",
+      "english_equivalent": ["product placement"],
+      "notes": "간접광고로, 작품 내 특정 브랜드 노출을 의미."
+    },
+    {
+      "konglish": "SNS",
+      "english_equivalent": ["social media", "socials", "social apps"],
+      "notes": "'SNS'는 콩글리시이며, 영어권에서는 'social media' 사용."
+    },
+    {
+      "konglish": "버스킹",
+      "english_equivalent": ["street performance"],
+      "notes": "영어 단어 'busk'에서 왔지만, 한국에서는 공연 문화로 널리 사용됨."
+    },
+    {
+      "konglish": "리메이크",
+      "english_equivalent": ["cover", "remake version"],
+      "notes": "영어로 'remake'는 보통 영화/작품에서 사용됨. 노래는 'cover'가 자연스러움."
+    },
+    {
+      "konglish": "엔터",
+      "english_equivalent": ["entertainment industry", "showbiz"],
+      "notes": "'엔터'는 '엔터테인먼트'를 줄인 말로 연예기획사나 업계를 지칭할 때 자주 사용됨."
+    },
+    {
+      "konglish": "셀럽",
+      "english_equivalent": ["celebrity", "public figure"],
+      "notes": "'셀러브리티(celebrity)'의 줄임말로 인플루언서나 연예인을 의미함."
+    }
+  ],
+  "문구": [
+    {
+      "konglish": "네임펜",
+      "english_equivalent": ["Sharpie", "Marker"],
+      "notes": "'네임펜'은 흔히 영구 마커를 지칭하며, 대표 브랜드인 Sharpie로 대체됨."
+    },
+    {
+      "konglish": "매직",
+      "english_equivalent": ["Magic marker", "Permanent marker"],
+      "notes": "'매직'은 마커 펜을 의미하며, 일반적으로 'magic marker' 또는 'permanent marker' 사용."
+    },
+    {
+      "konglish": "본드",
+      "english_equivalent": ["glue", "adhesive", "superglue"],
+      "notes": "'본드'는 일반 접착제부터 순간접착제까지 포괄함."
+    },
+    {
+      "konglish": "볼펜",
+      "english_equivalent": ["ballpoint pen"],
+      "notes": "직역이며, 자연스러운 영어 표현."
+    },
+    {
+      "konglish": "사인펜",
+      "english_equivalent": ["marker pen"],
+      "notes": "'sign pen'은 일본식 영어. 영어권에서는 'marker'로 통용."
+    },
+    {
+      "konglish": "샤프",
+      "english_equivalent": ["mechanical pencil", "propelling pencil"],
+      "notes": "'샤프'는 일본 브랜드 이름에서 유래. 영어권에서는 mechanical pencil 사용."
+    },
+    {
+      "konglish": "스카치테이프",
+      "english_equivalent": ["cellophane tape", "sticky tape", "box tape"],
+      "notes": "'Scotch tape'는 브랜드명. 일반 표현은 'sticky tape' 혹은 'cellophane tape'."
+    },
+    {
+      "konglish": "코팅",
+      "english_equivalent": ["lamination"],
+      "notes": "'종이 코팅'은 일반적으로 'laminate' 또는 'lamination'으로 표현."
+    },
+    {
+      "konglish": "클립",
+      "english_equivalent": ["paperclip"],
+      "notes": "'클립'은 축약형으로 사용되며, 정확한 표현은 'paperclip'."
+    },
+    {
+      "konglish": "호치키스",
+      "english_equivalent": ["stapler"],
+      "notes": "'호치키스'는 일본식 브랜드 이름. 올바른 영어 표현은 'stapler'."
+    },
+    {
+      "konglish": "호치키스심",
+      "english_equivalent": ["staple"],
+      "notes": "호치키스의 철심을 영어로는 'staple'."
+    },
+    {
+      "konglish": "화이트",
+      "english_equivalent": ["correction fluid", "correction tape"],
+      "notes": "'화이트'는 화이트 수정액/테이프를 의미. 영어권에서는 브랜드명보다 기능 중심으로 표현."
+    },
+    {
+      "konglish": "포스트잇",
+      "english_equivalent": ["sticky notes", "Post-it notes"],
+      "notes": "‘Post-it’은 브랜드명임. 영어권에서도 자주 사용됨."
+    },
+    {
+      "konglish": "커터칼",
+      "english_equivalent": ["box cutter", "utility knife"],
+      "notes": "‘cutter knife’는 일본식 영어에서 유래된 표현."
+    }
+  ],
+  "비디오게임": [
+    {
+      "konglish": "게임",
+      "english_equivalent": ["video game", "video games"],
+      "notes": "일반적인 '게임'은 영어로 'video games'라고 명확히 구분함."
+    },
+    {
+      "konglish": "다이",
+      "english_equivalent": ["fold"],
+      "notes": "'다이'는 카드 게임 등에서 포기하는 의미로 쓰이며, 영어로는 'fold'."
+    },
+    {
+      "konglish": "딜",
+      "english_equivalent": ["damage"],
+      "notes": "'딜'은 'deal damage'에서 유래, 보통 'damage'로 표현함."
+    },
+    {
+      "konglish": "딜러",
+      "english_equivalent": ["DPS (Damage Per Second)"],
+      "notes": "'딜러'는 공격 담당 캐릭터로, 영어에선 'DPS'가 일반적 표현."
+    },
+    {
+      "konglish": "딜 사이클",
+      "english_equivalent": ["skill rotation"],
+      "notes": "공격 순서를 의미하며 'skill rotation'이 정확한 표현."
+    },
+    {
+      "konglish": "라인",
+      "english_equivalent": ["lane"],
+      "notes": "MOBA류 게임에서 쓰이며, 'lane'이 정확한 표현."
+    },
+    {
+      "konglish": "랜덤박스",
+      "english_equivalent": ["loot box"],
+      "notes": "'랜덤박스'는 확률형 아이템 박스로 'loot box'가 정확한 표현."
+    },
+    {
+      "konglish": "랭크 게임",
+      "english_equivalent": ["ranked game"],
+      "notes": "등급 시스템이 있는 게임으로 'ranked game' 사용."
+    },
+    {
+      "konglish": "매드 무비",
+      "english_equivalent": ["montage", "frag movie"],
+      "notes": "화려한 플레이 장면 편집 영상, 'montage' 또는 'frag movie'."
+    },
+    {
+      "konglish": "멀티",
+      "english_equivalent": ["expansion"],
+      "notes": "'멀티'는 스타크래프트에서 확장기지를 뜻함. 'expansion'이 정확."
+    },
+    {
+      "konglish": "모델링",
+      "english_equivalent": ["model"],
+      "notes": "'3D 모델링'을 지칭할 때 'model'로 표현."
+    },
+    {
+      "konglish": "모션",
+      "english_equivalent": ["animation"],
+      "notes": "'모션'은 캐릭터 동작을 뜻하며, 'animation'이 자연스러움."
+    },
+    {
+      "konglish": "오브젝트",
+      "english_equivalent": ["objective"],
+      "notes": "게임 내 주요 목표물. 'objective'가 일반적."
+    },
+    {
+      "konglish": "온라인 게임",
+      "english_equivalent": ["multiplayer video games", "MMOs"],
+      "notes": "'Online games'는 포괄적이며, 구체적으론 'MMO' 또는 'multiplayer'."
+    },
+    {
+      "konglish": "유저",
+      "english_equivalent": ["player"],
+      "notes": "'User'는 일반 사용자, 게임에선 'player'가 자연스러움."
+    },
+    {
+      "konglish": "유즈맵",
+      "english_equivalent": ["custom map", "user-created map"],
+      "notes": "사용자 제작 맵을 지칭, 'custom map'이 일반적."
+    },
+    {
+      "konglish": "전략 시뮬레이션 게임",
+      "english_equivalent": ["strategy game"],
+      "notes": "'strategy simulation'은 혼용, 보통 'strategy game' 사용."
+    },
+    {
+      "konglish": "치즈 러시",
+      "english_equivalent": ["worker rush", "all-in rush with workers"],
+      "notes": "비정상적 전술 초반 러시. 'cheese'라는 용어도 쓰임."
+    },
+    {
+      "konglish": "쿨타임",
+      "english_equivalent": ["cooldown"],
+      "notes": "'쿨타임'은 'cooldown'의 오용. 후자 사용이 일반적."
+    },
+    {
+      "konglish": "쿼터플",
+      "english_equivalent": ["quad", "tetrad"],
+      "notes": "'4인조' 또는 4연속 처치 상황에서 'quad' 사용."
+    },
+    {
+      "konglish": "탱커",
+      "english_equivalent": ["tank"],
+      "notes": "방어/어그로 담당 캐릭터. 'tank'가 자연스러움."
+    },
+    {
+      "konglish": "트리",
+      "english_equivalent": ["build"],
+      "notes": "스킬 또는 캐릭터 성장 경로를 뜻하며 'build'로 표현."
+    },
+    {
+      "konglish": "티어",
+      "english_equivalent": ["rank"],
+      "notes": "'티어'는 등급을 의미, 영어에서는 'rank' 사용."
+    },
+    {
+      "konglish": "피지컬",
+      "english_equivalent": ["skill", "reaction time"],
+      "notes": "'피지컬'은 반사신경/손기술을 의미. 영어로는 skill 또는 reaction time."
+    },
+    {
+      "konglish": "하이퍼 FPS",
+      "english_equivalent": ["hero shooter"],
+      "notes": "'하이퍼 FPS'는 캐릭터 고유 능력 FPS로 'hero shooter' 사용."
+    },
+    {
+      "konglish": "DL 게임",
+      "english_equivalent": ["downloadable games", "digital games"],
+      "notes": "'DL'은 'download'의 축약. 영어권에서는 'digital game'이 보편적."
+    }
+  ],
+  "스포츠": [
+    {
+      "konglish": "골 라인 클리어링",
+      "english_equivalent": ["goal line clearance", "clearance"],
+      "notes": "골문 앞 수비 상황에서 공을 걷어내는 플레이."
+    },
+    {
+      "konglish": "골 세리머니",
+      "english_equivalent": ["goal celebration"],
+      "notes": "골을 넣고 하는 세레모니."
+    },
+    {
+      "konglish": "골인",
+      "english_equivalent": ["score a goal"],
+      "notes": "'goal in'이라는 표현은 영어에 없음. 자연스러운 표현은 'score a goal'."
+    },
+    {
+      "konglish": "그라운드 홈런",
+      "english_equivalent": ["inside-the-park home run"],
+      "notes": "외야를 빠르게 돌아 홈에 들어오는 홈런."
+    },
+    {
+      "konglish": "데드볼",
+      "english_equivalent": ["hit by pitch", "HBP"],
+      "notes": "타자가 공에 맞는 상황."
+    },
+    {
+      "konglish": "로라",
+      "english_equivalent": ["roller"],
+      "notes": "운동용 롤러를 지칭."
+    },
+    {
+      "konglish": "로스타임",
+      "english_equivalent": ["additional time", "stoppage time", "injury time"],
+      "notes": "경기 지연을 보상하는 추가 시간."
+    },
+    {
+      "konglish": "바디프로필",
+      "english_equivalent": [
+        "physique photography",
+        "aesthetic physique photography"
+      ],
+      "notes": "운동 후 체형을 강조한 사진 촬영."
+    },
+    {
+      "konglish": "백넘버",
+      "english_equivalent": ["shirt number", "jersey number", "uniform number"],
+      "notes": "선수 유니폼에 적힌 번호."
+    },
+    {
+      "konglish": "샌드백",
+      "english_equivalent": ["punching bag"],
+      "notes": "복싱, 운동용 타격 도구."
+    },
+    {
+      "konglish": "센터링",
+      "english_equivalent": ["cross"],
+      "notes": "축구에서 측면에서 중앙으로 올리는 패스."
+    },
+    {
+      "konglish": "슛/슈팅",
+      "english_equivalent": ["shot"],
+      "notes": "골을 노리는 슈팅."
+    },
+    {
+      "konglish": "스포렉스",
+      "english_equivalent": ["sports complex"],
+      "notes": "스포츠 시설이 복합된 장소."
+    },
+    {
+      "konglish": "스포츠 댄스",
+      "english_equivalent": ["DanceSport", "competitive ballroom dance"],
+      "notes": "경쟁성 있는 스포츠 댄스."
+    },
+    {
+      "konglish": "스피드 스케이팅",
+      "english_equivalent": ["long-track speed skating"],
+      "notes": "일반적으로 장거리 트랙을 의미."
+    },
+    {
+      "konglish": "스토브리그",
+      "english_equivalent": ["hot stove"],
+      "notes": "'hot stove league'에서 'hot'을 생략하지 않는 것이 정확."
+    },
+    {
+      "konglish": "올드 유니폼",
+      "english_equivalent": ["throwback uniform", "retro kits"],
+      "notes": "옛 디자인을 복원한 유니폼."
+    },
+    {
+      "konglish": "이미지 트레이닝",
+      "english_equivalent": [
+        "mental imagery training",
+        "visualization",
+        "mental rehearsal"
+      ],
+      "notes": "시각화를 통해 기술/동작을 연습하는 훈련법."
+    },
+    {
+      "konglish": "인도어",
+      "english_equivalent": ["driving range"],
+      "notes": "골프 연습장에서 실내 연습장을 지칭."
+    },
+    {
+      "konglish": "퀵모션",
+      "english_equivalent": ["slide step"],
+      "notes": "투수가 주자를 견제할 때 빠르게 던지는 투구 동작."
+    },
+    {
+      "konglish": "키스톤 콤비",
+      "english_equivalent": ["middle infielder"],
+      "notes": "야구에서 2루수와 유격수의 조합."
+    },
+    {
+      "konglish": "토너먼트",
+      "english_equivalent": ["single-elimination tournament"],
+      "notes": "패배 시 탈락하는 방식의 대회."
+    },
+    {
+      "konglish": "포볼",
+      "english_equivalent": ["base on balls", "walk"],
+      "notes": "4볼로 인한 진루 상황."
+    },
+    {
+      "konglish": "포켓볼",
+      "english_equivalent": ["pocket billiards", "pool"],
+      "notes": "'당구'의 일종인 포켓볼."
+    },
+    {
+      "konglish": "할리우드 액션",
+      "english_equivalent": ["simulated foul"],
+      "notes": "과장된 파울 연기. 'diving'도 유사한 표현."
+    },
+    {
+      "konglish": "핸들링",
+      "english_equivalent": ["handball", "handling violation"],
+      "notes": "손으로 공을 다루는 반칙."
+    },
+    {
+      "konglish": "헬스",
+      "english_equivalent": ["fitness"],
+      "notes": "일반적으로 'exercise'보다 포괄적."
+    },
+    {
+      "konglish": "헬스 클럽",
+      "english_equivalent": ["gym"],
+      "notes": "운동 시설. 영어로는 'gym'이 일반적."
+    },
+    {
+      "konglish": "홈 트레이닝",
+      "english_equivalent": ["home workout"],
+      "notes": "집에서 하는 운동."
+    },
+    {
+      "konglish": "런닝머신",
+      "english_equivalent": ["treadmill"],
+      "notes": "'running machine'은 콩글리시. 영어권에서는 'treadmill'이라고 함."
+    }
+  ],
+  "음식/주방용품": [
+    {
+      "konglish": "다이어트",
+      "english_equivalent": ["weight loss", "be on a diet"],
+      "notes": "'diet'는 영어로 식습관 전반을 의미하며, 체중 감량은 따로 표현함."
+    },
+    {
+      "konglish": "랩",
+      "english_equivalent": ["plastic wrap"],
+      "notes": "음식 포장용 랩."
+    },
+    {
+      "konglish": "리필",
+      "english_equivalent": ["free refill", "unlimited refill"],
+      "notes": "음료나 반찬의 무료 추가 제공."
+    },
+    {
+      "konglish": "믹서기",
+      "english_equivalent": ["blender"],
+      "notes": "'mixer'는 보통 제빵용 믹서를 의미함."
+    },
+    {
+      "konglish": "믹스커피",
+      "english_equivalent": ["instant coffee mix"],
+      "notes": "설탕과 프림이 섞인 인스턴트 커피."
+    },
+    {
+      "konglish": "사이다",
+      "english_equivalent": ["lemon-lime soft drink"],
+      "notes": "스프라이트(Sprite), 세븐업(7UP) 등과 유사."
+    },
+    {
+      "konglish": "세트 메뉴",
+      "english_equivalent": ["meal", "combo"],
+      "notes": "'set menu'는 프렌치 코스 스타일 의미일 수 있어 주의."
+    },
+    {
+      "konglish": "소울푸드",
+      "english_equivalent": ["comfort food"],
+      "notes": "'soul food'는 아프리칸 아메리칸 전통 요리를 의미함. 의미 혼동 주의."
+    },
+    {
+      "konglish": "셀프",
+      "english_equivalent": ["self-service", "self-serve", "DIY"],
+      "notes": "고객이 직접 음식을 담거나 서비스하는 방식."
+    },
+    {
+      "konglish": "아이스바",
+      "english_equivalent": ["popsicle", "ice pop", "ice lolly"],
+      "notes": "막대가 꽂힌 얼음 아이스크림."
+    },
+    {
+      "konglish": "아이스 커피",
+      "english_equivalent": ["iced coffee"],
+      "notes": "'ice coffee'는 비표준. 'iced coffee'가 자연스러운 영어."
+    },
+    {
+      "konglish": "에이드",
+      "english_equivalent": ["carbonated fruit drink"],
+      "notes": "과일향 탄산 음료. 영어에서 '-ade'는 lemonade처럼 자연스럽게 사용됨."
+    },
+    {
+      "konglish": "오므라이스",
+      "english_equivalent": ["omelette rice"],
+      "notes": "오믈렛 속에 볶음밥이 들어간 일본식 요리."
+    },
+    {
+      "konglish": "원샷",
+      "english_equivalent": ["bottoms up", "down it", "chug it"],
+      "notes": "한 번에 마시는 행동을 의미."
+    },
+    {
+      "konglish": "종이 호일",
+      "english_equivalent": ["parchment paper"],
+      "notes": "베이킹용 종이. 'aluminum foil'과 혼동하지 않도록 주의."
+    },
+    {
+      "konglish": "치킨",
+      "english_equivalent": ["(Korean) fried chicken"],
+      "notes": "한국식 양념 또는 프라이드 치킨."
+    },
+    {
+      "konglish": "치팅데이",
+      "english_equivalent": ["cheat day"],
+      "notes": "다이어트 중 먹고 싶은 것을 먹는 날."
+    },
+    {
+      "konglish": "초코",
+      "english_equivalent": ["chocolate", "choc"],
+      "notes": "'choc'은 비격식 약어, 호주 영어에서 자주 사용됨."
+    },
+    {
+      "konglish": "커피 스토퍼",
+      "english_equivalent": ["coffee stirrer", "stir stick"],
+      "notes": "커피 젓는 막대나 뚜껑 구멍 막는 용품."
+    },
+    {
+      "konglish": "컵홀더",
+      "english_equivalent": ["sleeve"],
+      "notes": "뜨거운 컵에 끼우는 종이 슬리브."
+    },
+    {
+      "konglish": "콜팝",
+      "english_equivalent": ["popcorn chicken"],
+      "notes": "음료와 튀김이 컵에 함께 담긴 간식."
+    },
+    {
+      "konglish": "키친타월",
+      "english_equivalent": ["paper towel"],
+      "notes": "부엌용 흡수 종이."
+    },
+    {
+      "konglish": "푸드파이터",
+      "english_equivalent": ["competitive eater"],
+      "notes": "많이 먹는 대회에 참가하는 사람."
+    },
+    {
+      "konglish": "핫도그",
+      "english_equivalent": ["corn dog"],
+      "notes": "막대에 꽂아 튀긴 소시지 음식. 'hot dog'과 구분."
+    },
+    {
+      "konglish": "핫케이크",
+      "english_equivalent": ["pancake"],
+      "notes": "일반적으로 'pancake'이라고 부름."
+    },
+    {
+      "konglish": "햄",
+      "english_equivalent": ["canned ham"],
+      "notes": "'ham'은 광의이고, 통조림 햄은 'canned ham'."
+    },
+    {
+      "konglish": "휘핑크림",
+      "english_equivalent": ["whipped cream"],
+      "notes": "'whipping cream'은 재료, 'whipped cream'은 완성품."
+    },
+    {
+      "konglish": "사이드 메뉴",
+      "english_equivalent": ["side dish", "side order"],
+      "notes": "'사이드 메뉴'는 한국식 표현. 영어에서는 'side dish' 또는 'side order'가 자연스러움."
+    },
+    {
+      "konglish": "메뉴",
+      "english_equivalent": ["dish"],
+      "notes": " '메뉴'는 한국식 표현. 음식을 표현 할 때에는 dish 혹은 food 라고 해야 함"
+    },
+    {
+      "konglish": "마트",
+      "english_equivalent": ["supermarket", "grocery store"],
+      "notes": "'마트'는 영어 'mart'에서 왔지만 영어권에서는 거의 사용되지 않고 'supermarket'을 사용함."
+    },
+    {
+      "konglish": "패밀리 레스토랑",
+      "english_equivalent": ["casual dining restaurant", "chain restaurant"],
+      "notes": "한국에서는 '패밀리 레스토랑'이라는 표현을 체인 레스토랑에 자주 사용함."
+    }
+  ],
+  "전자/전기": [
+    {
+      "konglish": "노트북",
+      "english_equivalent": ["laptop"],
+      "notes": "'notebook'은 영어로도 사용되나, 일반적으로는 'laptop'이 더 자연스러움."
+    },
+    {
+      "konglish": "드라이버(공구)",
+      "english_equivalent": ["screwdriver"],
+      "notes": "운전자가 아니라 공구를 의미함."
+    },
+    {
+      "konglish": "리모컨",
+      "english_equivalent": ["remote controller", "remote"],
+      "notes": "'remote'만으로도 일반적으로 사용됨."
+    },
+    {
+      "konglish": "멀티탭",
+      "english_equivalent": ["extension cord"],
+      "notes": "콘센트를 여러 개로 늘려주는 전기줄."
+    },
+    {
+      "konglish": "무빙워크",
+      "english_equivalent": ["moving sidewalk", "moving walkway"],
+      "notes": "[미] moving sidewalk, [영] moving walkway."
+    },
+    {
+      "konglish": "블랙박스",
+      "english_equivalent": ["dash cam"],
+      "notes": "자동차에 설치하는 주행 영상 기록 장치."
+    },
+    {
+      "konglish": "스탠드",
+      "english_equivalent": ["desk lamp"],
+      "notes": "전등을 의미함."
+    },
+    {
+      "konglish": "에어컨",
+      "english_equivalent": ["air conditioner"],
+      "notes": "줄임말로 AC라고도 함."
+    },
+    {
+      "konglish": "오디오",
+      "english_equivalent": ["stereo", "audio equipment", "sound equipment"],
+      "notes": "'audio'만으로는 모호할 수 있음."
+    },
+    {
+      "konglish": "유심칩",
+      "english_equivalent": ["SIM", "SIM card"],
+      "notes": "'chip'이라는 표현은 일반적으로 사용되지 않음."
+    },
+    {
+      "konglish": "이어폰",
+      "english_equivalent": ["in-ear headphones", "earbuds"],
+      "notes": "보통 'earphones'보다는 'earbuds' 또는 'in-ear headphones' 사용."
+    },
+    {
+      "konglish": "잭",
+      "english_equivalent": ["jack", "plug adapter"],
+      "notes": "종류에 따라 headphone jack, power jack 등 다양함."
+    },
+    {
+      "konglish": "젠더",
+      "english_equivalent": ["gender changer adapter", "converter", "dongle"],
+      "notes": "'gender'는 성별이라는 오해를 불러일으킬 수 있어 주의."
+    },
+    {
+      "konglish": "콘센트",
+      "english_equivalent": ["electrical outlet", "receptacle", "power point"],
+      "notes": "[미] electrical outlet, [영] power point."
+    },
+    {
+      "konglish": "팬터그래프 키보드",
+      "english_equivalent": ["scissor-switch keyboard"],
+      "notes": "노트북 키보드에서 사용되는 구조."
+    },
+    {
+      "konglish": "폴더폰",
+      "english_equivalent": ["flip phone", "clamshell phone"],
+      "notes": "'folder phone'이라는 말은 영어에는 없음."
+    },
+    {
+      "konglish": "핸드폰",
+      "english_equivalent": ["mobile phone", "cell phone", "phone"],
+      "notes": "'hand phone'이라는 표현은 영어에는 없음."
+    },
+    {
+      "konglish": "PC-Fi",
+      "english_equivalent": ["PC Hi-Fi"],
+      "notes": "PC를 중심으로 한 고음질 오디오 시스템."
+    },
+    {
+      "konglish": "CCTV",
+      "english_equivalent": ["security camera", "surveillance system"],
+      "notes": "CCTV는 기술적 명칭이며, 일상에서는 'security camera' 사용."
+    }
+  ],
+  "패션/뷰티": [
+    {
+      "konglish": "글래머",
+      "english_equivalent": ["curvy", "busty", "voluptuous"],
+      "notes": "'글래머'는 몸매를 강조하는 표현으로 쓰이며, 영어권에서는 다양한 신체 특징을 묘사하는 표현이 사용됨."
+    },
+    {
+      "konglish": "네일아트 받다",
+      "english_equivalent": ["I got my nails done"],
+      "notes": "직역보다 자연스러운 영어 표현은 'I got my nails done' 또는 'I had a manicure'임."
+    },
+    {
+      "konglish": "니트",
+      "english_equivalent": ["sweater", "knitted fabric", "knitwear"],
+      "notes": "한국에서는 스웨터류를 통칭하지만 영어에서는 소재나 용도에 따라 달리 표현됨."
+    },
+    {
+      "konglish": "라운드 티셔츠",
+      "english_equivalent": ["crew neck T-shirt"],
+      "notes": "'라운드'는 목 부분을 뜻하며, 영어권에서는 'crew neck'으로 부름."
+    },
+    {
+      "konglish": "러닝셔츠",
+      "english_equivalent": ["sleeveless crew neck undershirt", "undershirt"],
+      "notes": "일본식 영어에서 유래. 영어권에서는 'undershirt' 또는 'tank top' 사용."
+    },
+    {
+      "konglish": "롱패딩",
+      "english_equivalent": [
+        "long padded coat",
+        "bench coat",
+        "knee-length down coat"
+      ],
+      "notes": "'롱패딩'은 스포츠 벤치용 코트에서 유래, 영어권에서는 보통 길이에 따라 설명."
+    },
+    {
+      "konglish": "린스",
+      "english_equivalent": ["hair conditioner"],
+      "notes": "영어에서는 'rinse'가 아닌 'conditioner'를 사용함."
+    },
+    {
+      "konglish": "매니큐어",
+      "english_equivalent": ["nail polish"],
+      "notes": "영어에서는 'manicure'는 관리 행위, 'nail polish'는 바르는 제품을 뜻함."
+    },
+    {
+      "konglish": "스킨",
+      "english_equivalent": ["toner", "tonic lotion"],
+      "notes": "'스킨'은 일본어 '스킨로션'에서 유래, 영어권에서는 'toner' 사용."
+    },
+    {
+      "konglish": "버버리",
+      "english_equivalent": ["trench coat"],
+      "notes": "'버버리'는 브랜드명으로, 실제 의류 명칭은 'trench coat'."
+    },
+    {
+      "konglish": "아우터",
+      "english_equivalent": ["outerwear"],
+      "notes": "아우터는 외투류 전반을 의미하며, 영어에서도 'outerwear'가 적절."
+    },
+    {
+      "konglish": "올백",
+      "english_equivalent": ["slickback"],
+      "notes": "'올백'은 머리를 모두 뒤로 넘긴 스타일. 영어로는 'slicked-back hair' 또는 'slickback'이라고 함."
+    },
+    {
+      "konglish": "와이셔츠",
+      "english_equivalent": ["dress shirt"],
+      "notes": "일본식 영어에서 유래. 영어권에서는 정장용 셔츠를 'dress shirt'라 부름."
+    },
+    {
+      "konglish": "원피스",
+      "english_equivalent": ["dress"],
+      "notes": "'원피스'는 한 벌로 된 여성용 옷을 의미하며, 영어에서는 'dress'라고 함."
+    },
+    {
+      "konglish": "점퍼",
+      "english_equivalent": ["jacket", "parka", "windbreaker"],
+      "notes": "'점퍼'는 여러 외투를 포괄하지만 영어에서는 세부 종류로 구분됨."
+    },
+    {
+      "konglish": "커플룩",
+      "english_equivalent": ["matching outfits", "twinning"],
+      "notes": "연인이 같은 스타일의 옷을 입는 것을 의미. 영어에서는 'matching outfits' 또는 'twinning' 사용."
+    },
+    {
+      "konglish": "콤플렉스",
+      "english_equivalent": ["insecurity", "self-conscious"],
+      "notes": "'콤플렉스'는 열등감을 뜻하며, 영어에서는 'insecurity'나 'self-conscious'가 자연스러움."
+    },
+    {
+      "konglish": "테니스 스커트",
+      "english_equivalent": ["pleated mini skirt"],
+      "notes": "운동복 스타일의 주름 미니스커트는 'pleated mini skirt'로 표현됨."
+    },
+    {
+      "konglish": "트레이닝복",
+      "english_equivalent": ["sweatsuits", "tracksuits"],
+      "notes": "'츄리닝'이라고도 불리며, 영어에서는 운동복을 'sweatsuit' 또는 'tracksuit'라 함."
+    },
+    {
+      "konglish": "트레이닝복 상의",
+      "english_equivalent": ["sweatshirt", "track jacket", "hoodie"],
+      "notes": "상의는 용도와 형태에 따라 다양한 명칭이 있음."
+    },
+    {
+      "konglish": "트레이닝복 하의",
+      "english_equivalent": ["sweatpants", "trackpants", "joggers"],
+      "notes": "운동용 하의는 형태에 따라 구분됨."
+    },
+    {
+      "konglish": "파마",
+      "english_equivalent": ["perm"],
+      "notes": "'파마'는 일본식 표현. 영어로는 'perm' 사용."
+    },
+    {
+      "konglish": "패딩",
+      "english_equivalent": ["down jacket", "padded jacket"],
+      "notes": "'패딩'은 다운 충전재가 들어간 외투를 의미함."
+    },
+    {
+      "konglish": "팬티",
+      "english_equivalent": ["underwear"],
+      "notes": "일반적인 속옷은 'underwear', 성별·스타일에 따라 further 구분됨."
+    },
+    {
+      "konglish": "퍼스널 컬러",
+      "english_equivalent": ["color analysis", "undertone"],
+      "notes": "피부 톤과 조화를 이루는 색을 찾는 개념. 영어권에서는 'personal color analysis' 또는 'undertone'으로 설명됨."
+    },
+    {
+      "konglish": "프리사이즈",
+      "english_equivalent": ["one-size-fits-all"],
+      "notes": "모든 사람에게 맞는 사이즈라는 의미로 사용되나 실제로는 제한적임."
+    },
+    {
+      "konglish": "헤어디자이너",
+      "english_equivalent": ["hairdresser", "hairstylist"],
+      "notes": "'헤어디자이너'는 일본식 표현이며 영어권에서는 위와 같은 표현 사용."
+    },
+    {
+      "konglish": "후드티",
+      "english_equivalent": ["hoodie"],
+      "notes": "후드가 달린 스웨트셔츠는 'hoodie'가 일반적인 표현."
+    },
+    {
+      "konglish": "후드집업",
+      "english_equivalent": ["zip-up hoodie", "full-zip hoodie"],
+      "notes": "지퍼로 여닫을 수 있는 후디는 영어로도 다양한 표현 있음."
+    },
+    {
+      "konglish": "노메이크업",
+      "english_equivalent": ["no-makeup look", "natural makeup"],
+      "notes": "'노메이크업'은 한국식 표현. 영어에서는 'no-makeup look' 또는 'natural look'."
+    },
+    {
+      "konglish": "살롱",
+      "english_equivalent": ["hair salon", "beauty salon"],
+      "notes": "'미용실'은 영어로는 'beauty salon' 또는 'hair salon'."
+    },
+    {
+      "konglish": "후리스",
+      "english_equivalent": ["fleece jacket", "fleece"],
+      "notes": "일본어식 발음에서 유래. 영어권에서는 fleece 또는 fleece jacket으로 표현."
+    },
+    {
+      "konglish": "맨투맨",
+      "english_equivalent": ["sweatshirt", "crewneck"],
+      "notes": "'맨투맨 티셔츠'는 한국식 표현으로, 실제 영어권에서는 sweatshirt가 일반적."
+    },
+    {
+      "konglish": "오피스룩",
+      "english_equivalent": ["business casual", "office attire"],
+      "notes": "직장에 어울리는 복장."
+    }
+  ],
+  "기타": [
+    {
+      "konglish": "고딕체",
+      "english_equivalent": ["sans-serif"],
+      "notes": "'고딕체'는 획이 균일한 글꼴을 의미하며 영어로는 'sans-serif'라고 함."
+    },
+    {
+      "konglish": "드라이브",
+      "english_equivalent": ["ride"],
+      "notes": "'드라이브 가다'는 'go for a ride'로 표현하는 것이 자연스러움."
+    },
+    {
+      "konglish": "링거",
+      "english_equivalent": ["IV"],
+      "notes": "'링거'는 정맥주사(IV, intravenous therapy)의 일종으로, 영어에서는 IV라 함."
+    },
+    {
+      "konglish": "메리트/디메리트",
+      "english_equivalent": ["advantage/disadvantage", "pros and cons"],
+      "notes": "'메리트'와 '디메리트'는 일본식 영어. 영어권에서는 'pros and cons' 또는 'advantages and disadvantages' 사용."
+    },
+    {
+      "konglish": "모닝콜",
+      "english_equivalent": ["wake-up call"],
+      "notes": "호텔 등에서 아침에 전화로 깨우는 서비스를 'wake-up call'이라 함."
+    },
+    {
+      "konglish": "밴드",
+      "english_equivalent": ["band-aid", "plaster"],
+      "notes": "'밴드'는 상처에 붙이는 반창고. 미국에서는 'band-aid', 영국에서는 'plaster' 사용."
+    },
+    {
+      "konglish": "비닐봉지",
+      "english_equivalent": ["plastic bag"],
+      "notes": "'비닐봉지'는 영어 'plastic'과 한국어 '봉지'의 결합."
+    },
+    {
+      "konglish": "사인",
+      "english_equivalent": ["autograph", "signature"],
+      "notes": "'사인'은 문맥에 따라 다름. 연예인에게 받는 것은 'autograph', 계약이나 영수증은 'signature'."
+    },
+    {
+      "konglish": "샤프",
+      "english_equivalent": ["hash", "number sign", "pound sign", "hashtag"],
+      "notes": "'샤프'는 '#' 기호를 지칭. 영어에서는 다양한 맥락에 따라 명칭이 달라짐."
+    },
+    {
+      "konglish": "아웃포커싱",
+      "english_equivalent": ["shallow focus", "shallow depth of field"],
+      "notes": "사진이나 영상에서 배경을 흐리게 처리하는 효과로 영어권에서는 'shallow focus'라 함."
+    },
+    {
+      "konglish": "애플 힙",
+      "english_equivalent": ["bubble butt"],
+      "notes": "둥글고 탄력 있는 엉덩이를 비유적으로 표현한 말."
+    },
+    {
+      "konglish": "언택트",
+      "english_equivalent": ["contactless", "non-contact", "zero-contact"],
+      "notes": "'언택트'는 접촉을 피하는 방식을 의미. 영어권에서는 'contactless'가 일반적."
+    },
+    {
+      "konglish": "에코백",
+      "english_equivalent": ["reusable bag", "bag-for-life"],
+      "notes": "반복 사용 가능한 천 가방. 영어권에서는 'reusable bag' 또는 'bag-for-life' 사용."
+    },
+    {
+      "konglish": "오바이트",
+      "english_equivalent": ["throwing up", "vomiting", "puke"],
+      "notes": "'오바이트'는 일본식 발음에서 유래. 영어에서는 'vomit'이나 'throw up' 사용."
+    },
+    {
+      "konglish": "원스트라이크 아웃",
+      "english_equivalent": ["zero tolerance"],
+      "notes": "실수 한 번에 끝나는 강경한 제도를 영어로는 'zero tolerance policy'라 함."
+    },
+    {
+      "konglish": "웹하드",
+      "english_equivalent": ["cloud storage", "storage as a service"],
+      "notes": "파일을 온라인에 저장하는 서비스. 영어에서는 'cloud storage'로 표현."
+    },
+    {
+      "konglish": "인싸",
+      "english_equivalent": ["popular", "social butterfly", "trendsetter"],
+      "notes": "'인싸'는 무리에 잘 어울리고 사회성이 뛰어난 사람을 의미."
+    },
+    {
+      "konglish": "카드키",
+      "english_equivalent": ["keycard", "RFID tag"],
+      "notes": "'카드형 열쇠'는 영어로 'keycard'. 전자식은 'RFID tag'라고도 함."
+    },
+    {
+      "konglish": "커트라인",
+      "english_equivalent": ["cutoff", "deadline"],
+      "notes": "합격 기준점이나 선을 의미. 영어권에서는 'cutoff score' 또는 'deadline' 사용."
+    },
+    {
+      "konglish": "캐리어",
+      "english_equivalent": ["suitcase", "luggage bag"],
+      "notes": "'캐리어'는 여행용 가방을 의미하며 영어로는 'suitcase' 또는 'luggage'."
+    },
+    {
+      "konglish": "컨닝",
+      "english_equivalent": ["cheating"],
+      "notes": "'컨닝'은 시험 부정행위를 의미. 영어에서는 'cheating'이 일반적."
+    },
+    {
+      "konglish": "컨디션",
+      "english_equivalent": ["feeling well"],
+      "notes": "'오늘 컨디션 안 좋아' 같은 말은 영어로는 'I don't feel well today.' 등으로 표현."
+    },
+    {
+      "konglish": "콤비",
+      "english_equivalent": ["dynamic duo", "perfect pair", "great team"],
+      "notes": "서로 잘 맞는 팀이나 파트너를 의미하는 일본식 영어."
+    },
+    {
+      "konglish": "팀플",
+      "english_equivalent": ["group project"],
+      "notes": "'팀플'은 'team project'를 줄인 표현으로, 영어에서는 'group project' 사용."
+    },
+    {
+      "konglish": "타임아웃 / 타임 오버",
+      "english_equivalent": ["time's up"],
+      "notes": "'타임아웃'은 스포츠 용어로, 제한 시간 종료는 'time's up'으로 표현."
+    },
+    {
+      "konglish": "파스",
+      "english_equivalent": [
+        "plaster",
+        "transdermal patch",
+        "pain relief patch"
+      ],
+      "notes": "피부에 붙이는 약제. 영어권에서는 'pain relief patch' 또는 'plaster'."
+    },
+    {
+      "konglish": "핫팩",
+      "english_equivalent": ["hand warmer", "heat pack"],
+      "notes": "'핫팩'은 추운 날씨에 사용하는 휴대용 보온용품."
+    },
+    {
+      "konglish": "헌팅",
+      "english_equivalent": ["flirting", "pickup"],
+      "notes": "이성을 만나기 위한 접근. 영어권에서는 'flirting'이나 'pickup' 사용."
+    },
+    {
+      "konglish": "화이팅",
+      "english_equivalent": ["You got this!", "Good luck!"],
+      "notes": "응원이나 격려 표현. 영어에서는 'Good luck' 또는 'You can do it' 등이 자연스러움."
+    },
+    {
+      "konglish": "힙",
+      "english_equivalent": ["butt"],
+      "notes": "신체 부위를 뜻할 경우 'butt' 사용. 스타일을 뜻할 경우는 다름."
+    },
+    {
+      "konglish": "ex",
+      "english_equivalent": ["e.g. (exempli gratia)"],
+      "notes": "'ex'는 예를 들 때 쓰는 줄임말이지만 영어에서는 'e.g.' 사용이 정확함."
+    },
+    {
+      "konglish": "TMI",
+      "english_equivalent": ["too much information", "random facts"],
+      "notes": "원래 의미는 '너무 사적인 정보'지만, 한국에서는 사소한 정보를 뜻하는 경우가 많음."
+    },
+    {
+      "konglish": "물티슈",
+      "english_equivalent": ["wet wipes", "moist towelettes"],
+      "notes": "'물티슈'는 영어 단어 'wet'과 한국어 '티슈'의 혼합. 영어에서는 'wet wipes'가 일반적 표현."
+    },
+    {
+      "konglish": "베스트",
+      "english_equivalent": ["favorite"],
+      "notes": "가장 좋아하는 ~~ 라는 뜻을 쓸 때에는 Best 대신에 Favorite을 사용하는게 더 자연스러움."
+    },
+    {
+      "konglish": "주차장 스티커",
+      "english_equivalent": ["parking permit", "parking sticker"],
+      "notes": "건물 주차 허가용 스티커를 '주차장 스티커'라고 하나 영어로는 'parking permit' 사용."
+    },
+    {
+      "konglish": "컨셉",
+      "english_equivalent": ["theme", "style", "vibe", "concept"],
+      "notes": "'컨셉'은 영어 'concept'에서 유래했으나 감각적 스타일이나 분위기를 뜻할 때는 'theme'이나 'style'이 더 자연스러움."
+    },
+    {
+      "konglish": "노트 정리",
+      "english_equivalent": ["taking notes", "organizing notes"],
+      "notes": "시험 대비로 노트를 정리한다는 의미에서 자주 쓰임. 영어에서는 'review notes' 또는 'rewrite notes'."
+    },
+    {
+      "konglish": "매너 모드",
+      "english_equivalent": ["silent mode", "vibrate mode"],
+      "notes": "'매너 모드'는 휴대폰의 진동 모드를 뜻하는 한국식 표현."
+    },
+    {
+      "konglish": "노캐시",
+      "english_equivalent": ["card only", "no cash accepted"],
+      "notes": "'노캐시'는 '현금 안됨'이라는 의미의 한국식 조어. 영어권에서는 'card only'."
+    },
+    {
+      "konglish": "오답노트",
+      "english_equivalent": [
+        "review notes",
+        "mistake notes",
+        "wrong answer notes"
+      ],
+      "notes": "직역된 표현이지만, 영어권에서는 별도의 단어 없이 설명식으로 표현함."
+    },
+    {
+      "konglish": "리포트",
+      "english_equivalent": ["paper", "essay", "report"],
+      "notes": "'report'는 일반적으로 기사, 보고서. 과제문서는 'paper' 또는 'essay'."
+    },
+    {
+      "konglish": "썸",
+      "english_equivalent": ["flirtationship", "situationship"],
+      "notes": "'Something'에서 파생된 말. 연인 전단계의 묘한 관계를 의미함."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <style>
+      /* 모달 오버레이 */
+      #gameOverlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.6);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+      }
+
+      /* 모달 콘텐츠 */
+      #gameModal {
+        background: white;
+        padding: 2rem;
+        border-radius: 12px;
+        text-align: center;
+        max-width: 90%;
+        width: 800px;
+        height: 90%;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        display: flex;
+        flex-direction: column;
+      }
+
+      #gameTitle {
+        margin-bottom: 1rem;
+      }
+
+      #gameContent {
+        flex-grow: 1;
+        overflow: hidden;
+      }
+
+      #gameIframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+
+      .game-button {
+        margin-top: 1rem;
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+
+      #closeBtn {
+        background-color: #ef4444;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="../index.html"
+              ><i class="fa-solid fa-book-open"></i> Words</a
+            >
+          </li>
+          <li>
+            <a href="../game/game.html"
+              ><i class="fa-solid fa-gamepad"></i> Game</a
+            >
+          </li>
+          <li>
+            <a href="../search/search.html"
+              ><i class="fa-solid fa-magnifying-glass"></i> Search</a
+            >
+          </li>
+          <li>
+            <a href="../profile/profile.html"
+              ><i class="fa-solid fa-user"></i> Profile</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <h1>Game</h1>
+        <div id="Upper-Game-Container">
+          <h1>Welcome to the Game Land</h1>
+          <p>Boost your vocabulary by playing our word-based games!</p>
+        </div>
+        <div id="Lower-Game-Container">
+          <div class="Lower-Game-Div" onclick="openModal('wordle')">
+            <span>Wordle</span><button>></button>
+          </div>
+          <div class="Lower-Game-Div" onclick="openModal('hangman')">
+            <span>Hangman</span><button>></button>
+          </div>
+          <div class="Lower-Game-Div" onclick="openModal('quiz')">
+            <span>Quiz</span><button>></button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- 모달 -->
+    <div id="gameOverlay">
+      <div id="gameModal">
+        <h2 id="gameTitle">게임 제목</h2>
+        <div id="gameContent">
+          <iframe id="gameIframe"></iframe>
+        </div>
+        <button id="closeBtn" class="game-button">❌ 게임 종료</button>
+      </div>
+    </div>
+
+    <script>
+      const repoBase = window.location.pathname.replace(/\/[^\/]*$/, "/");
+
+      const games = {
+        wordle: {
+          title: "Wordle Game",
+          file: repoBase + "wordle.html",
+        },
+        hangman: {
+          title: "Hangman Game",
+          file: repoBase + "hangman.html",
+        },
+        quiz: {
+          title: "Quiz Game",
+          file: repoBase + "quiz.html",
+        },
+      };
+
+      let currentGameKey = null;
+
+      function openModal(gameKey) {
+        const game = games[gameKey];
+        if (!game) return;
+
+        currentGameKey = gameKey;
+        document.getElementById("gameTitle").textContent = game.title;
+        document.getElementById("gameOverlay").style.display = "flex";
+
+        const iframe = document.getElementById("gameIframe");
+        iframe.src = game.file;
+      }
+
+      document.getElementById("closeBtn").addEventListener("click", () => {
+        document.getElementById("gameOverlay").style.display = "none";
+        document.getElementById("gameIframe").src = "";
+        currentGameKey = null;
+      });
+
+      // 네비게이션 활성화 상태 유지
+      document.querySelectorAll("nav a").forEach((link) => {
+        if (link.href === window.location.href) {
+          link.classList.add("active");
+        }
+      });
+    </script>
+  </body>
+</html>

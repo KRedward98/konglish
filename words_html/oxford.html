@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Oxford 5000 Test</title>
+
+    <!-- SwiperJS CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+    <style>
+      body {
+        background: #f5f5f5;
+        font-family: "Helvetica Neue", sans-serif;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+      }
+
+      #oxfordwordsarehere {
+        text-align: center;
+        margin-bottom: 30px;
+        max-width: 600px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #oxfordwordsarehere button {
+        margin: 5px;
+        padding: 10px 15px;
+        font-size: 16px;
+        border: none;
+        background: #4caf50;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+
+      #oxfordwordsarehere button:hover {
+        background: #45a049;
+      }
+
+      #oxfordwordsarehere button:disabled {
+        background: #9e9e9e;
+        cursor: not-allowed;
+      }
+
+      .swiper {
+        width: 100%;
+        max-width: 600px;
+        height: 400px;
+        margin: auto;
+        background: #ffffff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .swiper-slide {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100% !important;
+        height: 100% !important;
+        gap: 15px;
+        padding: 20px;
+        font-size: 30px;
+        box-sizing: border-box;
+        text-align: center;
+      }
+
+      .swiper-slide button {
+        padding: 8px 12px;
+        font-size: 14px;
+        border: none;
+        background: #2196f3;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+
+      .swiper-slide button:hover {
+        background: #1976d2;
+      }
+
+      .swiper-button-next,
+      .swiper-button-prev {
+        color: #333;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Oxford 5000</h1>
+    <div id="oxfordwordsarehere"></div>
+
+    <div class="swiper mySwiper">
+      <div id="swiper_words" class="swiper-wrapper"></div>
+
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+
+    <!-- SwiperJS JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script type="module">
+      import { vocab } from "../words_JSON/words.js";
+
+      const upperbox = document.getElementById("oxfordwordsarehere");
+      const swiper_words = document.getElementById("swiper_words");
+      let currentSwiper = null; // 현재 스와이퍼 인스턴스 저장
+
+      for (let single in vocab) {
+        const btn = document.createElement("button");
+        btn.innerText = single.toUpperCase();
+        upperbox.appendChild(btn);
+
+        btn.addEventListener("click", () => {
+          // 버튼 클릭시 자기자신 disable
+          Array.from(upperbox.children).forEach(
+            (button) => (button.disabled = false)
+          );
+          btn.disabled = true;
+
+          wordAppearFunction(single);
+        });
+      }
+
+      const wordAppearFunction = function (value) {
+        swiper_words.innerHTML = "";
+
+        Object.entries(vocab[value]).forEach(([Eng, Kor], index) => {
+          const slide = document.createElement("div");
+          slide.classList.add("swiper-slide");
+
+          const wordText = document.createElement("div");
+          wordText.innerText = `${Eng} : ${Kor}`;
+
+          const EnglishMeaning = document.createElement("button");
+          EnglishMeaning.innerText = `${Eng}`;
+          EnglishMeaning.addEventListener("click", () => getDefinition(Eng));
+
+          const Pronunciation = document.createElement("button");
+          Pronunciation.innerText = `Pronunciation`;
+          Pronunciation.addEventListener("click", () => {
+            const utterance = new SpeechSynthesisUtterance(Eng);
+            utterance.pitch = 1;
+            utterance.rate = 1;
+            utterance.volume = 1;
+            utterance.lang = "en-US";
+
+            const voices = speechSynthesis.getVoices();
+            const cheerfulVoice = voices.find(
+              (voice) =>
+                voice.name.includes("Google US English") ||
+                voice.name.includes("Samantha")
+            );
+            if (cheerfulVoice) {
+              utterance.voice = cheerfulVoice;
+            }
+
+            speechSynthesis.speak(utterance);
+          });
+
+          const number = document.createElement("div");
+          number.innerText = `${index + 1} / ${
+            Object.entries(vocab[value]).length
+          } `;
+
+          slide.appendChild(wordText);
+          slide.appendChild(number);
+          // slide.appendChild(EnglishMeaning);
+          slide.appendChild(Pronunciation);
+
+          swiper_words.appendChild(slide);
+        });
+
+        // 기존에 존재하는 swiper 파괴
+        if (currentSwiper) {
+          currentSwiper.destroy(true, true);
+        }
+
+        // 새 swiper 생성
+        currentSwiper = new Swiper(".mySwiper", {
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
+        });
+      };
+
+      async function getDefinition(word) {
+        const url = `https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(
+          word
+        )}`;
+
+        try {
+          const response = await fetch(url);
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+          }
+          const data = await response.json();
+          console.log(data);
+          alert(data[0].meanings[0].definitions[0].definition);
+        } catch (error) {
+          console.error("Error fetching definition:", error);
+        }
+      }
+    </script>
+  </body>
+</html>

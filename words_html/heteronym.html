@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Heteronym Dictionary</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 2rem;
+        background: #f9f9f9;
+      }
+      h1 {
+        text-align: center;
+      }
+      .nav {
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+      .nav button {
+        margin: 0.2rem;
+        padding: 0.4rem 0.7rem;
+        font-size: 1rem;
+        border: none;
+        border-radius: 0.3rem;
+        background-color: #ddd;
+        cursor: pointer;
+      }
+      .nav button:hover {
+        background-color: #bbb;
+      }
+      .search {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      .search input {
+        padding: 0.5rem;
+        width: 50%;
+        font-size: 1rem;
+      }
+      h2 {
+        margin-top: 2rem;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 0.5rem;
+      }
+      .entry {
+        background: #fff;
+        margin: 1rem 0;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      .term {
+        font-weight: bold;
+        font-size: 1.25rem;
+      }
+      .pos {
+        font-style: italic;
+        color: #555;
+      }
+      .pronunciation {
+        color: #888;
+      }
+      .definition {
+        margin-left: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Heteronym Dictionary</h1>
+
+    <div class="nav" id="alphabet-nav"></div>
+    <div class="search">
+      <input type="text" id="search" placeholder="Search words..." />
+      <div style="margin-top: 1rem">
+        <button onclick="resetView()">Show Full List</button>
+      </div>
+    </div>
+
+    <div id="content"></div>
+
+    <script>
+      let globalData;
+
+      async function loadHeteronyms() {
+        const response = await fetch("../words_JSON/heteronym.json");
+        globalData = await response.json();
+        const nav = document.getElementById("alphabet-nav");
+        const searchInput = document.getElementById("search");
+
+        for (const letter of Object.keys(globalData)) {
+          const btn = document.createElement("button");
+          btn.textContent = letter;
+          btn.onclick = () => render(searchInput.value, letter);
+          nav.appendChild(btn);
+        }
+
+        searchInput.addEventListener("input", () => render(searchInput.value));
+
+        render();
+      }
+
+      function render(filter = "", anchor = "") {
+        const container = document.getElementById("content");
+        container.innerHTML = "";
+
+        for (const [letter, words] of Object.entries(globalData)) {
+          if (anchor && anchor !== letter) continue;
+
+          const section = document.createElement("div");
+          const header = document.createElement("h2");
+          header.textContent = letter;
+          header.id = `section-${letter}`;
+          section.appendChild(header);
+
+          for (const [term, meanings] of Object.entries(words)) {
+            if (!term.toLowerCase().includes(filter.toLowerCase())) continue;
+
+            const entry = document.createElement("div");
+            entry.className = "entry";
+
+            const title = document.createElement("div");
+            title.className = "term";
+            title.textContent = term;
+            entry.appendChild(title);
+
+            meanings.forEach(({ pos, pronunciation, definitions }) => {
+              const p = document.createElement("div");
+              p.className = "pos";
+              p.textContent = pos;
+              entry.appendChild(p);
+
+              const pron = document.createElement("div");
+              pron.className = "pronunciation";
+              pron.textContent = pronunciation;
+              entry.appendChild(pron);
+
+              const ul = document.createElement("ul");
+              definitions.forEach((def) => {
+                const li = document.createElement("li");
+                li.className = "definition";
+                li.textContent = def;
+                ul.appendChild(li);
+              });
+              entry.appendChild(ul);
+            });
+
+            section.appendChild(entry);
+          }
+
+          if (section.children.length > 1) container.appendChild(section);
+        }
+      }
+
+      function resetView() {
+        document.getElementById("search").value = "";
+        render();
+      }
+
+      loadHeteronyms();
+    </script>
+  </body>
+</html>

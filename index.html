@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="./index.html"
+              ><i class="fa-solid fa-book-open"></i> Words</a
+            >
+          </li>
+          <li>
+            <a href="./game/game.html"
+              ><i class="fa-solid fa-gamepad"></i> Game</a
+            >
+          </li>
+          <li>
+            <a href="./search/search.html"
+              ><i class="fa-solid fa-magnifying-glass"></i> Search</a
+            >
+          </li>
+          <li>
+            <a href="./profile/profile.html"
+              ><i class="fa-solid fa-user"></i> Profile</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main id="main_section"></main>
+
+    <script>
+      const main_section = document.getElementById("main_section");
+      document.querySelectorAll("nav a").forEach((link) => {
+        if (link.href === window.location.href) {
+          link.classList.add("active");
+        }
+      });
+
+      const word_div = {
+        "Beginner Level": { "Oxford 5000": "oxford" },
+        "Advanced Level": {
+          "Confusing Words": "confusing",
+          "Divergent Nouns": "divergent",
+          Heteronym: "heteronym",
+          Homophone: "homophone",
+        },
+        "Intermediate Level": { Tense: "tense" },
+        Konglish: { Konglish: "konglish" },
+      };
+
+      for (let element in word_div) {
+        const newsection = document.createElement("section");
+        const newdiv = document.createElement("div");
+
+        newdiv.classList.add("Larger-Item-Boxes-Container");
+
+        const h1 = document.createElement("h1");
+
+        h1.innerText = element;
+        newsection.appendChild(h1);
+        main_section.appendChild(newsection);
+        newsection.appendChild(newdiv);
+
+        for (let inside_element in word_div[element]) {
+          const LargerItemBoxes = document.createElement("div");
+          LargerItemBoxes.innerText = inside_element;
+          LargerItemBoxes.classList.add("Larger-Item-Boxes");
+          newdiv.appendChild(LargerItemBoxes);
+
+          LargerItemBoxes.addEventListener("click", () => {
+            window.location.href = `./words_html/${word_div[element][inside_element]}.html`;
+          });
+        }
+      }
+    </script>
+  </body>
+</html>

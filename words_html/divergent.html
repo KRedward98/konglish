@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>분화분수 명사 학습</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f7fa;
+        padding: 20px;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 20px;
+      }
+      input[type="text"],
+      select {
+        padding: 10px;
+        font-size: 14px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+      }
+      .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 20px;
+      }
+      .card {
+        background-color: white;
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+      .word {
+        font-size: 18px;
+        font-weight: bold;
+        color: #007acc;
+        margin-bottom: 8px;
+      }
+      .label {
+        font-weight: bold;
+        margin-top: 8px;
+      }
+      .meaning {
+        margin-left: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>분화분수 명사 학습 자료</h1>
+
+    <div class="controls">
+      <input type="text" id="search" placeholder="단어 검색 (예: arm)" />
+      <select id="filter">
+        <option value="all">전체 보기</option>
+        <option value="singular">단수 의미만 포함</option>
+        <option value="plural">복수 의미만 포함</option>
+        <option value="korean">한국어 의미 포함</option>
+      </select>
+    </div>
+
+    <div class="container" id="wordCards"></div>
+
+    <script>
+      let wordData = [];
+
+      async function fetchData() {
+        try {
+          const response = await fetch("../words_JSON/divergent.json");
+          wordData = await response.json();
+          renderCards(wordData);
+        } catch (error) {
+          console.error("JSON 파일을 불러오는 중 오류 발생:", error);
+        }
+      }
+
+      function renderCards(data) {
+        const container = document.getElementById("wordCards");
+        container.innerHTML = ""; // 기존 카드 삭제
+
+        if (data.length === 0) {
+          container.innerHTML = "<p>일치하는 결과가 없습니다.</p>";
+          return;
+        }
+
+        data.forEach((entry) => {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.innerHTML = `
+          <div class="word">${entry.word}</div>
+          <div class="label">단수형 의미 (EN):</div>
+          <div class="meaning">${entry.singular_meaning}</div>
+          <div class="label">단수형 의미 (KO):</div>
+          <div class="meaning">${entry.singular_meaning_ko}</div>
+          <div class="label">복수형 의미 (EN):</div>
+          <div class="meaning">${entry.plural_meaning}</div>
+          <div class="label">복수형 의미 (KO):</div>
+          <div class="meaning">${entry.plural_meaning_ko}</div>
+        `;
+          container.appendChild(card);
+        });
+      }
+
+      function applyFilters() {
+        const searchValue = document
+          .getElementById("search")
+          .value.toLowerCase();
+        const filterValue = document.getElementById("filter").value;
+
+        const filtered = wordData.filter((entry) => {
+          const matchSearch = entry.word.toLowerCase().includes(searchValue);
+          let matchFilter = true;
+
+          if (filterValue === "singular") {
+            matchFilter = entry.singular_meaning !== "";
+          } else if (filterValue === "plural") {
+            matchFilter = entry.plural_meaning !== "";
+          } else if (filterValue === "korean") {
+            matchFilter =
+              entry.singular_meaning_ko !== "" ||
+              entry.plural_meaning_ko !== "";
+          }
+
+          return matchSearch && matchFilter;
+        });
+
+        renderCards(filtered);
+      }
+
+      document.getElementById("search").addEventListener("input", applyFilters);
+      document
+        .getElementById("filter")
+        .addEventListener("change", applyFilters);
+
+      fetchData();
+    </script>
+  </body>
+</html>

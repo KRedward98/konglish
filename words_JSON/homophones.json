@@ -1,0 +1,1593 @@
+{
+  "A": [
+    {
+      "word1": "Air",
+      "meaning1": "공기, 방송하다",
+      "word2": "Heir",
+      "meaning2": "후계자",
+      "pronunciation": "ehr"
+    },
+    {
+      "word1": "Aisle",
+      "meaning1": "통로",
+      "word2": "Isle",
+      "meaning2": "섬",
+      "pronunciation": "ahyl"
+    },
+    {
+      "word1": "Allowed",
+      "meaning1": "허용된",
+      "word2": "Aloud",
+      "meaning2": "큰 소리로",
+      "pronunciation": "uh-LOWD"
+    },
+    {
+      "word1": "Arc",
+      "meaning1": "호",
+      "word2": "Ark",
+      "meaning2": "방주",
+      "pronunciation": "ahrk"
+    },
+    {
+      "word1": "Ate",
+      "meaning1": "먹었다",
+      "word2": "Eight",
+      "meaning2": "여덟",
+      "pronunciation": "eht"
+    }
+  ],
+  "B": [
+    {
+      "word1": "Bail",
+      "meaning1": "보석금",
+      "word2": "Bale",
+      "meaning2": "뭉치",
+      "pronunciation": "bayl"
+    },
+    {
+      "word1": "Bald",
+      "meaning1": "대머리의",
+      "word2": "Bawled",
+      "meaning2": "큰 소리로 울다",
+      "pronunciation": "bawld"
+    },
+    {
+      "word1": "Ball",
+      "meaning1": "공",
+      "word2": "Bawl",
+      "meaning2": "큰 소리로 울다",
+      "pronunciation": "bawl"
+    },
+    {
+      "word1": "Bare",
+      "meaning1": "벌거벗은",
+      "word2": "Bear",
+      "meaning2": "곰, 참다",
+      "pronunciation": "bair"
+    },
+    {
+      "word1": "Baron",
+      "meaning1": "남작",
+      "word2": "Barren",
+      "meaning2": "불모의",
+      "pronunciation": "BAR-uhn"
+    },
+    {
+      "word1": "Base",
+      "meaning1": "기초",
+      "word2": "Bass",
+      "meaning2": "저음",
+      "pronunciation": "BASS"
+    },
+    {
+      "word1": "Be",
+      "meaning1": "있다",
+      "word2": "Bee",
+      "meaning2": "벌",
+      "pronunciation": "bee"
+    },
+    {
+      "word1": "Beat",
+      "meaning1": "때리다",
+      "word2": "Beet",
+      "meaning2": "비트",
+      "pronunciation": "beet"
+    },
+    {
+      "word1": "Berry",
+      "meaning1": "열매",
+      "word2": "Bury",
+      "meaning2": "묻다",
+      "pronunciation": "BERRY"
+    },
+    {
+      "word1": "Berth",
+      "meaning1": "침상",
+      "word2": "Birth",
+      "meaning2": "출생",
+      "pronunciation": "burth"
+    },
+    {
+      "word1": "Billed",
+      "meaning1": "청구되다",
+      "word2": "Build",
+      "meaning2": "짓다",
+      "pronunciation": "bild"
+    },
+    {
+      "word1": "Bite",
+      "meaning1": "물다",
+      "word2": "Byte",
+      "meaning2": "바이트",
+      "pronunciation": "byt"
+    },
+    {
+      "word1": "Blew",
+      "meaning1": "불었다",
+      "word2": "Blue",
+      "meaning2": "파란색",
+      "pronunciation": "bloo"
+    },
+    {
+      "word1": "Boar",
+      "meaning1": "멧돼지",
+      "word2": "Bore",
+      "meaning2": "구멍을 뚫다, 지루하게 하다",
+      "pronunciation": "bohr"
+    },
+    {
+      "word1": "Board",
+      "meaning1": "판자, 탑승하다",
+      "word2": "Bored",
+      "meaning2": "지루한",
+      "pronunciation": "bohrd"
+    },
+    {
+      "word1": "Bold",
+      "meaning1": "용감한",
+      "word2": "Bowled",
+      "meaning2": "볼링을 하다",
+      "pronunciation": "bohld"
+    },
+    {
+      "word1": "Bolder",
+      "meaning1": "더 용감한",
+      "word2": "Boulder",
+      "meaning2": "큰 바위",
+      "pronunciation": "BOHL-duhr"
+    },
+    {
+      "word1": "Bough",
+      "meaning1": "큰 가지",
+      "word2": "Bow",
+      "meaning2": "활, 절",
+      "pronunciation": "bow"
+    },
+    {
+      "word1": "Brake",
+      "meaning1": "브레이크",
+      "word2": "Break",
+      "meaning2": "깨다",
+      "pronunciation": "brayk"
+    },
+    {
+      "word1": "Bread",
+      "meaning1": "빵",
+      "word2": "Bred",
+      "meaning2": "양육되다",
+      "pronunciation": "bred"
+    },
+    {
+      "word1": "Brews",
+      "meaning1": "양조하다",
+      "word2": "Bruise",
+      "meaning2": "멍들다",
+      "pronunciation": "brooz"
+    },
+    {
+      "word1": "Bridal",
+      "meaning1": "신부의",
+      "word2": "Bridle",
+      "meaning2": "굴레",
+      "pronunciation": "BRY-dl"
+    },
+    {
+      "word1": "Broach",
+      "meaning1": "말을 꺼내다",
+      "word2": "Brooch",
+      "meaning2": "브로치",
+      "pronunciation": "brohch"
+    },
+    {
+      "word1": "Buy",
+      "meaning1": "사다",
+      "word2": "By",
+      "meaning2": "옆에",
+      "word3": "Bye",
+      "meaning3": "잘 가",
+      "pronunciation": "bahy"
+    }
+  ],
+  "C": [
+    {
+      "word1": "Cain",
+      "meaning1": "카인",
+      "word2": "Cane",
+      "meaning2": "지팡이",
+      "pronunciation": "kayn"
+    },
+    {
+      "word1": "Call",
+      "meaning1": "부르다",
+      "word2": "Caul",
+      "meaning2": "태막",
+      "pronunciation": "kawl"
+    },
+    {
+      "word1": "Capitol",
+      "meaning1": "의사당",
+      "word2": "Capital",
+      "meaning2": "수도, 자본",
+      "pronunciation": "KAP-i-tuhl"
+    },
+    {
+      "word1": "Carat",
+      "meaning1": "캐럿",
+      "word2": "Carrot",
+      "meaning2": "당근",
+      "pronunciation": "KAR-uht"
+    },
+    {
+      "word1": "Cast",
+      "meaning1": "던지다, 배역을 맡기다",
+      "word2": "Caste",
+      "meaning2": "카스트",
+      "pronunciation": "kast"
+    },
+    {
+      "word1": "Caught",
+      "meaning1": "잡았다",
+      "word2": "Cot",
+      "meaning2": "간이 침대",
+      "pronunciation": "kaht"
+    },
+    {
+      "word1": "Ceiling",
+      "meaning1": "천장",
+      "word2": "Sealing",
+      "meaning2": "봉인하다",
+      "pronunciation": "SEE-ling"
+    },
+    {
+      "word1": "Cell",
+      "meaning1": "세포, 감방",
+      "word2": "Sell",
+      "meaning2": "팔다",
+      "pronunciation": "sel"
+    },
+    {
+      "word1": "Censer",
+      "meaning1": "향로",
+      "word2": "Sensor",
+      "meaning2": "센서",
+      "pronunciation": "SEN-suhr"
+    },
+    {
+      "word1": "Cereal",
+      "meaning1": "시리얼",
+      "word2": "Serial",
+      "meaning2": "연재물",
+      "pronunciation": "SEER-ee-uhl"
+    },
+    {
+      "word1": "Chance",
+      "meaning1": "기회",
+      "word2": "Chants",
+      "meaning2": "노래하다",
+      "pronunciation": "chanss"
+    },
+    {
+      "word1": "Chased",
+      "meaning1": "쫓았다",
+      "word2": "Chaste",
+      "meaning2": "순결한",
+      "pronunciation": "chayst"
+    },
+    {
+      "word1": "Cheap",
+      "meaning1": "싼",
+      "word2": "Cheep",
+      "meaning2": "짹짹 소리",
+      "pronunciation": "cheep"
+    },
+    {
+      "word1": "Chord",
+      "meaning1": "화음",
+      "word2": "Cord",
+      "meaning2": "끈",
+      "pronunciation": "kord"
+    },
+    {
+      "word1": "Chute",
+      "meaning1": "활송장치",
+      "word2": "Shoot",
+      "meaning2": "쏘다",
+      "pronunciation": "shuwt"
+    },
+    {
+      "word1": "Cite",
+      "meaning1": "인용하다",
+      "word2": "Site",
+      "meaning2": "장소",
+      "pronunciation": "sahyt"
+    },
+    {
+      "word1": "Clause",
+      "meaning1": "조항",
+      "word2": "Claws",
+      "meaning2": "발톱",
+      "pronunciation": "klawz"
+    },
+    {
+      "word1": "Click",
+      "meaning1": "클릭하다",
+      "word2": "Clique",
+      "meaning2": "파벌",
+      "pronunciation": "kleek"
+    },
+    {
+      "word1": "Cloak",
+      "meaning1": "망토",
+      "word2": "Cloke",
+      "meaning2": "변장하다",
+      "pronunciation": "klohk"
+    },
+    {
+      "word1": "Coal",
+      "meaning1": "석탄",
+      "word2": "Cole",
+      "meaning2": "양배추",
+      "pronunciation": "kohl"
+    },
+    {
+      "word1": "Coarse",
+      "meaning1": "거친",
+      "word2": "Course",
+      "meaning2": "과정",
+      "pronunciation": "kohrs"
+    },
+    {
+      "word1": "Colonel",
+      "meaning1": "대령",
+      "word2": "Kernel",
+      "meaning2": "핵심",
+      "pronunciation": "KUR-nuhl"
+    },
+    {
+      "word1": "Complement",
+      "meaning1": "보완하다",
+      "word2": "Compliment",
+      "meaning2": "칭찬",
+      "pronunciation": "KOM-pluh-ment"
+    },
+    {
+      "word1": "Council",
+      "meaning1": "위원회",
+      "word2": "Counsel",
+      "meaning2": "조언하다",
+      "pronunciation": "KOWN-suhl"
+    },
+    {
+      "word1": "Creak",
+      "meaning1": "삐걱거리다",
+      "word2": "Creek",
+      "meaning2": "시내",
+      "pronunciation": "kreek"
+    },
+    {
+      "word1": "Crews",
+      "meaning1": "승무원",
+      "word2": "Cruise",
+      "meaning2": "유람하다",
+      "pronunciation": "krooz"
+    },
+    {
+      "word1": "Cue",
+      "meaning1": "신호",
+      "word2": "Queue",
+      "meaning2": "줄",
+      "pronunciation": "kyoo"
+    },
+    {
+      "word1": "Currant",
+      "meaning1": "커런트",
+      "word2": "Current",
+      "meaning2": "현재의, 흐름",
+      "pronunciation": "KUR-uhnt"
+    }
+  ],
+  "D": [
+    {
+      "word1": "Dam",
+      "meaning1": "댐",
+      "word2": "Damn",
+      "meaning2": "저주하다",
+      "pronunciation": "dam"
+    },
+    {
+      "word1": "Days",
+      "meaning1": "날들",
+      "word2": "Daze",
+      "meaning2": "멍하게 하다",
+      "pronunciation": "dayz"
+    },
+    {
+      "word1": "Dear",
+      "meaning1": "사랑하는",
+      "word2": "Deer",
+      "meaning2": "사슴",
+      "pronunciation": "deer"
+    },
+    {
+      "word1": "Delt",
+      "meaning1": "삼각근",
+      "word2": "Dealt",
+      "meaning2": "deal 의 과거형, 과거분사",
+      "pronunciation": "delt"
+    },
+    {
+      "word1": "Desert",
+      "meaning1": "사막",
+      "word2": "Dessert",
+      "meaning2": "디저트",
+      "pronunciation": "DEZ-ert / di-ZURT"
+    },
+    {
+      "word1": "Die",
+      "meaning1": "죽다",
+      "word2": "Dye",
+      "meaning2": "염색하다",
+      "pronunciation": "dahy"
+    },
+    {
+      "word1": "Discreet",
+      "meaning1": "신중한",
+      "word2": "Discrete",
+      "meaning2": "별개의",
+      "pronunciation": "dih-SKREET"
+    },
+    {
+      "word1": "Doe",
+      "meaning1": "암사슴",
+      "word2": "Dough",
+      "meaning2": "반죽",
+      "pronunciation": "doh"
+    },
+    {
+      "word1": "Done",
+      "meaning1": "끝난",
+      "word2": "Dun",
+      "meaning2": "어두운",
+      "pronunciation": "duhn"
+    },
+    {
+      "word1": "Dual",
+      "meaning1": "이중의",
+      "word2": "Duel",
+      "meaning2": "결투",
+      "pronunciation": "DOO-uhl"
+    }
+  ],
+  "E": [
+    {
+      "word1": "Earn",
+      "meaning1": "벌다",
+      "word2": "Urn",
+      "meaning2": "항아리",
+      "pronunciation": "urn"
+    },
+    {
+      "word1": "Eye",
+      "meaning1": "눈",
+      "word2": "I",
+      "meaning2": "나",
+      "pronunciation": "ahy"
+    }
+  ],
+  "F": [
+    {
+      "word1": "Faint",
+      "meaning1": "희미한",
+      "word2": "Feint",
+      "meaning2": "속임 동작",
+      "pronunciation": "faynt"
+    },
+    {
+      "word1": "Fair",
+      "meaning1": "공정한",
+      "word2": "Fare",
+      "meaning2": "요금",
+      "pronunciation": "fair"
+    },
+    {
+      "word1": "Faze",
+      "meaning1": "당황하게 하다",
+      "word2": "Phase",
+      "meaning2": "단계",
+      "pronunciation": "fayz"
+    },
+    {
+      "word1": "Feet",
+      "meaning1": "발들",
+      "word2": "Feat",
+      "meaning2": "업적",
+      "pronunciation": "feet"
+    },
+    {
+      "word1": "Find",
+      "meaning1": "찾다",
+      "word2": "Fined",
+      "meaning2": "벌금을 부과하다",
+      "pronunciation": "fahynd"
+    },
+    {
+      "word1": "Fir",
+      "meaning1": "전나무",
+      "word2": "Fur",
+      "meaning2": "모피",
+      "pronunciation": "fur"
+    },
+    {
+      "word1": "Flair",
+      "meaning1": "재능",
+      "word2": "Flare",
+      "meaning2": "불꽃",
+      "pronunciation": "flair"
+    },
+    {
+      "word1": "Flea",
+      "meaning1": "벼룩",
+      "word2": "Flee",
+      "meaning2": "도망치다",
+      "pronunciation": "flee"
+    },
+    {
+      "word1": "Flew",
+      "meaning1": "날았다",
+      "word2": "Flu",
+      "meaning2": "독감",
+      "pronunciation": "floo"
+    },
+    {
+      "word1": "Flour",
+      "meaning1": "밀가루",
+      "word2": "Flower",
+      "meaning2": "꽃",
+      "pronunciation": "flour"
+    },
+    {
+      "word1": "Fore",
+      "meaning1": "앞의",
+      "word2": "Four",
+      "meaning2": "넷",
+      "pronunciation": "fohr"
+    },
+    {
+      "word1": "Forth",
+      "meaning1": "앞으로",
+      "word2": "Fourth",
+      "meaning2": "네 번째",
+      "pronunciation": "forth"
+    },
+    {
+      "word1": "Foul",
+      "meaning1": "더러운",
+      "word2": "Fowl",
+      "meaning2": "가금류",
+      "pronunciation": "fowl"
+    }
+  ],
+  "G": [
+    {
+      "word1": "Gait",
+      "meaning1": "걸음걸이",
+      "word2": "Gate",
+      "meaning2": "문",
+      "pronunciation": "gayt"
+    },
+    {
+      "word1": "Genes",
+      "meaning1": "유전자",
+      "word2": "Jeans",
+      "meaning2": "청바지",
+      "pronunciation": "jeenz"
+    },
+    {
+      "word1": "Gild",
+      "meaning1": "도금하다",
+      "word2": "Guild",
+      "meaning2": "길드",
+      "pronunciation": "gild"
+    },
+    {
+      "word1": "Grate",
+      "meaning1": "강판에 갈다",
+      "word2": "Great",
+      "meaning2": "위대한",
+      "pronunciation": "grayt"
+    },
+    {
+      "word1": "Grater",
+      "meaning1": "강판",
+      "word2": "Greater",
+      "meaning2": "더 큰",
+      "pronunciation": "GRAY-tuhr"
+    },
+    {
+      "word1": "Groan",
+      "meaning1": "신음하다",
+      "word2": "Grown",
+      "meaning2": "자란",
+      "pronunciation": "grohn"
+    },
+    {
+      "word1": "Guessed",
+      "meaning1": "추측했다",
+      "word2": "Guest",
+      "meaning2": "손님",
+      "pronunciation": "gehst"
+    }
+  ],
+  "H": [
+    {
+      "word1": "Hair",
+      "meaning1": "머리카락",
+      "word2": "Hare",
+      "meaning2": "토끼",
+      "pronunciation": "hair"
+    },
+    {
+      "word1": "Hall",
+      "meaning1": "홀",
+      "word2": "Haul",
+      "meaning2": "끌다",
+      "pronunciation": "hawl"
+    },
+    {
+      "word1": "Hangar",
+      "meaning1": "격납고",
+      "word2": "Hanger",
+      "meaning2": "옷걸이",
+      "pronunciation": "HANG-uhr"
+    },
+    {
+      "word1": "Heal",
+      "meaning1": "치유하다",
+      "word2": "Heel",
+      "meaning2": "발뒤꿈치",
+      "pronunciation": "heel"
+    },
+    {
+      "word1": "Hear",
+      "meaning1": "듣다",
+      "word2": "Here",
+      "meaning2": "여기",
+      "pronunciation": "heer"
+    },
+    {
+      "word1": "Heard",
+      "meaning1": "들었다",
+      "word2": "Herd",
+      "meaning2": "떼",
+      "pronunciation": "herd"
+    },
+    {
+      "word1": "Higher",
+      "meaning1": "더 높은",
+      "word2": "Hire",
+      "meaning2": "고용하다",
+      "pronunciation": "HI-uhr"
+    },
+    {
+      "word1": "Him",
+      "meaning1": "그를",
+      "word2": "Hymn",
+      "meaning2": "찬송가",
+      "pronunciation": "him"
+    },
+    {
+      "word1": "Hoard",
+      "meaning1": "저장하다",
+      "word2": "Horde",
+      "meaning2": "무리",
+      "pronunciation": "hord"
+    },
+    {
+      "word1": "Hole",
+      "meaning1": "구멍",
+      "word2": "Whole",
+      "meaning2": "전체의",
+      "pronunciation": "hohl"
+    },
+    {
+      "word1": "Hour",
+      "meaning1": "시간",
+      "word2": "Our",
+      "meaning2": "우리의",
+      "pronunciation": "owr"
+    }
+  ],
+  "I": [
+    {
+      "word1": "Idle",
+      "meaning1": "게으른",
+      "word2": "Idol",
+      "meaning2": "우상",
+      "pronunciation": "AHY-dl"
+    },
+    {
+      "word1": "Incite",
+      "meaning1": "선동하다",
+      "word2": "Insight",
+      "meaning2": "통찰력",
+      "pronunciation": "in-SAHYT"
+    }
+  ],
+  "K": [
+    {
+      "word1": "Knead",
+      "meaning1": "반죽하다",
+      "word2": "Kneed",
+      "meaning2": "무릎으로 차다",
+      "pronunciation": "need"
+    },
+    {
+      "word1": "Knew",
+      "meaning1": "알았다",
+      "word2": "New",
+      "meaning2": "새로운",
+      "pronunciation": "noo"
+    },
+    {
+      "word1": "Knight",
+      "meaning1": "기사",
+      "word2": "Night",
+      "meaning2": "밤",
+      "pronunciation": "nahyt"
+    },
+    {
+      "word1": "Knit",
+      "meaning1": "뜨개질하다",
+      "word2": "Nit",
+      "meaning2": "이의 알",
+      "pronunciation": "nit"
+    },
+    {
+      "word1": "Knot",
+      "meaning1": "매듭",
+      "word2": "Not",
+      "meaning2": "아니다",
+      "pronunciation": "naht"
+    },
+    {
+      "word1": "Know",
+      "meaning1": "알다",
+      "word2": "No",
+      "meaning2": "아니",
+      "pronunciation": "noh"
+    }
+  ],
+  "L": [
+    {
+      "word1": "Laps",
+      "meaning1": "한 바퀴",
+      "word2": "Lapse",
+      "meaning2": "경과, 실수",
+      "pronunciation": "laps"
+    },
+    {
+      "word1": "Lay",
+      "meaning1": "놓다",
+      "word2": "Lei",
+      "meaning2": "꽃목걸이",
+      "pronunciation": "lay"
+    },
+    {
+      "word1": "Lead",
+      "meaning1": "이끌다 / 납",
+      "word2": "Led",
+      "meaning2": "이끌었다",
+      "pronunciation": "led"
+    },
+    {
+      "word1": "Leak",
+      "meaning1": "새다",
+      "word2": "Leek",
+      "meaning2": "부추",
+      "pronunciation": "leek"
+    },
+    {
+      "word1": "Less",
+      "meaning1": "덜",
+      "word2": "Les",
+      "meaning2": "레즈비언 (비격식 축약형)",
+      "pronunciation": "les"
+    },
+    {
+      "word1": "Lie",
+      "meaning1": "거짓말하다, 눕다",
+      "word2": "Lye",
+      "meaning2": "가성소다",
+      "pronunciation": "lahy"
+    },
+    {
+      "word1": "Links",
+      "meaning1": "링크들",
+      "word2": "Lynx",
+      "meaning2": "스라소니",
+      "pronunciation": "links"
+    },
+    {
+      "word1": "Loan",
+      "meaning1": "대출",
+      "word2": "Lone",
+      "meaning2": "외로운",
+      "pronunciation": "lohn"
+    }
+  ],
+  "M": [
+    {
+      "word1": "Made",
+      "meaning1": "만들었다",
+      "word2": "Maid",
+      "meaning2": "하녀",
+      "pronunciation": "mayd"
+    },
+    {
+      "word1": "Mail",
+      "meaning1": "우편",
+      "word2": "Male",
+      "meaning2": "남성",
+      "pronunciation": "mayl"
+    },
+    {
+      "word1": "Main",
+      "meaning1": "주요한",
+      "word2": "Mane",
+      "meaning2": "갈기",
+      "pronunciation": "mayn"
+    },
+    {
+      "word1": "Maize",
+      "meaning1": "옥수수",
+      "word2": "Maze",
+      "meaning2": "미로",
+      "pronunciation": "mayz"
+    },
+    {
+      "word1": "Manor",
+      "meaning1": "저택",
+      "word2": "Manner",
+      "meaning2": "방식",
+      "pronunciation": "MAN-uhr"
+    },
+    {
+      "word1": "Mewl",
+      "meaning1": "울다 (약하게)",
+      "word2": "Mule",
+      "meaning2": "노새",
+      "pronunciation": "myool"
+    },
+    {
+      "word1": "Medal",
+      "meaning1": "메달",
+      "word2": "Meddle",
+      "meaning2": "간섭하다",
+      "pronunciation": "MED-l"
+    },
+    {
+      "word1": "Might",
+      "meaning1": "힘",
+      "word2": "Mite",
+      "meaning2": "진드기",
+      "pronunciation": "mahyt"
+    },
+    {
+      "word1": "Miner",
+      "meaning1": "광부",
+      "word2": "Minor",
+      "meaning2": "미성년자",
+      "pronunciation": "MY-nuhr"
+    },
+    {
+      "word1": "Missed",
+      "meaning1": "놓쳤다",
+      "word2": "Mist",
+      "meaning2": "안개",
+      "pronunciation": "mist"
+    },
+    {
+      "word1": "Moan",
+      "meaning1": "신음하다",
+      "word2": "Mown",
+      "meaning2": "베었다",
+      "pronunciation": "mohn"
+    },
+    {
+      "word1": "Moose",
+      "meaning1": "엘크",
+      "word2": "Mousse",
+      "meaning2": "무스",
+      "pronunciation": "moos"
+    },
+    {
+      "word1": "Morn",
+      "meaning1": "아침 (문학적)",
+      "word2": "Mourn",
+      "meaning2": "애도하다",
+      "pronunciation": "mohrn"
+    },
+    {
+      "word1": "Muscle",
+      "meaning1": "근육",
+      "word2": "Mussel",
+      "meaning2": "홍합",
+      "pronunciation": "MUHS-uhl"
+    }
+  ],
+  "N": [
+    {
+      "word1": "Nay",
+      "meaning1": "아니 (구식/문학적)",
+      "word2": "Neigh",
+      "meaning2": "히힝 울다",
+      "pronunciation": "ney"
+    },
+    {
+      "word1": "Naval",
+      "meaning1": "해군의",
+      "word2": "Navel",
+      "meaning2": "배꼽",
+      "pronunciation": "NAY-vuhl"
+    },
+    {
+      "word1": "None",
+      "meaning1": "아무도 ~않다",
+      "word2": "Nun",
+      "meaning2": "수녀",
+      "pronunciation": "nuhn"
+    }
+  ],
+  "O": [
+    {
+      "word1": "Oar",
+      "meaning1": "노",
+      "word2": "Ore",
+      "meaning2": "광석",
+      "pronunciation": "ohr"
+    },
+    {
+      "word1": "One",
+      "meaning1": "하나",
+      "word2": "Won",
+      "meaning2": "이겼다",
+      "pronunciation": "wuhn"
+    }
+  ],
+  "P": [
+    {
+      "word1": "Pair",
+      "meaning1": "쌍",
+      "word2": "Pare",
+      "meaning2": "깎다",
+      "word3": "Pear",
+      "meaning3": "배",
+      "pronunciation": "pair"
+    },
+    {
+      "word1": "Pail",
+      "meaning1": "양동이",
+      "word2": "Pale",
+      "meaning2": "창백한",
+      "pronunciation": "payl"
+    },
+    {
+      "word1": "Pane",
+      "meaning1": "창유리",
+      "word2": "Pain",
+      "meaning2": "고통",
+      "pronunciation": "payn"
+    },
+    {
+      "word1": "Palate",
+      "meaning1": "구개",
+      "word2": "Palette",
+      "meaning2": "팔레트",
+      "pronunciation": "PAL-it"
+    },
+    {
+      "word1": "Pause",
+      "meaning1": "멈추다",
+      "word2": "Paws",
+      "meaning2": "발톱",
+      "pronunciation": "pawz"
+    },
+    {
+      "word1": "Peace",
+      "meaning1": "평화",
+      "word2": "Piece",
+      "meaning2": "조각",
+      "pronunciation": "pees"
+    },
+    {
+      "word1": "Peak",
+      "meaning1": "정점",
+      "word2": "Peek",
+      "meaning2": "엿보다",
+      "pronunciation": "peek"
+    },
+    {
+      "word1": "Peal",
+      "meaning1": "울리다",
+      "word2": "Peel",
+      "meaning2": "껍질을 벗기다",
+      "pronunciation": "peel"
+    },
+    {
+      "word1": "Pedal",
+      "meaning1": "페달",
+      "word2": "Peddle",
+      "meaning2": "팔러 다니다",
+      "pronunciation": "PED-l"
+    },
+    {
+      "word1": "Peer",
+      "meaning1": "동료",
+      "word2": "Pier",
+      "meaning2": "부두",
+      "pronunciation": "peer"
+    },
+    {
+      "word1": "Plain",
+      "meaning1": "평야, 분명한",
+      "word2": "Plane",
+      "meaning2": "비행기",
+      "pronunciation": "pleyn"
+    },
+    {
+      "word1": "Plum",
+      "meaning1": "자두",
+      "word2": "Plumb",
+      "meaning2": "연추",
+      "pronunciation": "pluhm"
+    },
+    {
+      "word1": "Poll",
+      "meaning1": "투표",
+      "word2": "Pole",
+      "meaning2": "막대기",
+      "pronunciation": "pohl"
+    },
+    {
+      "word1": "Pore",
+      "meaning1": "구멍",
+      "word2": "Pour",
+      "meaning2": "붓다",
+      "pronunciation": "pohr"
+    },
+    {
+      "word1": "Pray",
+      "meaning1": "기도하다",
+      "word2": "Prey",
+      "meaning2": "먹이",
+      "pronunciation": "prey"
+    },
+    {
+      "word1": "Principal",
+      "meaning1": "주요한",
+      "word2": "Principle",
+      "meaning2": "원칙",
+      "pronunciation": "PRIN-suh-puhl"
+    },
+    {
+      "word1": "Profit",
+      "meaning1": "이익",
+      "word2": "Prophet",
+      "meaning2": "예언자",
+      "pronunciation": "PRAH-fit"
+    }
+  ],
+  "Q": [],
+  "R": [
+    {
+      "word1": "Rain",
+      "meaning1": "비",
+      "word2": "Reign",
+      "meaning2": "통치하다",
+      "pronunciation": "rayn"
+    },
+    {
+      "word1": "Raise",
+      "meaning1": "올리다",
+      "word2": "Raze",
+      "meaning2": "파괴하다",
+      "pronunciation": "rayz"
+    },
+    {
+      "word1": "Rap",
+      "meaning1": "두드리다",
+      "word2": "Wrap",
+      "meaning2": "싸다",
+      "pronunciation": "rap"
+    },
+    {
+      "word1": "Read",
+      "meaning1": "읽다",
+      "word2": "Red",
+      "meaning2": "빨간",
+      "pronunciation": "reed / red"
+    },
+    {
+      "word1": "Real",
+      "meaning1": "진짜의",
+      "word2": "Reel",
+      "meaning2": "릴",
+      "pronunciation": "reel"
+    },
+    {
+      "word1": "Rest",
+      "meaning1": "휴식",
+      "word2": "Wrest",
+      "meaning2": "비틀다",
+      "pronunciation": "rest"
+    },
+    {
+      "word1": "Right",
+      "meaning1": "오른쪽, 옳은",
+      "word2": "Rite",
+      "meaning2": "의식",
+      "pronunciation": "rahyt"
+    },
+    {
+      "word1": "Ring",
+      "meaning1": "반지, 울리다",
+      "word2": "Wring",
+      "meaning2": "짜다",
+      "pronunciation": "ring"
+    },
+    {
+      "word1": "Road",
+      "meaning1": "도로",
+      "word2": "Rode",
+      "meaning2": "탔다",
+      "pronunciation": "rohd"
+    },
+    {
+      "word1": "Roe",
+      "meaning1": "어란",
+      "word2": "Row",
+      "meaning2": "줄, 열",
+      "pronunciation": "roh"
+    },
+    {
+      "word1": "Role",
+      "meaning1": "역할",
+      "word2": "Roll",
+      "meaning2": "구르다",
+      "pronunciation": "rohl"
+    },
+    {
+      "word1": "Rose",
+      "meaning1": "장미, 올랐다",
+      "word2": "Rows",
+      "meaning2": "줄들",
+      "pronunciation": "rohz"
+    },
+    {
+      "word1": "Rote",
+      "meaning1": "기계적 반복",
+      "word2": "Wrote",
+      "meaning2": "썼다",
+      "pronunciation": "roht"
+    }
+  ],
+  "S": [
+    {
+      "word1": "Sail",
+      "meaning1": "돛, 항해하다",
+      "word2": "Sale",
+      "meaning2": "판매",
+      "pronunciation": "seyl"
+    },
+    {
+      "word1": "Scene",
+      "meaning1": "장면",
+      "word2": "Seen",
+      "meaning2": "보았다",
+      "pronunciation": "seen"
+    },
+    {
+      "word1": "Sea",
+      "meaning1": "바다",
+      "word2": "See",
+      "meaning2": "보다",
+      "pronunciation": "see"
+    },
+    {
+      "word1": "Seam",
+      "meaning1": "솔기",
+      "word2": "Seem",
+      "meaning2": "보이다",
+      "pronunciation": "seem"
+    },
+    {
+      "word1": "Shear",
+      "meaning1": "자르다",
+      "word2": "Sheer",
+      "meaning2": "순전한",
+      "pronunciation": "sheer"
+    },
+    {
+      "word1": "Shoe",
+      "meaning1": "신발",
+      "word2": "Shoo",
+      "meaning2": "쫓아내다",
+      "pronunciation": "shoo"
+    },
+    {
+      "word1": "Side",
+      "meaning1": "측면",
+      "word2": "Sighed",
+      "meaning2": "한숨 쉬었다",
+      "pronunciation": "sahyd"
+    },
+    {
+      "word1": "Sign",
+      "meaning1": "표지판, 서명하다",
+      "word2": "Sine",
+      "meaning2": "사인 (수학)",
+      "pronunciation": "sahyn"
+    },
+    {
+      "word1": "Site",
+      "meaning1": "장소",
+      "word2": "Sight",
+      "meaning2": "시야",
+      "pronunciation": "sahyt"
+    },
+    {
+      "word1": "Sloe",
+      "meaning1": "가시나무 열매",
+      "word2": "Slow",
+      "meaning2": "느린",
+      "pronunciation": "sloh"
+    },
+    {
+      "word1": "Sole",
+      "meaning1": "유일한, 발바닥",
+      "word2": "Soul",
+      "meaning2": "영혼",
+      "pronunciation": "sohl"
+    },
+    {
+      "word1": "Some",
+      "meaning1": "약간의",
+      "word2": "Sum",
+      "meaning2": "합계",
+      "pronunciation": "suhm"
+    },
+    {
+      "word1": "Son",
+      "meaning1": "아들",
+      "word2": "Sun",
+      "meaning2": "태양",
+      "pronunciation": "suhn"
+    },
+    {
+      "word1": "Soar",
+      "meaning1": "날아오르다",
+      "word2": "Sore",
+      "meaning2": "통증, 아픈",
+      "pronunciation": "sor"
+    },
+    {
+      "word1": "Staid",
+      "meaning1": "침착한",
+      "word2": "Stayed",
+      "meaning2": "머물렀다",
+      "pronunciation": "stayd"
+    },
+    {
+      "word1": "Stare",
+      "meaning1": "응시하다",
+      "word2": "Stair",
+      "meaning2": "계단",
+      "pronunciation": "stair"
+    },
+    {
+      "word1": "Stationary",
+      "meaning1": "정지한",
+      "word2": "Stationery",
+      "meaning2": "문구류",
+      "pronunciation": "STAY-shuhn-er-ee"
+    },
+    {
+      "word1": "Steal",
+      "meaning1": "훔치다",
+      "word2": "Steel",
+      "meaning2": "강철",
+      "pronunciation": "steel"
+    },
+    {
+      "word1": "Straight",
+      "meaning1": "똑바로",
+      "word2": "Strait",
+      "meaning2": "해협",
+      "pronunciation": "strayt"
+    },
+    {
+      "word1": "Sweet",
+      "meaning1": "달콤한",
+      "word2": "Suite",
+      "meaning2": "스위트룸",
+      "pronunciation": "sweet"
+    }
+  ],
+  "T": [
+    {
+      "word1": "Tacks",
+      "meaning1": "압정",
+      "word2": "Tax",
+      "meaning2": "세금",
+      "pronunciation": "taks"
+    },
+    {
+      "word1": "Tail",
+      "meaning1": "꼬리",
+      "word2": "Tale",
+      "meaning2": "이야기",
+      "pronunciation": "tayl"
+    },
+    {
+      "word1": "Team",
+      "meaning1": "팀",
+      "word2": "Teem",
+      "meaning2": "풍부하다",
+      "pronunciation": "teem"
+    },
+    {
+      "word1": "Tear",
+      "meaning1": "눈물, 찢다",
+      "word2": "Tier",
+      "meaning2": "층",
+      "pronunciation": "teer"
+    },
+    {
+      "word1": "Teas",
+      "meaning1": "차들",
+      "word2": "Tease",
+      "meaning2": "괴롭히다",
+      "pronunciation": "teez"
+    },
+    {
+      "word1": "Their",
+      "meaning1": "그들의",
+      "word2": "There",
+      "meaning2": "거기에",
+      "word3": "They're",
+      "meaning3": "그들은",
+      "pronunciation": "thair"
+    },
+    {
+      "word1": "Threw",
+      "meaning1": "던졌다",
+      "word2": "Through",
+      "meaning2": "통해",
+      "pronunciation": "throo"
+    },
+    {
+      "word1": "Throe",
+      "meaning1": "고통",
+      "word2": "Throw",
+      "meaning2": "던지다",
+      "pronunciation": "throh"
+    },
+    {
+      "word1": "Thrown",
+      "meaning1": "던져진",
+      "word2": "Throne",
+      "meaning2": "왕좌",
+      "pronunciation": "throhn"
+    },
+    {
+      "word1": "Thyme",
+      "meaning1": "타임 (허브)",
+      "word2": "Time",
+      "meaning2": "시간",
+      "pronunciation": "tahym"
+    },
+    {
+      "word1": "Tied",
+      "meaning1": "묶었다",
+      "word2": "Tide",
+      "meaning2": "조수",
+      "pronunciation": "tahyd"
+    },
+    {
+      "word1": "To",
+      "meaning1": "에게",
+      "word2": "Too",
+      "meaning2": "너무",
+      "word3": "Two",
+      "meaning3": "둘",
+      "pronunciation": "too"
+    },
+    {
+      "word1": "Toe",
+      "meaning1": "발가락",
+      "word2": "Tow",
+      "meaning2": "견인하다",
+      "pronunciation": "toh"
+    },
+    {
+      "word1": "Told",
+      "meaning1": "말했다",
+      "word2": "Tolled",
+      "meaning2": "울렸다",
+      "pronunciation": "tohld"
+    },
+    {
+      "word1": "Troupe",
+      "meaning1": "극단",
+      "word2": "Troop",
+      "meaning2": "무리, 부대",
+      "pronunciation": "troop"
+    }
+  ],
+  "V": [
+    {
+      "word1": "Vain",
+      "meaning1": "헛된",
+      "word2": "Vane",
+      "meaning2": "풍향계",
+      "word3": "Vein",
+      "meaning3": "정맥",
+      "pronunciation": "vayn"
+    },
+    {
+      "word1": "Vale",
+      "meaning1": "계곡",
+      "word2": "Vail",
+      "meaning2": "내리다",
+      "pronunciation": "vayl"
+    },
+    {
+      "word1": "Vary",
+      "meaning1": "다양하다",
+      "word2": "Very",
+      "meaning2": "매우",
+      "pronunciation": "vair-ee"
+    },
+    {
+      "word1": "Verse",
+      "meaning1": "시",
+      "word2": "Versed",
+      "meaning2": "숙련된",
+      "pronunciation": "vurs"
+    }
+  ],
+  "W": [
+    {
+      "word1": "Waive",
+      "meaning1": "포기하다",
+      "word2": "Wave",
+      "meaning2": "파도, 흔들다",
+      "pronunciation": "wayv"
+    },
+    {
+      "word1": "Wail",
+      "meaning1": "울부짖다",
+      "word2": "Whale",
+      "meaning2": "고래",
+      "pronunciation": "wayl"
+    },
+    {
+      "word1": "Waist",
+      "meaning1": "허리",
+      "word2": "Waste",
+      "meaning2": "낭비하다",
+      "pronunciation": "wayst"
+    },
+    {
+      "word1": "Wait",
+      "meaning1": "기다리다",
+      "word2": "Weight",
+      "meaning2": "무게",
+      "pronunciation": "wayt"
+    },
+    {
+      "word1": "War",
+      "meaning1": "전쟁",
+      "word2": "Wore",
+      "meaning2": "입었다",
+      "pronunciation": "wawr"
+    },
+    {
+      "word1": "Warn",
+      "meaning1": "경고하다",
+      "word2": "Worn",
+      "meaning2": "닳은",
+      "pronunciation": "wohrn"
+    },
+    {
+      "word1": "Way",
+      "meaning1": "길",
+      "word2": "Weigh",
+      "meaning2": "무게를 재다",
+      "pronunciation": "way"
+    },
+    {
+      "word1": "Weak",
+      "meaning1": "약한",
+      "word2": "Week",
+      "meaning2": "주",
+      "pronunciation": "week"
+    },
+    {
+      "word1": "We",
+      "meaning1": "우리",
+      "word2": "Wee",
+      "meaning2": "작은",
+      "pronunciation": "wee"
+    },
+    {
+      "word1": "Wear",
+      "meaning1": "입다",
+      "word2": "Ware",
+      "meaning2": "상품",
+      "pronunciation": "wair"
+    },
+    {
+      "word1": "Weather",
+      "meaning1": "날씨",
+      "word2": "Whether",
+      "meaning2": "여부",
+      "pronunciation": "weh-thuhr"
+    },
+    {
+      "word1": "Whine",
+      "meaning1": "우는 소리를 내다",
+      "word2": "Wine",
+      "meaning2": "와인",
+      "pronunciation": "wahyn"
+    },
+    {
+      "word1": "Which",
+      "meaning1": "어느",
+      "word2": "Witch",
+      "meaning2": "마녀",
+      "pronunciation": "wich"
+    },
+    {
+      "word1": "Who’s",
+      "meaning1": "누가",
+      "word2": "Whose",
+      "meaning2": "누구의",
+      "pronunciation": "hooz"
+    },
+    {
+      "word1": "Wight",
+      "meaning1": "생물",
+      "word2": "White",
+      "meaning2": "흰색",
+      "pronunciation": "wahyt"
+    },
+    {
+      "word1": "Wood",
+      "meaning1": "나무",
+      "word2": "Would",
+      "meaning2": "할 것이다",
+      "pronunciation": "wood"
+    }
+  ]
+}

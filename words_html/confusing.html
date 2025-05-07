@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Confusing Word Pairs</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        max-width: 900px;
+        margin: auto;
+        background: #f0f2f5;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      input {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 20px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+      }
+      .pair-card {
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 16px;
+        margin-bottom: 16px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+      }
+      .pair-title {
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-bottom: 10px;
+        color: #2c3e50;
+      }
+      .entry {
+        margin-bottom: 10px;
+        padding: 8px;
+        background: #f9f9f9;
+        border-left: 4px solid #3498db;
+        border-radius: 6px;
+      }
+      .word {
+        font-weight: bold;
+      }
+      .example {
+        color: #555;
+        margin-left: 1em;
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Confusing Word Pairs</h1>
+    <input type="text" id="searchBox" placeholder="Search a word..." />
+    <div id="result"></div>
+
+    <script>
+      let wordPairs = [];
+
+      function renderList(query = "") {
+        const resultDiv = document.getElementById("result");
+        resultDiv.innerHTML = "";
+
+        wordPairs.forEach((pair) => {
+          const matches = pair.entries.filter((entry) =>
+            entry.word.toLowerCase().includes(query)
+          );
+          if (query && matches.length === 0) return;
+
+          const card = document.createElement("div");
+          card.className = "pair-card";
+
+          const title = document.createElement("div");
+          title.className = "pair-title";
+          title.textContent = pair.pair.join(" / ");
+          card.appendChild(title);
+
+          (query ? matches : pair.entries).forEach((entry) => {
+            const entryDiv = document.createElement("div");
+            entryDiv.className = "entry";
+            entryDiv.innerHTML = `
+            <div class="word">${entry.word}</div>
+            <div class="meaning">${entry.meaning_ko}</div>
+            <div class="example">${entry.example}</div>
+          `;
+            card.appendChild(entryDiv);
+          });
+
+          resultDiv.appendChild(card);
+        });
+      }
+
+      fetch("../words_JSON/confusing.json")
+        .then((res) => res.json())
+        .then((data) => {
+          wordPairs = data;
+          renderList();
+        });
+
+      document
+        .getElementById("searchBox")
+        .addEventListener("input", function (e) {
+          const query = e.target.value.toLowerCase();
+          renderList(query);
+        });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link
+      rel="stylesheet"
+      href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+    />
+    <style>
+      main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 80vh;
+        text-align: center;
+      }
+
+      section {
+        background: #f9f9f9;
+        padding: 2rem;
+        border-radius: 1rem;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        width: 90%;
+        max-width: 600px;
+      }
+
+      input[type="search"] {
+        width: 70%;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+        border: 2px solid #ccc;
+        border-radius: 0.5rem;
+        outline: none;
+        transition: border-color 0.3s;
+      }
+
+      input[type="search"]:focus {
+        border-color: #0077cc;
+      }
+
+      button {
+        padding: 0.75rem 1.5rem;
+        margin-left: 1rem;
+        font-size: 1rem;
+        border: none;
+        background-color: #0077cc;
+        color: white;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      button:hover {
+        background-color: #005fa3;
+      }
+
+      #Starred-Word-List {
+        margin-top: 2rem;
+        padding: 1rem;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 0.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="../index.html"
+              ><i class="fa-solid fa-book-open"></i> Words</a
+            >
+          </li>
+          <li>
+            <a href="../game/game.html"
+              ><i class="fa-solid fa-gamepad"></i> Game</a
+            >
+          </li>
+          <li>
+            <a href="../search/search.html" class="active"
+              ><i class="fa-solid fa-magnifying-glass"></i> Search</a
+            >
+          </li>
+          <li>
+            <a href="../profile/profile.html"
+              ><i class="fa-solid fa-user"></i> Profile</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Search Your Word</h1>
+      <section>
+        <div>
+          <input type="search" id="inputBox" />
+          <button>Search</button>
+        </div>
+        <div>
+          <h2>Starred Word List</h2>
+          <div id="Starred-Word-List">
+            <p>Starred words are going to be showed on this field</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      document.querySelectorAll("nav a").forEach((link) => {
+        if (link.href === window.location.href) {
+          link.classList.add("active");
+        }
+      });
+
+      $(document).ready(function () {
+        var inputSource = [
+          "서울",
+          "대전",
+          "대구",
+          "부산",
+          "제주",
+          "강릉",
+          "원주",
+          "인천",
+          "광주",
+          "울산",
+          "평창",
+          "천안",
+        ];
+
+        $("#inputBox").autocomplete({
+          source: inputSource,
+          minLength: 0,
+        });
+
+        var inputBox = document.querySelector("#inputBox");
+        inputBox.addEventListener("focus", downArrow);
+      });
+
+      function downArrow() {
+        var event = document.createEvent("Event");
+        event.initEvent("keydown", true, true);
+        event.keyCode = 40;
+        document.getElementById("inputBox").dispatchEvent(event);
+      }
+    </script>
+  </body>
+</html>

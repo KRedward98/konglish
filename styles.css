@@ -1,0 +1,146 @@
+/* 공통 스타일 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+nav a.active {
+  color: blue;
+}
+
+main {
+  padding: 1rem;
+}
+
+/* 공통 박스 스타일 */
+.Larger-Item-Boxes-Container,
+.Smaller-Item-Boxes-Container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.Larger-Item-Boxes,
+.Smaller-Item-Boxes {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+
+/* 크기 구분 */
+.Larger-Item-Boxes {
+  flex: 1 1 200px;
+  max-width: 300px;
+}
+.Smaller-Item-Boxes {
+  flex: 1 1 120px;
+  max-width: 160px;
+}
+
+/* 게임 박스 */
+.Lower-Game-Div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+/* 반응형 미디어쿼리 */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Larger-Item-Boxes,
+  .Smaller-Item-Boxes {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .Lower-Game-Div {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .Larger-Item-Boxes {
+    flex: 1 1 45%;
+  }
+  .Smaller-Item-Boxes {
+    flex: 1 1 30%;
+  }
+}
+
+@media (min-width: 1025px) {
+  .Larger-Item-Boxes {
+    flex: 1 1 20%;
+  }
+  .Smaller-Item-Boxes {
+    flex: 1 1 10%;
+  }
+}
+
+:root {
+  --primary-color: #4f46e5; /* 인디고 */
+  --secondary-color: #818cf8; /* 라이트 인디고 */
+  --bg-color: #f9fafb; /* 배경 */
+  --text-color: #111827; /* 텍스트 */
+  --card-bg: #ffffff; /* 카드 배경 */
+  --border-color: #e5e7eb; /* 연한 회색 */
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+header nav {
+  background-color: var(--primary-color);
+}
+
+nav a {
+  color: white;
+}
+
+nav a.active {
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+.Larger-Item-Boxes,
+.Smaller-Item-Boxes,
+.Lower-Game-Div {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.Larger-Item-Boxes:hover,
+.Smaller-Item-Boxes:hover,
+.Lower-Game-Div:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}

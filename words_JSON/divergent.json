@@ -1,0 +1,438 @@
+[
+  {
+    "word": "custom",
+    "singular_meaning": "a tradition or commonly accepted practice",
+    "singular_meaning_ko": "관습, 전통",
+    "plural_meaning": "taxes or duties collected at borders (customs)",
+    "plural_meaning_ko": "세관, 관세"
+  },
+  {
+    "word": "good",
+    "singular_meaning": "that which is morally right or beneficial",
+    "singular_meaning_ko": "선, 유익한 것",
+    "plural_meaning": "commercial items or products for sale (goods)",
+    "plural_meaning_ko": "상품, 물품"
+  },
+  {
+    "word": "manner",
+    "singular_meaning": "a way of doing something",
+    "singular_meaning_ko": "방식, 태도",
+    "plural_meaning": "social behavior or etiquette (manners)",
+    "plural_meaning_ko": "예절, 예의범절"
+  },
+  {
+    "word": "paper",
+    "singular_meaning": "material for writing or printing",
+    "singular_meaning_ko": "종이, 논문",
+    "plural_meaning": "newspapers or official documents (papers)",
+    "plural_meaning_ko": "신문, 서류",
+    "note": "'papers'는 신문, 신분증 등을 의미할 수 있음"
+  },
+  {
+    "word": "force",
+    "singular_meaning": "physical power or strength",
+    "singular_meaning_ko": "힘, 물리적 강제력",
+    "plural_meaning": "a group of people organized for a purpose (forces)",
+    "plural_meaning_ko": "군대, 병력"
+  },
+  {
+    "word": "work",
+    "singular_meaning": "effort or task done",
+    "singular_meaning_ko": "일, 노력",
+    "plural_meaning": "artistic or intellectual creations (works)",
+    "plural_meaning_ko": "작품들, 저작물들"
+  },
+  {
+    "word": "color",
+    "singular_meaning": "a hue or shade perceived by the eye",
+    "singular_meaning_ko": "색깔",
+    "plural_meaning": "appearance, complexion, or national/emblem colors",
+    "plural_meaning_ko": "안색, 피부색, 상징 색상(국기 등)"
+  },
+  {
+    "word": "letter",
+    "singular_meaning": "a character of the alphabet",
+    "singular_meaning_ko": "문자, 글자, 편지",
+    "plural_meaning": "literature or written education (letters)",
+    "plural_meaning_ko": "문학, 교양, 학문"
+  },
+  {
+    "word": "pain",
+    "singular_meaning": "physical or emotional suffering",
+    "singular_meaning_ko": "통증, 고통",
+    "plural_meaning": "troubles or annoyances (pains)",
+    "plural_meaning_ko": "노고, 수고, 번거로움"
+  },
+  {
+    "word": "interest",
+    "singular_meaning": "curiosity or concern",
+    "singular_meaning_ko": "흥미, 관심",
+    "plural_meaning": "financial stakes or shares (interests)",
+    "plural_meaning_ko": "이해관계, 지분"
+  },
+  {
+    "word": "air",
+    "singular_meaning": "the invisible gaseous substance surrounding the Earth",
+    "singular_meaning_ko": "공기",
+    "plural_meaning": "manner or appearance",
+    "plural_meaning_ko": "태도, 외모"
+  },
+  {
+    "word": "authority",
+    "singular_meaning": "the power or right to give orders",
+    "singular_meaning_ko": "권위",
+    "plural_meaning": "a group of people with official power",
+    "plural_meaning_ko": "당국"
+  },
+  {
+    "word": "benefit",
+    "singular_meaning": "an advantage or profit",
+    "singular_meaning_ko": "혜택",
+    "plural_meaning": "payments made by the government or employers",
+    "plural_meaning_ko": "연금, 급여"
+  },
+  {
+    "word": "character",
+    "singular_meaning": "the mental and moral qualities of a person",
+    "singular_meaning_ko": "성격, 문자",
+    "plural_meaning": "people in a story or play",
+    "plural_meaning_ko": "등장인물"
+  },
+  {
+    "word": "compass",
+    "singular_meaning": "a device used for navigation",
+    "singular_meaning_ko": "나침반",
+    "plural_meaning": "the limits or scope of something",
+    "plural_meaning_ko": "한계, 범위"
+  },
+  {
+    "word": "content",
+    "singular_meaning": "the material in something",
+    "singular_meaning_ko": "내용",
+    "plural_meaning": "state of satisfaction",
+    "plural_meaning_ko": "만족"
+  },
+  {
+    "word": "craft",
+    "singular_meaning": "a skill in making things by hand",
+    "singular_meaning_ko": "기술",
+    "plural_meaning": "boats or aircraft",
+    "plural_meaning_ko": "선박, 비행기"
+  },
+  {
+    "word": "damage",
+    "singular_meaning": "physical harm",
+    "singular_meaning_ko": "손해",
+    "plural_meaning": "money paid for harm",
+    "plural_meaning_ko": "손해 배상금"
+  },
+  {
+    "word": "dollar",
+    "singular_meaning": "a unit of currency",
+    "singular_meaning_ko": "달러",
+    "plural_meaning": "funds or resources",
+    "plural_meaning_ko": "자금, 돈"
+  },
+  {
+    "word": "effect",
+    "singular_meaning": "a result or outcome",
+    "singular_meaning_ko": "효과",
+    "plural_meaning": "personal belongings",
+    "plural_meaning_ko": "소지품"
+  },
+  {
+    "word": "expense",
+    "singular_meaning": "the cost incurred",
+    "singular_meaning_ko": "비용",
+    "plural_meaning": "costs associated with an activity",
+    "plural_meaning_ko": "경비, 지출"
+  },
+  {
+    "word": "experience",
+    "singular_meaning": "practical contact with events",
+    "singular_meaning_ko": "경험",
+    "plural_meaning": "notable events or occurrences",
+    "plural_meaning_ko": "사건"
+  },
+  {
+    "word": "fund",
+    "singular_meaning": "a supply of money for a purpose",
+    "singular_meaning_ko": "기금",
+    "plural_meaning": "financial resources",
+    "plural_meaning_ko": "자금"
+  },
+  {
+    "word": "goodwill",
+    "singular_meaning": "friendly disposition",
+    "singular_meaning_ko": "호의",
+    "plural_meaning": "the intangible value of a business",
+    "plural_meaning_ko": "영업권"
+  },
+  {
+    "word": "ground",
+    "singular_meaning": "the solid surface of the Earth",
+    "singular_meaning_ko": "땅",
+    "plural_meaning": "reasons or justifications",
+    "plural_meaning_ko": "이유, 근거"
+  },
+  {
+    "word": "help",
+    "singular_meaning": "the act of assisting",
+    "singular_meaning_ko": "도움",
+    "plural_meaning": "assistants or helpers",
+    "plural_meaning_ko": "도우미"
+  },
+  {
+    "word": "humanity",
+    "singular_meaning": "benevolence or compassion",
+    "singular_meaning_ko": "인류애",
+    "plural_meaning": "the human race",
+    "plural_meaning_ko": "인류"
+  },
+  {
+    "word": "iron",
+    "singular_meaning": "a strong metal element",
+    "singular_meaning_ko": "철",
+    "plural_meaning": "metal shackles or restraints",
+    "plural_meaning_ko": "수갑"
+  },
+  {
+    "word": "light",
+    "singular_meaning": "visible energy",
+    "singular_meaning_ko": "빛",
+    "plural_meaning": "sources of illumination",
+    "plural_meaning_ko": "조명, 신호등"
+  },
+  {
+    "word": "linguistic",
+    "singular_meaning": "related to language",
+    "singular_meaning_ko": "언어학의",
+    "plural_meaning": "various language features",
+    "plural_meaning_ko": "언어적 특징들"
+  },
+  {
+    "word": "log",
+    "singular_meaning": "a cut portion of a tree",
+    "singular_meaning_ko": "통나무",
+    "plural_meaning": "written records",
+    "plural_meaning_ko": "기록"
+  },
+  {
+    "word": "look",
+    "singular_meaning": "the act of seeing",
+    "singular_meaning_ko": "보다",
+    "plural_meaning": "appearance or style",
+    "plural_meaning_ko": "외모"
+  },
+  {
+    "word": "luck",
+    "singular_meaning": "chance or fortune",
+    "singular_meaning_ko": "운",
+    "plural_meaning": "signs of good fortune",
+    "plural_meaning_ko": "행운의 징조"
+  },
+  {
+    "word": "minute",
+    "singular_meaning": "a unit of time",
+    "singular_meaning_ko": "분",
+    "plural_meaning": "written summary of a meeting",
+    "plural_meaning_ko": "회의록"
+  },
+  {
+    "word": "moral",
+    "singular_meaning": "a principle of right and wrong",
+    "singular_meaning_ko": "도덕",
+    "plural_meaning": "moral rules or lessons",
+    "plural_meaning_ko": "도덕률, 교훈"
+  },
+  {
+    "word": "number",
+    "singular_meaning": "a mathematical value",
+    "singular_meaning_ko": "숫자",
+    "plural_meaning": "a large quantity",
+    "plural_meaning_ko": "숫자들, 다수"
+  },
+  {
+    "word": "part",
+    "singular_meaning": "a portion of something",
+    "singular_meaning_ko": "부분",
+    "plural_meaning": "roles or mechanical pieces",
+    "plural_meaning_ko": "부품, 역할"
+  },
+  {
+    "word": "pass",
+    "singular_meaning": "a document for access",
+    "singular_meaning_ko": "통행권",
+    "plural_meaning": "routes through mountains",
+    "plural_meaning_ko": "산길, 고개"
+  },
+  {
+    "word": "people",
+    "singular_meaning": "a person (non-standard or poetic)",
+    "singular_meaning_ko": "사람",
+    "plural_meaning": "nations or ethnic groups",
+    "plural_meaning_ko": "민족"
+  },
+  {
+    "word": "physic",
+    "singular_meaning": "a medicine",
+    "singular_meaning_ko": "약",
+    "plural_meaning": "the science of physics",
+    "plural_meaning_ko": "물리학"
+  },
+  {
+    "word": "power",
+    "singular_meaning": "the ability to control",
+    "singular_meaning_ko": "힘",
+    "plural_meaning": "those in authority",
+    "plural_meaning_ko": "권력자들"
+  },
+  {
+    "word": "practice",
+    "singular_meaning": "repetition to improve skill",
+    "singular_meaning_ko": "연습",
+    "plural_meaning": "customary actions",
+    "plural_meaning_ko": "관행, 관습"
+  },
+  {
+    "word": "premise",
+    "singular_meaning": "a proposition",
+    "singular_meaning_ko": "전제",
+    "plural_meaning": "land and buildings",
+    "plural_meaning_ko": "부지, 건물"
+  },
+  {
+    "word": "quarter",
+    "singular_meaning": "one fourth",
+    "singular_meaning_ko": "1/4",
+    "plural_meaning": "areas or lodgings",
+    "plural_meaning_ko": "지역, 구역, 숙소"
+  },
+  {
+    "word": "respect",
+    "singular_meaning": "admiration for someone",
+    "singular_meaning_ko": "존경",
+    "plural_meaning": "expressions of admiration",
+    "plural_meaning_ko": "존경의 표현"
+  },
+  {
+    "word": "rich",
+    "singular_meaning": "having wealth",
+    "singular_meaning_ko": "부유한",
+    "plural_meaning": "wealthy individuals",
+    "plural_meaning_ko": "부유한 사람들"
+  },
+  {
+    "word": "saving",
+    "singular_meaning": "the act of reducing expenses",
+    "singular_meaning_ko": "절약",
+    "plural_meaning": "money kept aside",
+    "plural_meaning_ko": "저축"
+  },
+  {
+    "word": "spirit",
+    "singular_meaning": "the soul or essence",
+    "singular_meaning_ko": "영혼, 정신",
+    "plural_meaning": "mood or alcoholic drinks",
+    "plural_meaning_ko": "기분, 주류"
+  },
+  {
+    "word": "stone",
+    "singular_meaning": "a small rock",
+    "singular_meaning_ko": "돌",
+    "plural_meaning": "precious gems",
+    "plural_meaning_ko": "보석"
+  },
+  {
+    "word": "term",
+    "singular_meaning": "a word or phrase",
+    "singular_meaning_ko": "용어",
+    "plural_meaning": "conditions or stipulations",
+    "plural_meaning_ko": "조건"
+  },
+  {
+    "word": "treat",
+    "singular_meaning": "an act of giving pleasure",
+    "singular_meaning_ko": "대접",
+    "plural_meaning": "negotiations or agreements",
+    "plural_meaning_ko": "협상"
+  },
+
+  {
+    "word": "arm",
+    "singular_meaning": "a limb of the human body",
+    "singular_meaning_ko": "팔",
+    "plural_meaning": "weapons and armaments",
+    "plural_meaning_ko": "무기"
+  },
+  {
+    "word": "sand",
+    "singular_meaning": "a granular material typically found on beaches or deserts",
+    "singular_meaning_ko": "모래",
+    "plural_meaning": "stretches of sandy land or desert",
+    "plural_meaning_ko": "모래사장"
+  },
+  {
+    "word": "wood",
+    "singular_meaning": "material from trees used for building or burning",
+    "singular_meaning_ko": "나무, 목재",
+    "plural_meaning": "a forested area",
+    "plural_meaning_ko": "숲"
+  },
+  {
+    "word": "water",
+    "singular_meaning": "a liquid essential for life",
+    "singular_meaning_ko": "물",
+    "plural_meaning": "bodies of water such as seas or oceans",
+    "plural_meaning_ko": "바다, 해역"
+  },
+  {
+    "word": "mean",
+    "singular_meaning": "a method or course of action",
+    "singular_meaning_ko": "방법, 수단",
+    "plural_meaning": "financial resources or income",
+    "plural_meaning_ko": "재산, 수입"
+  },
+  {
+    "word": "head",
+    "singular_meaning": "the upper part of the human body",
+    "singular_meaning_ko": "머리",
+    "plural_meaning": "leaders or chiefs",
+    "plural_meaning_ko": "두목, 수장들"
+  },
+  {
+    "word": "fruit",
+    "singular_meaning": "the sweet and edible product of a tree or plant",
+    "singular_meaning_ko": "과일",
+    "plural_meaning": "results or outcomes, especially of labor",
+    "plural_meaning_ko": "성과, 결과"
+  },
+  {
+    "word": "cloth",
+    "singular_meaning": "a piece of fabric or textile",
+    "singular_meaning_ko": "천, 직물",
+    "plural_meaning": "garments or clothing",
+    "plural_meaning_ko": "옷, 의류"
+  },
+  {
+    "word": "spectacle",
+    "singular_meaning": "a visually striking performance or display",
+    "singular_meaning_ko": "구경거리, 장관",
+    "plural_meaning": "eyeglasses",
+    "plural_meaning_ko": "안경"
+  },
+  {
+    "word": "rite",
+    "singular_meaning": "a ceremonial act or procedure",
+    "singular_meaning_ko": "의식, 의례",
+    "plural_meaning": "rituals or traditional customs",
+    "plural_meaning_ko": "의식 절차, 관습"
+  },
+  {
+    "word": "advice",
+    "singular_meaning": "guidance or recommendations",
+    "singular_meaning_ko": "조언",
+    "plural_meaning": "formal notifications or notices",
+    "plural_meaning_ko": "고지, 통지서"
+  }
+]
